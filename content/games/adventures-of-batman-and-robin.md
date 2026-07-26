@@ -1,7 +1,7 @@
 ---
 title: "The Adventures of Batman & Robin"
 sortTitle: "Adventures of Batman & Robin"
-status: "upcoming"
+status: "playing"
 ---
 
-*Not played yet — write-up to follow.*
+*In progress — write-up to follow.*
