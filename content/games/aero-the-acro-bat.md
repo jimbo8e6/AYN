@@ -1,0 +1,35 @@
+---
+title: "Aero the Acro-Bat"
+sortTitle: "Aero the Acro-Bat"
+developer: "Iguana Entertainment"
+publisher: "Sunsoft"
+released: "1993"
+region: "NA and PAL"
+players: "1 player"
+genre: ["Platformer", "Mascot"]
+status: "playing"
+playedOn: "SNES, original hardware"
+excerpt: "A circus-themed mascot platformer from the exact centre of the attitude era — currently in progress."
+---
+
+## The Game
+
+*In progress — notes below, write-up to follow.*
+
+Every publisher wanted a mascot in 1993, and Sunsoft's answer was a bat in a
+circus. Aero drills through the air, rides rollercoasters, and fires himself out
+of cannons, and the whole thing is built around momentum in a way that most
+mascot platformers of the period were not.
+
+Early impressions: the level design asks for precision the physics do not
+reliably deliver. More once I have finished it.
+
+## The People
+
+Developed by **Iguana Entertainment** — the Texas studio later far better known
+for *NBA Jam* conversions and the *Turok* games — and published by **Sunsoft**,
+who by this point had a real pedigree on the NES.
+
+## The Press
+
+To follow.

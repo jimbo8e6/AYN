@@ -1,0 +1,179 @@
+# Super A-Z
+
+> Every Super Nintendo game. A to Z. No skipping.
+
+A blog for playing the entire SNES library in alphabetical order and writing up
+each game three ways: the game itself, the people who made it, and what the
+magazines of the time said about it.
+
+Built with Next.js (App Router) and Tailwind CSS. Write-ups are markdown files —
+no database, no CMS, no admin login. Add a file, push, and the page exists.
+
+---
+
+## Running it locally
+
+```bash
+npm install
+npm run dev
+```
+
+Then open http://localhost:3000.
+
+Other commands:
+
+| Command             | What it does                          |
+| ------------------- | ------------------------------------- |
+| `npm run build`     | Production build                      |
+| `npm start`         | Serve the production build            |
+| `npm run typecheck` | Type-check without building           |
+
+---
+
+## Adding a game
+
+Create a markdown file in `content/games/`. The filename becomes the URL, so
+`content/games/actraiser.md` is served at `/games/actraiser`.
+
+```markdown
+---
+title: "The Addams Family"
+sortTitle: "Addams Family, The"   # optional — controls A–Z position
+developer: "Ocean Software"
+publisher: "Ocean Software"
+released: "1992-04-16"            # or just "1992"
+region: "NA, PAL"
+players: "1 player"
+genre: ["Platformer", "Licensed"]
+status: "played"                  # played | playing | upcoming
+score: 6                          # out of 10, optional
+playedOn: "SNES, original hardware"
+excerpt: "One-line summary used on cards and in search results."
+verdict: "The closing paragraph, pulled out into its own box."
+magazineReviews:
+  - magazine: "Super Play"
+    issue: "Issue 4"
+    date: "February 1993"
+    score: "88%"
+    reviewer: "Reviewer name"
+    quote: "The quote, transcribed from your own copy."
+draft: false                      # true = visible in dev, hidden in production
+---
+
+## The Game
+
+Markdown body goes here. `##` headings become the yellow section rules.
+```
+
+Only `title` is genuinely required — everything else is optional and the page
+adapts to whatever is present.
+
+A few behaviours worth knowing:
+
+- **Sorting and letters.** Games file under the first letter of `sortTitle`
+  (falling back to `title`), and a leading "A", "An" or "The" is ignored. So
+  `sortTitle: "Addams Family, The"` puts it under **A**, where it belongs.
+- **`status`** drives the coloured badge: `played` (green), `playing` (yellow),
+  `upcoming` (purple). Only `played` entries count toward the progress bar.
+- **`draft: true`** shows the entry when running `npm run dev` but excludes it
+  from production builds — useful for work in progress.
+- **Prev/next links** on each game page follow alphabetical order automatically.
+
+---
+
+## Things to replace before going live
+
+The repo ships with placeholder content so the site is not empty. Swap these out:
+
+1. **Your email address** — `src/lib/site.ts`, the `email` field. Currently
+   `hello@example.com`.
+2. **The seed write-ups** — the four files in `content/games/` are sample
+   entries written to demonstrate the layout. The factual metadata (developer,
+   publisher, year) is accurate, but **the review quotes are explicit
+   placeholders**, not real quotes. Replace them with text transcribed from
+   your own copies of the magazines, and credit the issue each time. Do not
+   ship the placeholders.
+3. **`LIBRARY_TARGET`** — `src/lib/site.ts`. Set it to however many games your
+   version of "every SNES game" actually contains; it drives the progress
+   readout on the home page.
+
+---
+
+## Deploying to Vercel
+
+1. Push this repo to GitHub.
+2. At [vercel.com/new](https://vercel.com/new), import the repo. Vercel detects
+   Next.js and needs no configuration.
+3. Deploy. You get a free `something.vercel.app` URL.
+
+Every push to the default branch redeploys production; every pull request gets
+its own preview URL.
+
+> **Plan note:** Vercel's free Hobby tier excludes commercial use. Fine for a
+> personal blog; if the site starts carrying ads or sponsorship, that is a Pro
+> plan ($20/month).
+
+### Moving to a paid domain later
+
+The site is built so this is a settings change, not a code change.
+
+1. Buy the domain. An independent registrar (Cloudflare, Namecheap) is worth
+   preferring over buying through Vercel — same setup effort, but leaving
+   Vercel later stays easy.
+2. In Vercel: **Project → Settings → Domains → Add**, and enter the domain.
+3. Add the DNS records Vercel shows you at your registrar. Typically an `A`
+   record on the apex pointing at `76.76.21.21`, and a `CNAME` on `www`
+   pointing at `cname.vercel-dns.com`.
+4. Wait for DNS to resolve (usually minutes). HTTPS is issued automatically.
+5. In **Settings → Environment Variables**, set:
+
+   ```
+   NEXT_PUBLIC_SITE_URL = https://yourdomain.com
+   ```
+
+   Then redeploy.
+
+Step 5 is the only part that touches the app, and it exists because everything
+that needs an absolute URL — canonical tags, Open Graph metadata, the sitemap —
+reads from `siteConfig.url` in `src/lib/site.ts` rather than hardcoding a host.
+Set the variable and every one of them updates at once.
+
+The `.vercel.app` URL keeps working throughout, so there is no downtime window.
+Preview deployments are marked `noindex` automatically (see `src/app/robots.ts`),
+so only the real domain gets indexed.
+
+### Adding a working contact form
+
+The contact page currently uses a `mailto:` link, which needs no backend. If you
+later want a real form, [Formspree](https://formspree.io) or a Next.js server
+action wired to [Resend](https://resend.com) both drop in cleanly. Sending mail
+*from* your own domain additionally needs SPF and DKIM records set up with the
+mail provider — unrelated to the Vercel domain step above.
+
+---
+
+## Project layout
+
+```
+content/games/          Write-ups, one markdown file per game
+src/app/                Routes: /, /games, /games/[slug], /contact
+src/components/         Header, hamburger menu, cards, review cards
+src/lib/games.ts        Reads and parses content/games at build time
+src/lib/site.ts         Site name, tagline, email, nav, canonical URL
+src/app/globals.css     The SNES palette and all shared styling
+```
+
+### The palette
+
+Defined once in `src/app/globals.css` under `@theme`, drawn from two places: the
+greys and deep purple of the North American SNES console, and the red / yellow /
+blue / green of the Super Famicom face buttons, which are used as accents
+throughout. Change them there and the whole site follows.
+
+---
+
+## Legal
+
+Not affiliated with Nintendo. Game titles, box art and magazine content belong to
+their respective owners and are referenced for the purposes of review and
+criticism.
