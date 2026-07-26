@@ -8,7 +8,6 @@ region: "NA and PAL"
 players: "1 player"
 genre: ["Platformer", "Mascot"]
 status: "playing"
-playedOn: "SNES, original hardware"
 excerpt: "A circus-themed mascot platformer from the exact centre of the attitude era — currently in progress."
 ---
 

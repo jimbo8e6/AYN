@@ -9,7 +9,6 @@ players: "1 player"
 genre: ["Action", "Simulation"]
 status: "played"
 score: 9
-playedOn: "Super Famicom, original hardware"
 excerpt: "A side-scrolling action game bolted to a god sim, released weeks after the console itself — and still one of the strangest, most confident things on the system."
 verdict: "Two half-games that have no business working together, held up by one of the best soundtracks of the era. The action stages are stiff by modern standards and the sim half is thin once you understand it, but nothing else on the console does what this does, and almost nothing on the console sounds this good."
 magazineReviews:

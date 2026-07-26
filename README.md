@@ -47,7 +47,6 @@ players: "1 player"
 genre: ["Platformer", "Licensed"]
 status: "played"                  # played | playing | upcoming
 score: 6                          # out of 10, optional
-playedOn: "SNES, original hardware"
 excerpt: "One-line summary used on cards and in search results."
 verdict: "The closing paragraph, pulled out into its own box."
 magazineReviews:

@@ -7,7 +7,6 @@ released: "1996"
 region: "PAL only"
 genre: ["Sports", "Football"]
 status: "played"
-playedOn: "SNES, original hardware"
 excerpt: "Namco's Japan-only Prime Goal football series, reworked for Europe and released in 1996 — years after most of the world had stopped making SNES games at all."
 ---
 

@@ -7,7 +7,6 @@ released: "1994"
 region: "North America"
 genre: ["Platformer", "Licensed"]
 status: "played"
-playedOn: "SNES, original hardware"
 excerpt: "A tie-in to the 1994 film, in which you swap between three ninja brothers across side-scrolling stages — and, more interestingly, one of Sony's last acts as a publisher on Nintendo hardware."
 ---
 

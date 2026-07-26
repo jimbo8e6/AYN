@@ -57,7 +57,6 @@ export default async function GamePage({ params }: PageProps) {
     { label: "Region", value: game.region },
     { label: "Players", value: game.players },
     { label: "Genre", value: game.genre.join(", ") || undefined },
-    { label: "Played on", value: game.playedOn },
   ].filter((fact): fact is { label: string; value: string } =>
     Boolean(fact.value),
   );

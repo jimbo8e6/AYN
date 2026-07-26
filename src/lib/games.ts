@@ -29,7 +29,6 @@ export type GameMeta = {
   score?: number;
   verdict?: string;
   excerpt?: string;
-  playedOn?: string;
   magazineReviews: MagazineReview[];
   draft: boolean;
 };
@@ -114,7 +113,6 @@ function parseGame(fileName: string): Game {
     score: typeof data.score === "number" ? data.score : undefined,
     verdict: data.verdict ? String(data.verdict) : undefined,
     excerpt: data.excerpt ? String(data.excerpt) : undefined,
-    playedOn: data.playedOn ? String(data.playedOn) : undefined,
     magazineReviews: asReviews(data.magazineReviews),
     draft: data.draft === true,
     content,

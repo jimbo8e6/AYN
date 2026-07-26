@@ -9,7 +9,6 @@ players: "1 player"
 genre: ["RPG"]
 status: "played"
 score: 6
-playedOn: "SNES, original hardware"
 excerpt: "An RPG that treats you as one of seven rivals rather than the hero, and is famously, punishingly indifferent to whether you enjoy it."
 verdict: "A fascinating structure wrapped around a brutally unbalanced game. The idea of six rivals hunting the same runes while you do, turning up as bosses when you least want them, is genuinely ahead of its time. The difficulty is not so much a curve as a wall, and the North American version made it worse. Admire it, but go in knowing what you are signing up for."
 magazineReviews:

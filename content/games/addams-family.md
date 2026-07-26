@@ -9,7 +9,6 @@ players: "1 player"
 genre: ["Platformer", "Licensed"]
 status: "played"
 score: 6
-playedOn: "SNES, original hardware"
 excerpt: "A licensed platformer from Ocean that is far better than it had any commercial need to be — a sprawling mansion, no map, and a difficulty curve with no interest in your feelings."
 verdict: "Genuinely well-built, genuinely unfair. The mansion is a proper interconnected space rather than a stage select, which was ambitious for a film tie-in, but the limited lives and total absence of a map turn exploration into bookkeeping. Worth your time if you have patience; frustrating if you do not."
 magazineReviews:
