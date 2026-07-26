@@ -3,17 +3,17 @@ import HamburgerMenu from "./HamburgerMenu";
 
 export default function SiteHeader() {
   return (
-    <header className="sticky top-0 z-50 border-b-2 border-edge bg-deep/90 backdrop-blur-md">
-      <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-5 py-3.5">
+    <header className="sticky top-0 z-50 border-b border-line bg-shell/95 backdrop-blur-sm">
+      <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-6 py-4">
         <Link
           href="/"
-          className="group flex items-baseline gap-2 font-display text-ink"
+          className="group flex items-baseline gap-2"
           aria-label="Super A-Z, home"
         >
-          <span className="text-[0.6875rem] text-console-dim transition-colors group-hover:text-console sm:text-xs">
-            SUPER
+          <span className="text-lg font-light tracking-tight text-muted transition-colors group-hover:text-ink">
+            Super
           </span>
-          <span className="text-base text-purple-bright transition-colors group-hover:text-btn-b sm:text-lg">
+          <span className="text-lg font-semibold tracking-tight text-ink">
             A&#8211;Z
           </span>
         </Link>

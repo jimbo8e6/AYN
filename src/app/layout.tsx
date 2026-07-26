@@ -1,20 +1,19 @@
 import type { Metadata } from "next";
-import { Inter, Press_Start_2P } from "next/font/google";
+import { Inter, Source_Serif_4 } from "next/font/google";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { siteConfig } from "@/lib/site";
 import "./globals.css";
 
-const sans = Inter({
+const inter = Inter({
   subsets: ["latin"],
-  variable: "--font-sans",
+  variable: "--font-inter",
   display: "swap",
 });
 
-const pixel = Press_Start_2P({
+const sourceSerif = Source_Serif_4({
   subsets: ["latin"],
-  weight: "400",
-  variable: "--font-pixel",
+  variable: "--font-source-serif",
   display: "swap",
 });
 
@@ -46,11 +45,14 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en-GB" className={`${sans.variable} ${pixel.variable}`}>
+    <html
+      lang="en-GB"
+      className={`${inter.variable} ${sourceSerif.variable}`}
+    >
       <body className="flex min-h-screen flex-col">
         <a
           href="#main"
-          className="sr-only focus:not-sr-only focus:absolute focus:top-3 focus:left-3 focus:z-[60] focus:bg-btn-b focus:px-4 focus:py-2 focus:font-display focus:text-[0.625rem] focus:text-void"
+          className="sr-only focus:not-sr-only focus:absolute focus:top-3 focus:left-3 focus:z-[60] focus:bg-ink focus:px-4 focus:py-2 focus:text-sm focus:text-surface"
         >
           Skip to content
         </a>

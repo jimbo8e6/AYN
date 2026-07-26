@@ -1,7 +1,7 @@
 import type { MagazineReview } from "@/lib/games";
 
-/** Accents cycle through the Super Famicom button colours. */
-const ACCENTS = ["bg-btn-a", "bg-btn-b", "bg-btn-x", "bg-btn-y"];
+/** Accents cycle through the four controller-button colours. */
+const ACCENTS = ["bg-btn-red", "bg-btn-yellow", "bg-btn-blue", "bg-btn-green"];
 
 export default function MagazineReviews({
   reviews,
@@ -11,49 +11,49 @@ export default function MagazineReviews({
   if (reviews.length === 0) return null;
 
   return (
-    <section className="mt-14">
-      <h2 className="font-display text-[0.9375rem] text-btn-b uppercase">
+    <section className="mt-16">
+      <h2 className="rule-heading border-b border-line pb-4">
         What the press said
       </h2>
-      <p className="mt-3 text-sm text-ink-faint">
+      <p className="mt-4 text-sm text-muted">
         Contemporary reviews, quoted from the magazines of the day.
       </p>
 
-      <ul className="mt-6 grid gap-4 sm:grid-cols-2">
+      <ul className="mt-8 grid gap-5 sm:grid-cols-2">
         {reviews.map((review, index) => (
           <li
             key={`${review.magazine}-${review.issue ?? index}`}
-            className="pixel-frame-thin flex flex-col bg-panel [--pixel-color:var(--color-edge)]"
+            className="flex flex-col border border-line bg-surface"
           >
             <span
               aria-hidden="true"
-              className={`h-1.5 w-full ${ACCENTS[index % ACCENTS.length]}`}
+              className={`h-[3px] w-full ${ACCENTS[index % ACCENTS.length]}`}
             />
 
-            <div className="flex flex-1 flex-col gap-3 p-5">
+            <div className="flex flex-1 flex-col gap-4 p-6">
               <div className="flex items-start justify-between gap-4">
                 <div>
-                  <p className="font-display text-[0.6875rem] leading-relaxed text-ink">
+                  <p className="text-base font-semibold tracking-tight text-ink">
                     {review.magazine}
                   </p>
-                  <p className="mt-1.5 text-xs text-ink-faint">
+                  <p className="mt-1 text-xs tracking-wide text-muted uppercase">
                     {[review.issue, review.date].filter(Boolean).join(" · ")}
                   </p>
                 </div>
 
                 {review.score && (
-                  <span className="shrink-0 bg-panel-raised px-2.5 py-1.5 font-display text-xs text-btn-b">
+                  <span className="shrink-0 border border-line px-3 py-1.5 text-sm font-semibold text-ink">
                     {review.score}
                   </span>
                 )}
               </div>
 
               {review.quote && (
-                <blockquote className="mt-auto border-l-2 border-purple pl-3 text-sm leading-relaxed text-ink-dim italic">
+                <blockquote className="mt-auto font-serif text-[1.0625rem] leading-relaxed text-body italic">
                   &ldquo;{review.quote}&rdquo;
                   {review.reviewer && (
-                    <footer className="mt-2 text-xs text-ink-faint not-italic">
-                      &mdash; {review.reviewer}
+                    <footer className="mt-3 font-sans text-xs tracking-wide text-muted uppercase not-italic">
+                      {review.reviewer}
                     </footer>
                   )}
                 </blockquote>

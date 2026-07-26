@@ -2,8 +2,8 @@ import { ALPHABET } from "@/lib/games";
 
 /**
  * The A–Z strip on the games index. Letters with write-ups behind them are
- * lit and jump to that section; the rest sit dim as a visible measure of how
- * much of the alphabet is still to go.
+ * live and jump to that section; the rest sit faint as a visible measure of
+ * how much of the alphabet is still to go.
  */
 export default function AlphabetNav({
   activeLetters,
@@ -15,9 +15,9 @@ export default function AlphabetNav({
   return (
     <nav
       aria-label="Jump to letter"
-      className="sticky top-[4.625rem] z-30 -mx-5 border-y-2 border-edge bg-deep/95 px-5 py-3 backdrop-blur-md"
+      className="sticky top-[4.5rem] z-30 border-y border-line bg-shell/95 py-3 backdrop-blur-sm"
     >
-      <ul className="flex flex-wrap justify-center gap-1">
+      <ul className="flex flex-wrap justify-center gap-x-1 gap-y-1">
         {ALPHABET.map((letter) => {
           const enabled = active.has(letter);
 
@@ -26,14 +26,14 @@ export default function AlphabetNav({
               {enabled ? (
                 <a
                   href={`#letter-${letter}`}
-                  className="flex h-7 w-7 items-center justify-center bg-purple/25 font-display text-[0.625rem] text-purple-bright transition-colors hover:bg-btn-b hover:text-void"
+                  className="flex h-8 w-8 items-center justify-center text-sm font-semibold text-ink transition-colors hover:bg-ink hover:text-surface"
                 >
                   {letter}
                 </a>
               ) : (
                 <span
                   aria-hidden="true"
-                  className="flex h-7 w-7 items-center justify-center font-display text-[0.625rem] text-ink-faint/40"
+                  className="flex h-8 w-8 items-center justify-center text-sm font-light text-line"
                 >
                   {letter}
                 </span>

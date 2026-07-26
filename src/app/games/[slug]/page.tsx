@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import AccentRule from "@/components/AccentRule";
 import MagazineReviews from "@/components/MagazineReviews";
 import StatusBadge from "@/components/StatusBadge";
 import { formatReleased, getAllGames, getGame } from "@/lib/games";
@@ -62,34 +63,35 @@ export default async function GamePage({ params }: PageProps) {
   );
 
   return (
-    <article className="mx-auto max-w-3xl px-5 pb-16">
-      <nav className="pt-8" aria-label="Breadcrumb">
+    <article className="mx-auto max-w-3xl px-6 pb-20">
+      <nav className="pt-10" aria-label="Breadcrumb">
         <Link
           href="/games"
-          className="font-display text-[0.625rem] text-ink-faint uppercase transition-colors hover:text-btn-b"
+          className="text-sm text-muted underline underline-offset-4 transition-colors hover:text-ink"
         >
-          &lt; All games
+          All games
         </Link>
       </nav>
 
       {/* Title block ------------------------------------------------ */}
-      <header className="mt-8 border-b-2 border-edge pb-10">
+      <header className="mt-10 border-b border-line pb-12">
         <div className="flex items-center gap-4">
           <span
             aria-hidden="true"
-            className="flex h-12 w-12 shrink-0 items-center justify-center bg-purple font-display text-lg text-ink"
+            className="text-sm font-semibold tracking-[0.12em] text-muted uppercase"
           >
             {game.letter}
           </span>
+          <span aria-hidden="true" className="h-px w-6 bg-line" />
           <StatusBadge status={game.status} />
         </div>
 
-        <h1 className="mt-6 font-display text-xl leading-relaxed text-ink sm:text-2xl">
-          {game.title}
-        </h1>
+        <h1 className="display mt-7 text-4xl sm:text-5xl">{game.title}</h1>
+
+        <AccentRule className="mt-8" width="w-28" />
 
         {game.excerpt && (
-          <p className="mt-6 text-lg leading-relaxed text-ink-dim">
+          <p className="mt-8 font-serif text-xl leading-relaxed text-body">
             {game.excerpt}
           </p>
         )}
@@ -97,16 +99,13 @@ export default async function GamePage({ params }: PageProps) {
 
       {/* Spec sheet ------------------------------------------------- */}
       {facts.length > 0 && (
-        <dl className="mt-10 grid gap-x-8 gap-y-4 sm:grid-cols-2">
+        <dl className="mt-12 grid gap-x-10 gap-y-6 border-b border-line pb-12 sm:grid-cols-2">
           {facts.map((fact) => (
-            <div
-              key={fact.label}
-              className="border-l-2 border-purple pl-4"
-            >
-              <dt className="font-display text-[0.5625rem] text-ink-faint uppercase">
+            <div key={fact.label}>
+              <dt className="text-[0.6875rem] font-semibold tracking-[0.14em] text-muted uppercase">
                 {fact.label}
               </dt>
-              <dd className="mt-2 text-sm text-ink">{fact.value}</dd>
+              <dd className="mt-2 text-ink">{fact.value}</dd>
             </div>
           ))}
         </dl>
@@ -119,21 +118,24 @@ export default async function GamePage({ params }: PageProps) {
 
       {/* Verdict ---------------------------------------------------- */}
       {(game.verdict || typeof game.score === "number") && (
-        <section className="pixel-frame mt-14 bg-panel p-7 [--pixel-color:var(--color-btn-b)]">
-          <div className="flex flex-wrap items-start justify-between gap-5">
-            <h2 className="font-display text-xs text-btn-b uppercase">
-              The verdict
-            </h2>
-            {typeof game.score === "number" && (
-              <p className="font-display text-2xl text-ink">
-                {game.score}
-                <span className="text-sm text-ink-faint">/10</span>
+        <section className="mt-16 border border-line bg-surface">
+          <AccentRule width="w-full" />
+          <div className="p-8">
+            <div className="flex flex-wrap items-baseline justify-between gap-5">
+              <h2 className="rule-heading">The verdict</h2>
+              {typeof game.score === "number" && (
+                <p className="text-4xl font-light tracking-tight text-ink">
+                  {game.score}
+                  <span className="text-xl text-muted">/10</span>
+                </p>
+              )}
+            </div>
+            {game.verdict && (
+              <p className="mt-6 font-serif text-lg leading-relaxed text-body">
+                {game.verdict}
               </p>
             )}
           </div>
-          {game.verdict && (
-            <p className="mt-5 leading-relaxed text-ink-dim">{game.verdict}</p>
-          )}
         </section>
       )}
 
@@ -143,17 +145,17 @@ export default async function GamePage({ params }: PageProps) {
       {(previous || next) && (
         <nav
           aria-label="Alphabetical navigation"
-          className="mt-16 grid gap-4 border-t-2 border-edge pt-8 sm:grid-cols-2"
+          className="mt-20 grid gap-6 border-t border-line pt-10 sm:grid-cols-2"
         >
           {previous ? (
             <Link
               href={`/games/${previous.slug}`}
-              className="pixel-frame-thin bg-panel p-5 transition-colors hover:bg-panel-raised [--pixel-color:var(--color-edge)] hover:[--pixel-color:var(--color-purple-bright)]"
+              className="group border border-line bg-surface p-6 transition-shadow hover:shadow-lg"
             >
-              <span className="font-display text-[0.5625rem] text-ink-faint uppercase">
-                &lt; Previous
+              <span className="text-[0.6875rem] font-semibold tracking-[0.14em] text-muted uppercase">
+                Previous
               </span>
-              <span className="mt-3 block font-display text-[0.6875rem] leading-relaxed text-ink">
+              <span className="mt-3 block text-lg tracking-tight text-ink">
                 {previous.title}
               </span>
             </Link>
@@ -164,12 +166,12 @@ export default async function GamePage({ params }: PageProps) {
           {next && (
             <Link
               href={`/games/${next.slug}`}
-              className="pixel-frame-thin bg-panel p-5 text-right transition-colors hover:bg-panel-raised [--pixel-color:var(--color-edge)] hover:[--pixel-color:var(--color-purple-bright)]"
+              className="group border border-line bg-surface p-6 text-right transition-shadow hover:shadow-lg"
             >
-              <span className="font-display text-[0.5625rem] text-ink-faint uppercase">
-                Next &gt;
+              <span className="text-[0.6875rem] font-semibold tracking-[0.14em] text-muted uppercase">
+                Next
               </span>
-              <span className="mt-3 block font-display text-[0.6875rem] leading-relaxed text-ink">
+              <span className="mt-3 block text-lg tracking-tight text-ink">
                 {next.title}
               </span>
             </Link>

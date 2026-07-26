@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import AccentRule from "@/components/AccentRule";
 import AlphabetNav from "@/components/AlphabetNav";
 import GameCard from "@/components/GameCard";
 import { getAllGames, getGamesByLetter } from "@/lib/games";
@@ -15,15 +16,18 @@ export default function GamesPage() {
   const activeLetters = groups.map((group) => group.letter);
 
   return (
-    <div className="mx-auto max-w-5xl px-5 pb-16">
-      <header className="py-14">
-        <h1 className="font-display text-2xl text-ink sm:text-3xl">Games</h1>
-        <p className="mt-5 max-w-2xl leading-relaxed text-ink-dim">
+    <div className="pb-20">
+      <header className="mx-auto max-w-5xl px-6 pt-20 pb-14">
+        <p className="eyebrow">The library</p>
+        <h1 className="display mt-6 text-5xl sm:text-6xl">Games</h1>
+        <AccentRule className="mt-8" width="w-32" />
+        <p className="mt-8 max-w-2xl font-serif text-xl leading-relaxed text-body">
           Everything played and written up so far, in the only order that
-          matters. {total === 0 ? "Nothing here yet." : null}
+          matters.
+          {total === 0 ? " Nothing here yet." : null}
         </p>
         {total > 0 && (
-          <p className="mt-4 font-display text-[0.625rem] text-purple-bright uppercase">
+          <p className="mt-6 text-sm text-muted">
             {total} {total === 1 ? "entry" : "entries"}
           </p>
         )}
@@ -32,32 +36,29 @@ export default function GamesPage() {
       <AlphabetNav activeLetters={activeLetters} />
 
       {groups.length === 0 ? (
-        <p className="py-20 text-center text-ink-dim">
+        <p className="mx-auto max-w-5xl px-6 py-24 text-center font-serif text-lg text-body">
           The first write-up is on its way. Check back shortly.
         </p>
       ) : (
-        <div className="mt-12 flex flex-col gap-16">
+        <div className="mx-auto mt-16 flex max-w-5xl flex-col gap-20 px-6">
           {groups.map((group) => (
             <section key={group.letter} id={`letter-${group.letter}`}>
-              <div className="flex items-center gap-4">
+              <div className="flex items-baseline gap-5 border-b border-line pb-4">
                 <h2
                   aria-label={`Games beginning with ${group.letter}`}
-                  className="flex h-12 w-12 shrink-0 items-center justify-center bg-purple font-display text-lg text-ink"
+                  className="text-5xl font-light tracking-tight text-ink"
                 >
                   {group.letter}
                 </h2>
-                <span
-                  aria-hidden="true"
-                  className="h-0.5 flex-1 bg-edge"
-                />
-                <span className="font-display text-[0.5625rem] text-ink-faint uppercase">
-                  {group.games.length}
+                <span className="text-sm text-muted">
+                  {group.games.length}{" "}
+                  {group.games.length === 1 ? "entry" : "entries"}
                 </span>
               </div>
 
-              <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-                {group.games.map((game) => (
-                  <GameCard key={game.slug} game={game} />
+              <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                {group.games.map((game, index) => (
+                  <GameCard key={game.slug} game={game} index={index} />
                 ))}
               </div>
             </section>

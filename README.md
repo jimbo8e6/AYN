@@ -163,12 +163,25 @@ src/lib/site.ts         Site name, tagline, email, nav, canonical URL
 src/app/globals.css     The SNES palette and all shared styling
 ```
 
-### The palette
+### The look
 
-Defined once in `src/app/globals.css` under `@theme`, drawn from two places: the
-greys and deep purple of the North American SNES console, and the red / yellow /
-blue / green of the Super Famicom face buttons, which are used as accents
-throughout. Change them there and the whole site follows.
+The console, not the screen: light grey plastic for surfaces, near black for
+type, and the four controller-button colours — red, yellow, blue, green — used
+sparingly as accents. The recurring four-segment colour rule is
+`src/components/AccentRule.tsx`.
+
+Everything is defined once in `src/app/globals.css` under `@theme`. Change the
+values there and the whole site follows.
+
+Two notes if you edit the palette:
+
+- Each accent has a **deep** variant (`--color-red-deep` and so on) that is dark
+  enough to pass contrast as small text on a light background. Use the vivid
+  version for rules and fills, the deep version for type. Yellow especially —
+  `--color-btn-yellow` is a fill colour only and should never be small text.
+- Headings are set in Inter Light, and the long-form article body is set in
+  Source Serif 4 so the write-ups read like the magazines they are about. The
+  `.article` block in `globals.css` styles all rendered markdown.
 
 ---
 
