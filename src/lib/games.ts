@@ -67,12 +67,26 @@ function asReviews(value: unknown): MagazineReview[] {
 
 /**
  * The letter a game files under. Leading articles are ignored ("The Addams
- * Family" files under A) and anything not starting with a letter lands in "#".
+ * Family" files under A) and anything not starting with a letter — numbers,
+ * mostly — lands in "#", which sorts ahead of A.
  */
 export function letterFor(sortTitle: string): string {
   const stripped = sortTitle.replace(/^(a|an|the)\s+/i, "").trim();
   const first = stripped.charAt(0).toUpperCase();
   return /[A-Z]/.test(first) ? first : "#";
+}
+
+/**
+ * A URL-safe anchor for a letter section. "#" cannot go in a fragment as-is,
+ * so the numeric bucket gets its own slug.
+ */
+export function letterAnchor(letter: string): string {
+  return letter === "#" ? "letter-num" : `letter-${letter}`;
+}
+
+/** Human-readable name for a bucket, for screen readers. */
+export function letterLabel(letter: string): string {
+  return letter === "#" ? "a number" : letter;
 }
 
 function parseGame(fileName: string): Game {
@@ -123,8 +137,12 @@ export function getAllGames(): Game[] {
     .filter((file) => file.endsWith(".md"))
     .map(parseGame)
     .filter((game) => !game.draft || process.env.NODE_ENV === "development")
+    // numeric so "3 Ninjas" comes before "10-Yard Fight" rather than after it.
     .sort((a, b) =>
-      a.sortTitle.localeCompare(b.sortTitle, "en", { sensitivity: "base" }),
+      a.sortTitle.localeCompare(b.sortTitle, "en", {
+        sensitivity: "base",
+        numeric: true,
+      }),
     );
 
   cache = games;
@@ -149,10 +167,16 @@ export function getGamesByLetter(): LetterGroup[] {
 
   return [...buckets.entries()]
     .map(([letter, games]) => ({ letter, games }))
-    .sort((a, b) => a.letter.localeCompare(b.letter));
+    .sort(
+      (a, b) => INDEX_LETTERS.indexOf(a.letter) - INDEX_LETTERS.indexOf(b.letter),
+    );
 }
 
-export const ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+/**
+ * Every bucket the index can show, in display order. "#" leads, for games whose
+ * titles start with a number.
+ */
+export const INDEX_LETTERS = ["#", ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")];
 
 /** The most recently added write-ups, for the home page. */
 export function getLatestGames(count: number): Game[] {

@@ -2,7 +2,12 @@ import type { Metadata } from "next";
 import AccentRule from "@/components/AccentRule";
 import AlphabetNav from "@/components/AlphabetNav";
 import GameCard from "@/components/GameCard";
-import { getAllGames, getGamesByLetter } from "@/lib/games";
+import {
+  getAllGames,
+  getGamesByLetter,
+  letterAnchor,
+  letterLabel,
+} from "@/lib/games";
 
 export const metadata: Metadata = {
   title: "Games",
@@ -42,10 +47,10 @@ export default function GamesPage() {
       ) : (
         <div className="mx-auto mt-16 flex max-w-5xl flex-col gap-20 px-6">
           {groups.map((group) => (
-            <section key={group.letter} id={`letter-${group.letter}`}>
+            <section key={group.letter} id={letterAnchor(group.letter)}>
               <div className="flex items-baseline gap-5 border-b border-line pb-4">
                 <h2
-                  aria-label={`Games beginning with ${group.letter}`}
+                  aria-label={`Games beginning with ${letterLabel(group.letter)}`}
                   className="text-5xl font-light tracking-tight text-ink"
                 >
                   {group.letter}

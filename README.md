@@ -73,6 +73,10 @@ A few behaviours worth knowing:
 - **Sorting and letters.** Games file under the first letter of `sortTitle`
   (falling back to `title`), and a leading "A", "An" or "The" is ignored. So
   `sortTitle: "Addams Family, The"` puts it under **A**, where it belongs.
+- **Numbers file under `#`**, which leads the index ahead of A. Anything whose
+  title does not start with a letter lands there, and those titles sort
+  naturally — "3 Ninjas" before "10-Yard Fight", not after it. Set
+  `sortTitle: "7th Saga, The"` to put *The 7th Saga* in the `#` bucket.
 - **`status`** drives the coloured badge: `played` (green), `playing` (yellow),
   `upcoming` (purple). Only `played` entries count toward the progress bar.
 - **`draft: true`** shows the entry when running `npm run dev` but excludes it
