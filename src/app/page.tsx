@@ -4,24 +4,6 @@ import GameCard from "@/components/GameCard";
 import { countPlayed, getLatestGames } from "@/lib/games";
 import { LIBRARY_TARGET, siteConfig } from "@/lib/site";
 
-const PILLARS = [
-  {
-    label: "The Game",
-    bar: "bg-btn-red",
-    body: "Played properly, not sampled for ten minutes. How it controls, where it drags, what it was actually trying to do, and whether any of it still holds up on the other side of thirty years.",
-  },
-  {
-    label: "The People",
-    bar: "bg-btn-blue",
-    body: "Who built it, and what else they touched. The staff behind the tiny sprite scrolls — composers, directors, artists, and the studios that quietly made half the library before disappearing.",
-  },
-  {
-    label: "The Press",
-    bar: "bg-btn-green",
-    body: "What the magazines of the day made of it. Super Play, Nintendo Power, Mean Machines, EGM — the scores, the hype, and the reviews that read very differently with hindsight.",
-  },
-];
-
 export default function HomePage() {
   const latest = getLatestGames(3);
   const played = countPlayed();
@@ -56,7 +38,7 @@ export default function HomePage() {
               href="#the-goal"
               className="border border-line px-8 py-3.5 text-sm font-medium tracking-wide text-ink transition-colors hover:bg-shell-light"
             >
-              Read the plan
+              Read the goal
             </a>
           </div>
         </div>
@@ -168,37 +150,6 @@ export default function HomePage() {
               Comfortably within the margin of error of not having started.
             </p>
           </div>
-        </div>
-      </section>
-
-      {/* What each write-up covers ---------------------------------- */}
-      <section className="border-b border-line">
-        <div className="mx-auto max-w-5xl px-6 py-24">
-          <h2 className="rule-heading">Every entry, three ways</h2>
-          <AccentRule className="mt-4" />
-          <p className="mt-8 max-w-2xl font-serif text-lg leading-relaxed text-body">
-            Each game gets the same three passes, so the write-ups stay
-            comparable from A right through to Z.
-          </p>
-
-          <ul className="mt-12 grid gap-6 md:grid-cols-3">
-            {PILLARS.map((pillar) => (
-              <li
-                key={pillar.label}
-                className="flex flex-col border border-line bg-surface"
-              >
-                <span aria-hidden="true" className={`h-[3px] w-full ${pillar.bar}`} />
-                <div className="p-7">
-                  <h3 className="text-xl font-normal tracking-tight text-ink">
-                    {pillar.label}
-                  </h3>
-                  <p className="mt-4 font-serif leading-relaxed text-body">
-                    {pillar.body}
-                  </p>
-                </div>
-              </li>
-            ))}
-          </ul>
         </div>
       </section>
 
