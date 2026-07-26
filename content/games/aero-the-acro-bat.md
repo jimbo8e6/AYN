@@ -7,21 +7,18 @@ released: "1993"
 region: "NA and PAL"
 players: "1 player"
 genre: ["Platformer", "Mascot"]
-status: "playing"
-excerpt: "A circus-themed mascot platformer from the exact centre of the attitude era — currently in progress."
+status: "upcoming"
+excerpt: "A circus-themed mascot platformer from the exact centre of the attitude era."
 ---
 
 ## The Game
 
-*In progress — notes below, write-up to follow.*
+*Not played yet — write-up to follow.*
 
 Every publisher wanted a mascot in 1993, and Sunsoft's answer was a bat in a
 circus. Aero drills through the air, rides rollercoasters, and fires himself out
 of cannons, and the whole thing is built around momentum in a way that most
 mascot platformers of the period were not.
-
-Early impressions: the level design asks for precision the physics do not
-reliably deliver. More once I have finished it.
 
 ## The People
 

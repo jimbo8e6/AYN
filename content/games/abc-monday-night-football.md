@@ -1,7 +1,7 @@
 ---
 title: "ABC Monday Night Football"
 sortTitle: "ABC Monday Night Football"
-status: "upcoming"
+status: "played"
 ---
 
-*Not played yet — write-up to follow.*
+*Write-up to follow.*

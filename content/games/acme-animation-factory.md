@@ -1,7 +1,7 @@
 ---
 title: "ACME Animation Factory"
 sortTitle: "ACME Animation Factory"
-status: "upcoming"
+status: "played"
 ---
 
-*Not played yet — write-up to follow.*
+*Write-up to follow.*

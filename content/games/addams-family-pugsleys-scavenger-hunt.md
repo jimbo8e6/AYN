@@ -1,7 +1,7 @@
 ---
 title: "The Addams Family: Pugsley's Scavenger Hunt"
 sortTitle: "Addams Family Pugsley's Scavenger Hunt"
-status: "upcoming"
+status: "played"
 ---
 
-*Not played yet — write-up to follow.*
+*Write-up to follow.*

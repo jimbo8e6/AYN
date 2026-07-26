@@ -1,7 +1,7 @@
 ---
 title: "Aaahh!!! Real Monsters"
 sortTitle: "Aaahh!!! Real Monsters"
-status: "upcoming"
+status: "played"
 ---
 
-*Not played yet — write-up to follow.*
+*Write-up to follow.*

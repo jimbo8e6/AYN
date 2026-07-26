@@ -1,5 +1,5 @@
 ---
-title: "Adventures of Batman & Robin"
+title: "The Adventures of Batman & Robin"
 sortTitle: "Adventures of Batman & Robin"
 status: "upcoming"
 ---

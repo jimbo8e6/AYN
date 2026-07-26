@@ -1,7 +1,7 @@
 ---
 title: "A.S.P.: Air Strike Patrol"
 sortTitle: "A.S.P.: Air Strike Patrol"
-status: "upcoming"
+status: "played"
 ---
 
-*Not played yet — write-up to follow.*
+*Write-up to follow.*

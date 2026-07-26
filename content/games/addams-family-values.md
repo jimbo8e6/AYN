@@ -1,7 +1,7 @@
 ---
 title: "Addams Family Values"
 sortTitle: "Addams Family Values"
-status: "upcoming"
+status: "played"
 ---
 
-*Not played yet — write-up to follow.*
+*Write-up to follow.*

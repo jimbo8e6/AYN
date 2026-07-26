@@ -1,7 +1,7 @@
 ---
 title: "ActRaiser 2"
 sortTitle: "ActRaiser 2"
-status: "upcoming"
+status: "played"
 ---
 
-*Not played yet — write-up to follow.*
+*Write-up to follow.*
