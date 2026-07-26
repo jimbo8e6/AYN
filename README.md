@@ -96,9 +96,10 @@ The repo ships with placeholder content so the site is not empty. Swap these out
    placeholders**, not real quotes. Replace them with text transcribed from
    your own copies of the magazines, and credit the issue each time. Do not
    ship the placeholders.
-3. **`LIBRARY_TARGET`** — `src/lib/site.ts`. Set it to however many games your
-   version of "every SNES game" actually contains; it drives the progress
-   readout on the home page.
+3. **`LIBRARY_TARGET`** — `src/lib/site.ts`, currently `765`: the number of
+   games on the list, Western releases only, excluding Japan exclusives. It is
+   the denominator for the progress readout on the home page, so change it here
+   if the scope of the list ever moves.
 
 ---
 

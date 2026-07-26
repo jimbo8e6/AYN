@@ -103,14 +103,14 @@ export default function HomePage() {
               {played}
               <span className="text-2xl text-muted">
                 {" "}
-                / ~{LIBRARY_TARGET.toLocaleString("en-GB")}
+                / {LIBRARY_TARGET.toLocaleString("en-GB")}
               </span>
             </p>
 
             <div
               className="mt-6 h-2 w-full bg-shell-dark"
               role="img"
-              aria-label={`${played} of roughly ${LIBRARY_TARGET} games written up, ${percent} per cent complete`}
+              aria-label={`${played} of ${LIBRARY_TARGET} games written up, ${percent} per cent complete`}
             >
               <div
                 className="h-full bg-btn-green"

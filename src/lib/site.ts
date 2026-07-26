@@ -36,8 +36,8 @@ export const siteConfig = {
 } as const;
 
 /**
- * Rough size of the full SNES library. Used for the progress readout on the
- * home page — adjust to whatever scope you settle on (worldwide releases,
- * PAL only, licensed only, and so on).
+ * The size of the playthrough: every game on the list, Western releases only,
+ * excluding the Japan-exclusive titles that are out of scope. Drives the
+ * progress readout on the home page. One number to change if the list moves.
  */
-export const LIBRARY_TARGET = 1757;
+export const LIBRARY_TARGET = 765;
