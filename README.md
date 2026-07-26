@@ -154,6 +154,28 @@ redeploy.
 > personal blog; if the site starts carrying ads or sponsorship, that is a Pro
 > plan ($20/month).
 
+### Sharing the link before there is a domain
+
+Vercel gives a project several URLs, and they do not behave alike:
+
+| URL                                          | Public?                       |
+| -------------------------------------------- | ----------------------------- |
+| `super-a-z.vercel.app`                       | Yes — the production domain   |
+| `super-a-z-git-<branch>-<user>.vercel.app`   | No — protected by default     |
+| `super-a-z-<hash>-<user>.vercel.app`         | No — protected by default     |
+
+The dashboard's **Visit** button and the links in the Deployments list point at
+the branch and hash URLs, so the link that is easiest to copy is the one nobody
+else can open — they get sent to a Vercel login instead. Take the short URL from
+**Project → Domains** instead.
+
+If even that one asks for a login, protection is set wider than the default:
+**Settings → Deployment Protection → Vercel Authentication**. "Standard
+Protection" exempts the production domain; "All Deployments" does not.
+
+This stops mattering once a custom domain is attached — that domain is public
+under the default settings.
+
 ### Moving to a paid domain later
 
 The site is built so this is a settings change, not a code change.
