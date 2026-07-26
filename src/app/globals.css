@@ -222,6 +222,23 @@ body {
   color: var(--color-muted);
 }
 
+/* Several images in one block become a grid — screenshots, mostly. Two up on a
+   wide screen, one up on a phone, rather than a very long single column. */
+.article p:has(> img + img) {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 0.75rem;
+  align-items: start;
+}
+
+.article p:has(> img + img) > img {
+  max-width: 100%;
+  width: 100%;
+  /* SNES output is 256x224, so screenshots are pixel art — keep them crisp
+     rather than letting the browser smooth them when they scale. */
+  image-rendering: pixelated;
+}
+
 .article table {
   width: 100%;
   border-collapse: collapse;

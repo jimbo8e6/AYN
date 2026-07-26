@@ -50,3 +50,7 @@ To be filled in from contemporary magazines. A 1996 PAL release means the UK
 magazines are the only ones that covered it — and by then most of them had
 moved on, so coverage may be thin or non-existent. If nothing turns up, that
 absence is itself worth writing about.
+
+## Screenshots
+
+*Screenshots to follow.*

@@ -55,3 +55,7 @@ Japan as *Elnard* before the North American localisation retitled it.
 
 Reviews at the time were respectful about the ambition and blunt about the
 difficulty. To be filled in from contemporary magazines.
+
+## Screenshots
+
+*Screenshots to follow.*

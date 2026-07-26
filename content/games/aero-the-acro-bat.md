@@ -33,3 +33,7 @@ who by this point had a real pedigree on the NES.
 ## The Press
 
 To follow.
+
+## Screenshots
+
+*Screenshots to follow.*

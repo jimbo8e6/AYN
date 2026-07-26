@@ -91,3 +91,7 @@ from your own copies, crediting the magazine, issue and reviewer each time.
 It is the first entry, so there is nothing to compare it against yet. For the
 record: this is a game I would have happily written about out of order, which
 is exactly the sort of temptation the alphabet exists to prevent.
+
+## Screenshots
+
+*Screenshots to follow.*

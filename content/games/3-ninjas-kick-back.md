@@ -53,3 +53,7 @@ digging into.
 
 To be filled in from contemporary magazines. Licensed film tie-ins tended to
 get short reviews, so US coverage may be the better source here.
+
+## Screenshots
+
+*Screenshots to follow.*
