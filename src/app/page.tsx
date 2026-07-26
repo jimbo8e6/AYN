@@ -53,7 +53,7 @@ export default function HomePage() {
               Browse the games
             </Link>
             <a
-              href="#the-quest"
+              href="#the-goal"
               className="border border-line px-8 py-3.5 text-sm font-medium tracking-wide text-ink transition-colors hover:bg-shell-light"
             >
               Read the plan
@@ -62,33 +62,79 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* The quest -------------------------------------------------- */}
-      <section id="the-quest" className="border-b border-line bg-shell-light">
+      {/* The goal --------------------------------------------------- */}
+      <section id="the-goal" className="border-b border-line bg-shell-light">
         {/* Same max-w-5xl gutter as every other section, with the prose held to
             a comfortable measure inside it, so headings stay left-aligned
             down the whole page. */}
         <div className="mx-auto max-w-5xl px-6 py-24">
-          <h2 className="rule-heading">The quest</h2>
+          <h2 className="rule-heading">The goal</h2>
           <AccentRule className="mt-4" />
 
           <div className="mt-10 max-w-2xl space-y-7 font-serif text-xl leading-relaxed text-body">
             <p>
-              The plan is simple to describe and faintly ridiculous to attempt:
-              play <strong className="font-semibold text-ink">every game</strong>{" "}
-              released for the Super Nintendo, in alphabetical order, and write
-              properly about each one.
+              My goal is to play, and deep dive into every English speaking
+              Super Nintendo game in alphabetical order. A very demanding goal
+              it may be, but the SNES will forever be my favourite console and
+              there are far too many games I’ve never touched.
             </p>
             <p>
-              Not a list. Not a ranking. No tier charts. Every game gets the
-              same treatment regardless of whether it is a stone-cold classic or
-              a licensed platformer nobody has thought about since 1994 &mdash;
-              because the forgotten ones are usually where the interesting
-              stories are hiding.
+              I may have been an 80s baby, but I was very much a 90s kid, and
+              the SNES is lucky enough to be an objectively brilliant console,
+              and also a rose tinted nostalgia phenomenon all rolled into one.
             </p>
             <p>
-              Starting at <strong className="font-semibold text-ink">A</strong>,
-              finishing at <strong className="font-semibold text-ink">Z</strong>,
-              however long that takes.
+              I aim to complete each game I play that can be completed, with a
+              couple of caveats:
+            </p>
+
+            <ol className="ml-6 list-decimal space-y-5 marker:text-muted">
+              <li>
+                If it can’t be completed (a sports title for example) I will
+                play as much of it as possible/bearable to give a well rounded
+                description of the game.
+              </li>
+              <li>
+                If it’s broken, with terrible controls and just all round an
+                awful game, I’ll play as much of it as I can, but I will pack it
+                in if it’s doing my head in.
+              </li>
+            </ol>
+
+            <p>
+              I’ll make sure to make it clear whether a game has been completed,
+              or played.
+            </p>
+            <p>
+              Each game will have my own personal thoughts, a look at the box
+              and whether it sells the game accurately, some information about
+              the people that worked on the game, and a look at the reviews from
+              publications of the time.
+            </p>
+            <p>
+              No set schedule, no expectations, just a fun journey that I’m
+              taking myself on.
+            </p>
+            <p>
+              If you want to support me in this ridiculous idea, I ask that you
+              follow and support everyone at Studio Channel 84, because I
+              wouldn’t have had the fire to push through this without all of
+              them!
+            </p>
+            <p>
+              Check them all out at{" "}
+              <a
+                href="https://channel84.co.uk"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-deep underline decoration-1 underline-offset-4 transition-colors hover:text-red-deep"
+              >
+                channel84.co.uk
+              </a>{" "}
+              and tell them I sent you.
+            </p>
+            <p>
+              See you in 2066 when I finish this stupid, stupid idea.
             </p>
           </div>
 
