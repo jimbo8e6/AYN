@@ -27,6 +27,7 @@ Other commands:
 | `npm run build`     | Production build                      |
 | `npm start`         | Serve the production build            |
 | `npm run typecheck` | Type-check without building           |
+| `npm run image`     | Resize and place a game image         |
 
 ---
 
@@ -100,12 +101,13 @@ A few behaviours worth knowing:
 - **`draft: true`** shows the entry when running `npm run dev` but excludes it
   from production builds — useful for work in progress.
 - **Prev/next links** on each game page follow alphabetical order automatically.
-- **Images** go in `public/games/<slug>/` — box front and back, screenshots —
-  and are referenced from the markdown with normal image links. Images are
-  centred, capped at 22rem wide and lazy-loaded; an italic line directly
-  beneath one is styled as a caption. **Read `public/games/README.md` before
-  committing any image**: git keeps every version forever, so oversized files
-  cannot simply be deleted later.
+- **Images** go in `public/games/<slug>/` — box front and back, screenshots.
+  Use `npm run image -- <slug> front|back|screen <file>` rather than resizing
+  by hand; it sizes, names and places the file and prints the markdown to
+  paste. A single image is centred at 22rem, two or more in the same block
+  become a grid, and an italic line beneath one is a caption. See
+  `public/games/README.md` — and note that git keeps every version of a
+  committed image forever, so oversized files cannot simply be deleted later.
 
 ---
 

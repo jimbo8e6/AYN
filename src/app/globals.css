@@ -234,8 +234,12 @@ body {
 .article p:has(> img + img) > img {
   max-width: 100%;
   width: 100%;
-  /* SNES output is 256x224, so screenshots are pixel art — keep them crisp
-     rather than letting the browser smooth them when they scale. */
+}
+
+/* Screenshots are pixel art and must not be smoothed when the browser scales
+   them up; box scans are photographs and must be. `npm run image` writes
+   screenshots as PNG and box art as JPEG, so the extension tells them apart. */
+.article img[src$=".png"] {
   image-rendering: pixelated;
 }
 

@@ -7,48 +7,81 @@ file in `content/games/`.
     public/games/actraiser/back.jpg       ->  /games/actraiser/back.jpg
     public/games/actraiser/screen-1.png   ->  /games/actraiser/screen-1.png
 
-Per-game folders rather than one flat directory: at 765 games with four or five
-images each, a flat folder is three thousand files deep and impossible to work
-in.
+Per-game folders rather than one flat directory: at 765 games with several
+images each, a flat folder is thousands of files deep and impossible to work in.
 
-Reference them from the markdown with normal image links:
+## Use the script
+
+Don't resize by hand. From the repository root:
+
+```bash
+npm run image -- actraiser front  ~/scans/actraiser-front.tiff
+npm run image -- actraiser back   ~/scans/actraiser-back.tiff
+npm run image -- actraiser screen ~/captures/fillmore.png
+```
+
+It writes the correctly sized and named file into the right folder and prints
+the markdown to paste. Screenshots number themselves — `screen-1.png`,
+`screen-2.png`, and so on. Box art refuses to overwrite unless you pass
+`--force`. A mistyped slug is caught before anything is written.
+
+Run `npm run image` with no arguments for the full usage.
+
+## Referencing them
 
 ```markdown
 ## Box art
 
 ![ActRaiser, PAL front cover](/games/actraiser/front.jpg)
+![ActRaiser, back cover](/games/actraiser/back.jpg)
 
 *PAL release, 1992.*
 
 Notes on the art.
-
-![ActRaiser, back cover](/games/actraiser/back.jpg)
 ```
 
-A single image is centred and capped at 22rem wide. **Two or more images in
-the same block become a grid** — two up on a wide screen, one up on a phone — so
-put the box front and back together, and screenshots together. An italic line
-directly beneath is styled as a caption. Everything is lazy-loaded, and
-screenshots render with `image-rendering: pixelated` so the pixel art stays
-crisp when scaled.
+A single image is centred and capped at 22rem wide. **Two or more images in the
+same block become a grid** — two up on a wide screen, one up on a phone — so put
+the box front and back together, and screenshots together. An italic line
+directly beneath is styled as a caption. Everything is lazy-loaded.
 
-## Sizing — read this before committing anything
+## What the script does, and why
+
+**Box art** is resized to 1000px on the long edge and saved as JPEG at quality
+82 with no chroma subsampling. It displays at 22rem, so 1000px is generous even
+on a high-density screen.
+
+**Screenshots are never resampled.** SNES output is 256×224 pixel art, the page
+renders it with `image-rendering: pixelated`, and the browser does the crisp
+upscale at display time — so enlarging the file first only makes it bigger for
+no visible gain. A capture taken at an exact multiple (an emulator running at
+4×) is reduced back to native by dropping whole pixels, which is exact and never
+interpolates. A capture at some other size is left alone rather than resampled.
+
+PNGs are encoded twice, as a palette image and as truecolour, and the palette
+version is kept only if it decodes back pixel-identical. A SNES screen is
+usually within 256 colours, so that is normally a large lossless saving; shots
+with more colours quietly keep full fidelity instead.
+
+**The file extension matters.** The stylesheet applies `image-rendering:
+pixelated` to `.png` only, so screenshots stay crisp and box scans stay smooth.
+Keep box art as `.jpg` and screenshots as `.png` — the script already does.
+
+## Sizes
+
+| Image       | Result                 | Roughly   |
+| ----------- | ---------------------- | --------- |
+| Box front   | 1000px long edge, JPEG | ~150 KB   |
+| Box back    | 1000px long edge, JPEG | ~150 KB   |
+| Screenshots | native resolution, PNG | ~10–30 KB |
+
+About 400 KB per game, so roughly 300 MB across the full 765 — comfortable for
+a git repository. Committing unresized 3000px scans instead would come to
+several gigabytes, which is not.
+
+## Read this before committing anything
 
 Every image committed to git stays in the repository history **forever**, even
-if you later delete or replace it. Getting the size right the first time is far
-easier than rewriting history later.
-
-Targets:
-
-| Image       | Size                       | Format | Roughly |
-| ----------- | -------------------------- | ------ | ------- |
-| Box front   | 1000px on the longest edge | JPEG   | ~150 KB |
-| Box back    | 1000px on the longest edge | JPEG   | ~150 KB |
-| Screenshots | 512×448 (2× native SNES)   | PNG    | ~40 KB  |
-
-That is roughly 500 KB per game, so about 380 MB across the full 765 — fine for
-a git repository. Committing unresized scans at 3000px and 3 MB each would come
-to several gigabytes, which is not.
-
-SNES output is 256×224, so a screenshot only ever needs to be a clean 2×
-multiple of that. Anything larger is upscaling noise.
+if you later delete or replace it. Getting it right the first time is far
+easier than rewriting history later. Run the script, check the size it reports,
+then commit.
