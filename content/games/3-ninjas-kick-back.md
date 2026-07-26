@@ -31,7 +31,7 @@ Worth covering when you write this up:
 ## Box art
 
 ![3 Ninjas Kick Back, North American front cover: the three brothers mid-kick against a purple and red background](/games/3-ninjas-kick-back/front.jpg)
-![Back cover: screenshots, a feature list, and the Sony Imagesoft logo](/games/3-ninjas-kick-back/back.jpg)
+![Back cover: a feature list promising "scorching hot graphics", three in-game screenshots, and the Sony Imagesoft logo](/games/3-ninjas-kick-back/back.jpg)
 
 *North American release, 1994.*
 
