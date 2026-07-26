@@ -13,6 +13,9 @@ export default function GameCard({
   index?: number;
 }) {
   const year = game.released?.slice(0, 4);
+  // Stub entries carry a title and nothing else; skip the line entirely rather
+  // than rendering an empty paragraph.
+  const meta = [game.developer, year].filter(Boolean).join(" · ");
 
   return (
     <article className="group h-full">
@@ -40,9 +43,9 @@ export default function GameCard({
             {game.title}
           </h3>
 
-          <p className="text-xs tracking-wide text-muted uppercase">
-            {[game.developer, year].filter(Boolean).join(" · ")}
-          </p>
+          {meta && (
+            <p className="text-xs tracking-wide text-muted uppercase">{meta}</p>
+          )}
 
           {game.excerpt && (
             <p className="line-clamp-3 font-serif text-[0.9375rem] leading-relaxed text-body">
