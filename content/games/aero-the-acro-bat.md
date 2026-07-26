@@ -20,6 +20,10 @@ circus. Aero drills through the air, rides rollercoasters, and fires himself out
 of cannons, and the whole thing is built around momentum in a way that most
 mascot platformers of the period were not.
 
+## Box art
+
+*Notes on the box art to follow.*
+
 ## The People
 
 Developed by **Iguana Entertainment** — the Texas studio later far better known

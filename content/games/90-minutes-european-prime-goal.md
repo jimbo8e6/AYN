@@ -27,6 +27,10 @@ Worth covering when you write this up:
   conversion sanded it off.
 - What the team and player data actually looks like, given the licensing.
 
+## Box art
+
+*Notes on the box art to follow.*
+
 ## The People
 
 **Namco**, deep into the PlayStation era by this point and still putting out a

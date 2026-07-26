@@ -112,7 +112,20 @@ export default async function GamePage({ params }: PageProps) {
 
       {/* Body ------------------------------------------------------- */}
       <div className="article mt-14">
-        <Markdown remarkPlugins={[remarkGfm]}>{game.content}</Markdown>
+        <Markdown
+          remarkPlugins={[remarkGfm]}
+          components={{
+            // Box art scans sit well below the fold, so never block paint on
+            // them. Plain <img> rather than next/image: these are local files
+            // of unknown dimensions, and next/image needs them up front.
+            img: ({ alt, ...props }) => (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img {...props} alt={alt ?? ""} loading="lazy" decoding="async" />
+            ),
+          }}
+        >
+          {game.content}
+        </Markdown>
       </div>
 
       {/* Verdict ---------------------------------------------------- */}

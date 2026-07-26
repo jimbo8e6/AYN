@@ -28,6 +28,10 @@ Worth covering when you write this up:
 - How it compares to the Sega CD version, which had actual footage from the
   film that the cartridge had no room for.
 
+## Box art
+
+*Notes on the box art to follow.*
+
 ## The People
 
 **Sony Imagesoft** is the interesting name here. This was Sony's games

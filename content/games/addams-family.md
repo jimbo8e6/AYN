@@ -38,6 +38,10 @@ What holds up is the craft. The animation has real character, the mansion has a
 consistent visual logic to it, and the controls are precise enough that deaths
 feel earned rather than arbitrary. Ocean clearly cared.
 
+## Box art
+
+*Notes on the box art to follow.*
+
 ## The People
 
 **Ocean Software**, out of Manchester, were one of the biggest names in European

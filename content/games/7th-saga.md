@@ -38,6 +38,10 @@ Japanese version, which is the sort of decision that turns a demanding game
 into an unreasonable one. Progress is measured in grinding rather than in
 discovery.
 
+## Box art
+
+*Notes on the box art to follow.*
+
 ## The People
 
 Developed by **Produce!** and published by **Enix** — the second Enix game in

@@ -61,7 +61,19 @@ draft: false                      # true = visible in dev, hidden in production
 
 ## The Game
 
-Markdown body goes here. `##` headings become the yellow section rules.
+Markdown body goes here. `##` headings become section rules.
+
+## Box art
+
+![ActRaiser, PAL box art](/box-art/actraiser.jpg)
+
+*PAL release, 1992.*
+
+Notes on the box art.
+
+## The People
+
+## The Press
 ```
 
 Only `title` is genuinely required — everything else is optional and the page
@@ -81,6 +93,10 @@ A few behaviours worth knowing:
 - **`draft: true`** shows the entry when running `npm run dev` but excludes it
   from production builds — useful for work in progress.
 - **Prev/next links** on each game page follow alphabetical order automatically.
+- **Box art** goes in `public/box-art/`, named after the slug, and is referenced
+  from the markdown with a normal image link. See `public/box-art/README.md`.
+  Images are centred, capped at 22rem wide and lazy-loaded; an italic line
+  directly beneath one is styled as a caption.
 
 ---
 

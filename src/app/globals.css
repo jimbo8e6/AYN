@@ -200,6 +200,28 @@ body {
   margin-block: 2.75rem;
 }
 
+/* Images — box art, mostly. Centred and held well short of the text column so
+   a scan does not dominate the page, with a thin border standing in for the
+   edge of the physical box. Height stays auto, so portrait NA boxes and
+   landscape PAL ones both sit correctly. */
+.article img {
+  display: block;
+  max-width: min(100%, 22rem);
+  height: auto;
+  margin-inline: auto;
+  border: 1px solid var(--color-line);
+  background-color: var(--color-surface);
+}
+
+/* An italic line on its own directly under an image reads as a caption. */
+.article p:has(> img) + p > em:only-child {
+  display: block;
+  margin-top: -0.5rem;
+  text-align: center;
+  font-size: 0.875rem;
+  color: var(--color-muted);
+}
+
 .article table {
   width: 100%;
   border-collapse: collapse;
