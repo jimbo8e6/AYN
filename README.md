@@ -109,6 +109,16 @@ The repo ships with placeholder content so the site is not empty. Swap these out
 Every push to the default branch redeploys production; every pull request gets
 its own preview URL.
 
+`vercel.json` pins the framework to `nextjs`. That matters if the Vercel project
+was created while the repo was still empty — with nothing to detect, Vercel
+falls back to a plain static site, whose output directory is `public`, and the
+build then fails with **"No Output Directory named 'public' found"**. Next.js
+builds to `.next` and never produces a `public` output directory, so creating
+one is not the fix; it would just deploy an empty static site instead. If you
+hit that error, set **Settings → Build and Deployment → Framework Preset** to
+**Next.js**, leave the build command and output directory overrides off, and
+redeploy.
+
 > **Plan note:** Vercel's free Hobby tier excludes commercial use. Fine for a
 > personal blog; if the site starts carrying ads or sponsorship, that is a Pro
 > plan ($20/month).
