@@ -7,7 +7,7 @@ released: "1994"
 region: "North America"
 genre: ["Platformer", "Licensed"]
 status: "played"
-excerpt: "A tie-in to the 1994 film, in which you swap between three ninja brothers across side-scrolling stages — and, more interestingly, one of Sony's last acts as a publisher on Nintendo hardware."
+excerpt: "The first game in this series, and the first (of many) 90s movie tie in platformers! Based on the 1994 movie of the same name, and one of the last games to be published on a Nintendo platform by Sony."
 ---
 
 ## The Game
