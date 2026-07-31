@@ -18,7 +18,7 @@ export default function HomePage() {
 
           <h1 className="display mt-8 text-6xl sm:text-8xl">
             <span className="block text-muted">Super</span>
-            <span className="mt-1 block">A&#8211;Z</span>
+            <span className="mt-1 block">A&#8211;X</span>
           </h1>
 
           <AccentRule className="mt-10" width="w-40" />
