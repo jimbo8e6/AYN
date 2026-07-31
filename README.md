@@ -116,7 +116,8 @@ A few behaviours worth knowing:
 The repo ships with placeholder content so the site is not empty. Swap these out:
 
 1. **Your email address** — `src/lib/site.ts`, the `email` field. Currently
-   `hello@example.com`.
+   `louthtech@gmail.com`, a placeholder standing in until there is a proper
+   address on the domain.
 2. **The seed write-ups** — the four files in `content/games/` are sample
    entries written to demonstrate the layout. The factual metadata (developer,
    publisher, year) is accurate, but **the review quotes are explicit

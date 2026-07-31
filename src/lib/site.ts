@@ -27,7 +27,7 @@ export const siteConfig = {
   description:
     "A deep dive into every game released for the Super Nintendo, played and written up in alphabetical order — the game itself, the people who made it, and what the magazines of the day made of it.",
   url: resolveSiteUrl(),
-  email: "hello@example.com",
+  email: "louthtech@gmail.com",
   nav: [
     { href: "/", label: "Home" },
     { href: "/games", label: "Games" },
