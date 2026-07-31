@@ -184,9 +184,11 @@ The site is built so this is a settings change, not a code change.
    preferring over buying through Vercel — same setup effort, but leaving
    Vercel later stays easy.
 2. In Vercel: **Project → Settings → Domains → Add**, and enter the domain.
-3. Add the DNS records Vercel shows you at your registrar. Typically an `A`
-   record on the apex pointing at `76.76.21.21`, and a `CNAME` on `www`
-   pointing at `cname.vercel-dns.com`.
+   Add the apex (`super-a-z.co.uk`) and let Vercel add `www` alongside it.
+3. Add the DNS records **exactly as Vercel displays them** at your registrar.
+   Usually an `A` record on the apex pointing at `76.76.21.21` and a `CNAME` on
+   `www` pointing at `cname.vercel-dns.com`, but Vercel issues project-specific
+   targets in some cases, so copy from the screen rather than from here.
 4. Wait for DNS to resolve (usually minutes). HTTPS is issued automatically.
 5. In **Settings → Environment Variables**, set:
 
@@ -194,7 +196,25 @@ The site is built so this is a settings change, not a code change.
    NEXT_PUBLIC_SITE_URL = https://yourdomain.com
    ```
 
-   Then redeploy.
+   Then redeploy. Environment variables are baked in at build time, so the
+   change does nothing until a new deployment runs.
+
+#### If the DNS is on Cloudflare
+
+Set both records to **DNS only** — the grey cloud, not the orange one.
+
+A proxied (orange cloud) record puts Cloudflare's CDN in front of Vercel's.
+Vercel then cannot complete the challenge that issues its TLS certificate, and
+if Cloudflare's SSL mode is set to "Flexible" the two disagree about who is
+terminating HTTPS and the site lands in an infinite redirect loop. Grey cloud
+avoids the whole class of problem, and costs nothing — Vercel's own CDN is
+already doing the work Cloudflare's proxy would.
+
+If you do want the orange cloud later, Cloudflare's **SSL/TLS → Overview** must
+be **Full (strict)**, never Flexible.
+
+Also delete any placeholder records the registrar created for the bare domain
+before adding Vercel's — a leftover parking `A` record will quietly win.
 
 Step 5 is the only part that touches the app, and it exists because everything
 that needs an absolute URL — canonical tags, Open Graph metadata, the sitemap —
