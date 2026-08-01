@@ -7,7 +7,9 @@ released: "1994"
 region: "North America"
 genre: ["Platformer", "Licensed"]
 status: "played"
+score: 5
 excerpt: "The first game in my alphabetical project, and the first (of many) 90s movie tie-in platformers! Based on the 1994 movie of the same name, and one of the last games to be published on a Nintendo platform by Sony."
+verdict: "Completely average, straight down the middle, nothing great, nothing offensively bad."
 ---
 
 ## The Game
