@@ -50,10 +50,6 @@ recovering territory from six regional demons, and the two modes are simply the
 two things a god does — smiting in person, and quietly tending to the people in
 between. Very few games since have committed to a premise this cleanly.
 
-## Box art
-
-*Notes on the box art to follow.*
-
 ## The People
 
 ActRaiser was made by **Quintet**, a studio founded by ex-Nihon Falcom staff,
@@ -75,6 +71,10 @@ people who have never played ActRaiser know "Fillmore".
 > Notes for expansion: dig into the Quintet staff credits properly, and find
 > out how much of the sim half was in the original pitch versus bolted on
 > later.
+
+## Box art
+
+*Notes on the box art to follow.*
 
 ## The Press
 

@@ -27,10 +27,6 @@ Worth covering when you write this up:
   conversion sanded it off.
 - What the team and player data actually looks like, given the licensing.
 
-## Box art
-
-*Notes on the box art to follow.*
-
 ## The People
 
 **Namco**, deep into the PlayStation era by this point and still putting out a
@@ -43,6 +39,10 @@ of thing an A-to-Z is for.
 > Notes for expansion: confirm whether development was in-house at Namco or
 > contracted out, and pin down which entry in the Prime Goal series this is
 > derived from. Confirm the player count and whether it supports the multitap.
+
+## Box art
+
+*Notes on the box art to follow.*
 
 ## The Press
 

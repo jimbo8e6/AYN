@@ -64,6 +64,8 @@ draft: false                      # true = visible in dev, hidden in production
 
 Markdown body goes here. `##` headings become section rules.
 
+## The People
+
 ## Box art
 
 ![ActRaiser, PAL front cover](/games/actraiser/front.jpg)
@@ -71,9 +73,10 @@ Markdown body goes here. `##` headings become section rules.
 
 *PAL release, 1992.*
 
-Notes on the box art.
+Notes on the box art. Back-of-box claims work well as a list — the claim in
+bold, your reply after it in italic, which the stylesheet picks up:
 
-## The People
+- **Scorching hot graphics** — *Let's not go too far, shall we.*
 
 ## The Press
 

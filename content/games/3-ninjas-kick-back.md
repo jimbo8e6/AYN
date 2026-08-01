@@ -80,6 +80,23 @@ a decently put together piece of music that ends up driving you crazy before the
 level is over! This is a real shame because it was so close, and it had every
 right to have an amazing soundtrack considering the man behind it...
 
+## The People
+
+**Sony Imagesoft** is the interesting name here. This was Sony's games
+publishing arm before the PlayStation existed, and it spent the early nineties
+putting out licensed titles on Nintendo and Sega hardware. By 1994 Sony had
+already fallen out with Nintendo over the abandoned SNES CD-ROM add-on and was
+months from launching a console aimed squarely at them — and was still, at the
+same time, shipping cartridges for the SNES. There is a whole write-up in that
+overlap alone.
+
+**Malibu Interactive** handled development. Less well documented, and worth
+digging into.
+
+> Notes for expansion: confirm the Malibu Interactive team credits and what
+> else they shipped. Check whether this saw a PAL release or stayed North
+> America only. Confirm the player count.
+
 ## Box art
 
 ![3 Ninjas Kick Back, North American front cover: the three brothers mid-kick against a purple and red background](/games/3-ninjas-kick-back/front.jpg)
@@ -117,23 +134,6 @@ best-looking boss in the game, and the description has a few interesting points:
 
 Overall I give this box a rating of &mdash; **Misleading, inaccurate, and
 would've probably upset 8-year-old me.**
-
-## The People
-
-**Sony Imagesoft** is the interesting name here. This was Sony's games
-publishing arm before the PlayStation existed, and it spent the early nineties
-putting out licensed titles on Nintendo and Sega hardware. By 1994 Sony had
-already fallen out with Nintendo over the abandoned SNES CD-ROM add-on and was
-months from launching a console aimed squarely at them — and was still, at the
-same time, shipping cartridges for the SNES. There is a whole write-up in that
-overlap alone.
-
-**Malibu Interactive** handled development. Less well documented, and worth
-digging into.
-
-> Notes for expansion: confirm the Malibu Interactive team credits and what
-> else they shipped. Check whether this saw a PAL release or stayed North
-> America only. Confirm the player count.
 
 ## The Press
 
