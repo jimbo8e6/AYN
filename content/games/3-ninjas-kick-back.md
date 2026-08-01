@@ -24,6 +24,13 @@ for inflation is around $25 million. For reference, that would be like if
 *28 Years Later: The Bone Temple* or *Primate* had video game counterparts in
 2026. Licensed games were everywhere!
 
+It was developed by **Malibu Interactive**, who developed various games for the
+SNES and Mega Drive before their parent company was bought out by Marvel Comics
+and shut down in 1994. This was the last game they developed. It was published
+by **Sony Imagesoft**, and was one of the last games published by Sony on a
+Nintendo platform before their separation after the Nintendo PlayStation
+incident.
+
 ### Gameplay
 
 As for the game itself, you choose one of the three titular ninjas: Colt, Rocky
