@@ -148,8 +148,33 @@ would've probably upset 8-year-old me.**
 
 ## The Press
 
-To be filled in from contemporary magazines. Licensed film tie-ins tended to
-get short reviews, so US coverage may be the better source here.
+Magazine reviews for the time were quite hard to find. There was no PAL release,
+so I had to search American magazines. I found a few adverts for it on the Mega
+CD in a buy 2, get 1 free promotion, so I think they probably had a surplus of
+copies just sitting around. Shocker for a game based on the second movie in a
+franchise that barely anyone watched. (How did 4 of these films get made?!)
+
+Anyway, I managed to find one from a magazine simply titled *Video Games* and
+they said:
+
+> This sort of game is an insult to the intelligence of all thinking beings, but
+> it must be reviewed. Does anybody actually care about a game adapted from a
+> dismal movie like 3 Ninja's Kick Back? Hopefully not. That said, the game is
+> your standard platform action with cutesy graphics that revolve around a trio
+> of suburban ninja-kids who say witty things like, "Lets kick butt!" Been there,
+> done that. Ho-hum. So when is that Sony Playstation coming out?
+>
+> **4/10**
+
+With another from *GamePro* magazine, which said:
+
+> Fans of the film might like it, but others should avoid these new ninja kids on
+> the block.
+>
+> **2.5/5**
+
+That's all I managed to find on this one, and I have to say, while the review
+from *Video Games* is maybe a bit harsh, ultimately I do kind of agree with both.
 
 ## Screenshots
 
