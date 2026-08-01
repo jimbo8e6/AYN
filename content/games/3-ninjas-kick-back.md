@@ -82,20 +82,31 @@ right to have an amazing soundtrack considering the man behind it...
 
 ## The People
 
-**Sony Imagesoft** is the interesting name here. This was Sony's games
-publishing arm before the PlayStation existed, and it spent the early nineties
-putting out licensed titles on Nintendo and Sega hardware. By 1994 Sony had
-already fallen out with Nintendo over the abandoned SNES CD-ROM add-on and was
-months from launching a console aimed squarely at them — and was still, at the
-same time, shipping cartridges for the SNES. There is a whole write-up in that
-overlap alone.
+So this is the part where I talk about some of the people behind the game, where
+they came from and where they ended up, so I may as well start with the man
+behind the game's music and sound, **Richard Joseph**:
 
-**Malibu Interactive** handled development. Less well documented, and worth
-digging into.
+He was credited on 86 games including music for various *Sensible Soccer* games,
+various *James Pond* games, and *Cannon Fodder* 1 and 2, all of which I can tell
+you from memory have fantastic and iconic soundtracks. He also worked in
+dialogue post-production on *The Elder Scrolls IV: Oblivion*. The man had a hell
+of a career that lasted until he unfortunately passed away in 2007.
 
-> Notes for expansion: confirm the Malibu Interactive team credits and what
-> else they shipped. Check whether this saw a PAL release or stayed North
-> America only. Confirm the player count.
+The game's programmer **Ian Sabine** started as an IBM programmer on a game
+called *Curse of Enchantia*, released on DOS in 1992, and ended up working on the
+*Devil May Cry HD Collection* in 2012. He worked on some really great games like
+*Pac-Man Fever*, *Metal Arms: Glitch in the System*, and *Rampage: Total
+Destruction*, but he also worked on *Boogie* on the PS2 so…
+
+I'm not sure what he's doing now because he blocked me on LinkedIn when I tried
+to ask him some questions about his time working on the game. Oops!
+
+The last notable mention is **Terry Lloyd**, who worked on the game's map design
+and game design. He started working on graphics for a game called *Wimbledon* on
+the Commodore 16 in 1986 and worked continually up to a 2010 release on the Wii
+called *Family Gameshow*. Some of his notable works include Art Director on
+*Gauntlet Legends*, Artist and Animator on *FIFA 98*, and some graphics work on
+the GBA version of *Harry Potter and the Chamber of Secrets*.
 
 ## Box art
 
