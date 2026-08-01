@@ -8,7 +8,7 @@ region: "North America"
 genre: ["Platformer", "Licensed"]
 status: "played"
 score: 5
-excerpt: "The first game in my alphabetical project, and the first (of many) 90s movie tie-in platformers! Based on the 1994 movie of the same name, and one of the last games to be published on a Nintendo platform by Sony."
+excerpt: "The first game in my alphabetical project, and the first (of many) 90s movie tie-in platformers! Based on the 1994 movie of the same name."
 verdict: "Completely average, straight down the middle, nothing great, nothing offensively bad."
 ---
 
@@ -24,7 +24,7 @@ for inflation is around $25 million. For reference, that would be like if
 *28 Years Later: The Bone Temple* or *Primate* had video game counterparts in
 2026. Licensed games were everywhere!
 
-It was developed by **Malibu Interactive**, who developed various games for the
+It was developed by **Malibu Interactive**, who made various games for the
 SNES and Mega Drive before their parent company was bought out by Marvel Comics
 and shut down in 1994. This was the last game they developed. It was published
 by **Sony Imagesoft**, and was one of the last games published by Sony on a
