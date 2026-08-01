@@ -186,6 +186,23 @@ body {
   color: var(--color-line);
 }
 
+/* Claim-and-response lists, used in the Box art sections: the packaging's own
+   wording in bold, the author's reply after it in italic.
+   The claim is set in the sans so it reads as lifted off the box; the reply
+   takes a controller accent so it is unmistakably editorial.
+   Both tight and loose list markup are covered — a blank line between items
+   makes remark wrap each one in a <p>. */
+.article li > strong:first-child,
+.article li > p:first-child > strong:first-child {
+  font-family: var(--font-sans);
+  font-size: 0.9375em;
+}
+
+.article li > strong:first-child ~ em,
+.article li > p:first-child > strong:first-child ~ em {
+  color: var(--color-red-deep);
+}
+
 .article blockquote {
   border-left: 3px solid var(--color-btn-yellow);
   padding: 0.2rem 0 0.2rem 1.35rem;

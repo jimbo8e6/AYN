@@ -87,7 +87,36 @@ right to have an amazing soundtrack considering the man behind it...
 
 *North American release, 1994.*
 
-*Notes on the box art to follow.*
+In the 80s and 90s we would often buy our games purely on the strength of the
+box art and game description alone. The internet wasn't as readily available as
+it is now, and even when it was it wasn't full of reviews at the touch of a
+button. Magazine reviews were alright, but you had to be lucky enough to get the
+right magazine reviewing the right game, with the right reviewer. Most of the
+time we'd buy second hand with some pocket money, and be looking at a wall of
+boxes of games that we'd never heard of. So in this section I'll take a look at
+the box, judge it harshly, and decide whether it would pass muster in the
+second-hand game shop, and if the writing on the back is even close to accurate.
+
+In this instance the front of the box is just a copy of the poster art for the
+movie, so normally that would be perfect to draw someone's attention, except
+only about 8 people saw this movie so it didn't really work that way in
+practice. The colours are bold and striking, and oh so very 90s. But it does
+look like something knocked together in Paint very quickly. Couldn't they have
+at least cropped it so their feet weren't outside of the image!
+
+As for the back, it has a nice selection of screenshots, but does give away the
+best-looking boss in the game, and the description has a few interesting points:
+
+- **Scorching hot graphics** — *Let's not go too far, shall we. They're fine.*
+- **Interact with various items throughout your quest and use them to your benefit** — *Yeah, in one level.*
+- **Intense two-player action** — *Can't comment on this one — didn't drag anyone else along for the ride!*
+- **Tons of hidden passages and areas** — *I mean, I guess… There were a few hidden areas in a couple of levels.*
+- **Awesome sound effects** — *No.*
+- **Many nasty-looking bosses to defeat** — *5, I think — again, they were fine.*
+- **Over 12 huge areas filled with fast-paced excitement and dozens of secret rooms to discover** — *I really wouldn't call the areas huge, even for the time, and they keep going on about hidden areas — maybe they were just too hidden and I missed them!*
+
+Overall I give this box a rating of &mdash; **Misleading, inaccurate, and
+would've probably upset 8-year-old me.**
 
 ## The People
 
