@@ -187,4 +187,8 @@ from *Video Games* is maybe a bit harsh, ultimately I do kind of agree with both
 
 ## Screenshots
 
-*Screenshots to follow.*
+![Title screen: the 3 Ninjas Kick Back logo bursting through a bamboo frame, the three brothers mid-kick around it](/games/3-ninjas-kick-back/screen-2.png)
+![A ninja perched on a rock in a jungle cavern, a huge boulder poised above and vines strung across the gap below](/games/3-ninjas-kick-back/screen-3.png)
+![Swinging from a rope slung between two trees in the forest, rings lined up ahead to collect](/games/3-ninjas-kick-back/screen-4.png)
+
+*The title screen and a couple of the early forest stages.*
