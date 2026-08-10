@@ -6,6 +6,7 @@ import remarkGfm from "remark-gfm";
 import AccentRule from "@/components/AccentRule";
 import MagazineReviews from "@/components/MagazineReviews";
 import StatusBadge from "@/components/StatusBadge";
+import ZoomableImage from "@/components/ZoomableImage";
 import { formatReleased, getAllGames, getGame } from "@/lib/games";
 
 type PageProps = { params: Promise<{ slug: string }> };
@@ -115,12 +116,12 @@ export default async function GamePage({ params }: PageProps) {
         <Markdown
           remarkPlugins={[remarkGfm]}
           components={{
-            // Box art scans sit well below the fold, so never block paint on
-            // them. Plain <img> rather than next/image: these are local files
-            // of unknown dimensions, and next/image needs them up front.
-            img: ({ alt, ...props }) => (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img {...props} alt={alt ?? ""} loading="lazy" decoding="async" />
+            // Click to enlarge. ZoomableImage keeps lazy loading and renders a
+            // bare <img> in the flow, so the stylesheet's layout rules still
+            // apply; plain <img> rather than next/image because these are local
+            // files of unknown dimensions.
+            img: ({ alt, src }) => (
+              <ZoomableImage src={typeof src === "string" ? src : ""} alt={alt ?? ""} />
             ),
           }}
         >

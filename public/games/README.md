@@ -45,6 +45,12 @@ same block become a grid** — two up on a wide screen, one up on a phone — so
 the box front and back together, and screenshots together. An italic line
 directly beneath is styled as a caption. Everything is lazy-loaded.
 
+**Every image opens full size when clicked**, with the alt text shown beneath as
+a caption. Screenshots enlarge to a whole-number multiple of their native size
+wherever there is room for at least 2x, so the pixels stay square; box scans fit
+the viewport but are never upscaled past their own resolution. This is also the
+reason alt text is worth writing properly — it is visible copy, not just markup.
+
 ## What the script does, and why
 
 **Box art** is resized to 1000px on the long edge and saved as JPEG at quality
