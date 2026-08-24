@@ -158,6 +158,11 @@ Reloaded* most recently, so he's done alright for himself!
 
 ## Box art
 
+![The 7th Saga, North American front cover: a lone swordsman standing in a magenta spotlight beneath a rune-covered tablet, demons lurking in the darkness around him](/games/7th-saga/front.jpg)
+![Back cover headed "THIS IS NOT YOUR ORDINARY RPG!", with four screenshots and a wall of red marketing copy](/games/7th-saga/back.jpg)
+
+*North American release, 1993.*
+
 *Notes on the box art to follow.*
 
 ## The Press
