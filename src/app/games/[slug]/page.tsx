@@ -123,6 +123,22 @@ export default async function GamePage({ params }: PageProps) {
             img: ({ alt, src }) => (
               <ZoomableImage src={typeof src === "string" ? src : ""} alt={alt ?? ""} />
             ),
+            // Links off the site open in a new tab, so a reader following a
+            // source does not lose their place in the write-up.
+            a: ({ href, children, ...props }) => {
+              const external = typeof href === "string" && /^https?:\/\//.test(href);
+              return (
+                <a
+                  href={href}
+                  {...props}
+                  {...(external
+                    ? { target: "_blank", rel: "noopener noreferrer" }
+                    : {})}
+                >
+                  {children}
+                </a>
+              );
+            },
           }}
         >
           {game.content}

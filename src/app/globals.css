@@ -210,6 +210,12 @@ body {
   font-style: italic;
 }
 
+/* The `.article > * + *` rule only reaches direct children, so a multi-paragraph
+   quote would otherwise run together as one block of italics. */
+.article blockquote > * + * {
+  margin-top: 1.1rem;
+}
+
 .article code {
   font-family: ui-monospace, "SF Mono", Menlo, monospace;
   font-size: 0.85em;
