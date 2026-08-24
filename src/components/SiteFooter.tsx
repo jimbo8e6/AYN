@@ -34,7 +34,21 @@ export default function SiteFooter() {
           </nav>
         </div>
 
-        <p className="mt-12 border-t border-line-soft pt-6 text-xs leading-relaxed text-muted">
+        <p className="mt-12 border-t border-line-soft pt-6 text-sm leading-relaxed text-body">
+          Proudly part of the Channel 84 network. I wouldn&rsquo;t be doing this
+          without them. Please support them all over at{" "}
+          <a
+            href="https://channel84.co.uk"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-deep underline decoration-1 underline-offset-4 transition-colors hover:text-red-deep"
+          >
+            channel84.co.uk
+          </a>
+          .
+        </p>
+
+        <p className="mt-6 text-xs leading-relaxed text-muted">
           &copy; {new Date().getFullYear()} {siteConfig.name}. Not affiliated
           with, endorsed by, or connected to Nintendo. Game titles, box art and
           magazine content remain the property of their respective owners and
