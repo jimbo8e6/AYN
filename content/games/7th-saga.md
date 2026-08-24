@@ -213,8 +213,41 @@ dust.**
 
 ## The Press
 
-Reviews at the time were respectful about the ambition and blunt about the
-difficulty. To be filled in from contemporary magazines.
+Magazine reviews for this were a bit easier to find than on my last attempt, and
+we even got a mention of it in *GamesMaster* magazine over here in the UK,
+despite it not releasing here. Here's what I found:
+
+*Game Players*:
+
+> Another sprawling RPG from Enix, this one distinguishes itself because the
+> game follows slightly different paths depending on which of the seven
+> characters you choose — adding unheard of replay value!
+>
+> **88 out of 100**
+
+*Electronic Gaming Monthly* (EGM):
+
+> The best thing about this RPG is you can play it repeatedly and never get the
+> same game twice! The non-linear game play and excellent Mode 7 sequences make
+> this the RPG to get. Soul Blazer fans should take a look.
+>
+> **38 out of 50**
+
+*GamePro*:
+
+> If you're a connoisseur of RPGs and don't mind incessant combat, you'll want to
+> have this game in your collection. However, Enix may want to think twice before
+> creating an Eighth Saga.
+>
+> **3.5 out of 5**
+
+*GamesMaster*:
+
+> This isn't a console game: it's a slow night of Dungeons and Dragons, with
+> paper and dice. As PC role-playing games seem to become more imaginative and
+> dynamic every month, why is the SNES being lumbered with this relic?
+>
+> **46 out of 100**
 
 ## Screenshots
 
