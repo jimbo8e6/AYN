@@ -31,6 +31,8 @@ by **Sony Imagesoft**, and was one of the last games published by Sony on a
 Nintendo platform before their separation after the Nintendo PlayStation
 incident.
 
+![Title screen: the 3 Ninjas Kick Back logo bursting through a bamboo frame, the three brothers mid-kick around it](/games/3-ninjas-kick-back/screen-2.png)
+
 ### Gameplay
 
 As for the game itself, you choose one of the three titular ninjas: Colt, Rocky
@@ -52,6 +54,8 @@ an evening. With save states I was able to finish the game in just over an hour,
 which, for a full-priced game, is nowhere near good enough! So artificially
 inflate the difficulty, keep the players trying and increase the play time of
 the game.
+
+![A ninja perched on a rock in a jungle cavern, a huge boulder poised above and vines strung across the gap below](/games/3-ninjas-kick-back/screen-3.png)
 
 The thing I found strange about this game was that one level was really detailed
 and full of quite cool interactive elements — throwing enemies into electrical
@@ -76,6 +80,8 @@ boss sprites are really nice, especially the boss of the Hospital level, a giant
 nurse brandishing a syringe at a literal child. There are certainly much better
 graphics on the SNES, but for a game released in the middle of the console's
 life cycle it could certainly have done a lot worse!
+
+![Swinging from a rope slung between two trees in the forest, rings lined up ahead to collect](/games/3-ninjas-kick-back/screen-4.png)
 
 ### Sound and music
 
@@ -184,11 +190,3 @@ With another from *GamePro* magazine, which said:
 
 That's all I managed to find on this one, and I have to say, while the review
 from *Video Games* is maybe a bit harsh, ultimately I do kind of agree with both.
-
-## Screenshots
-
-![Title screen: the 3 Ninjas Kick Back logo bursting through a bamboo frame, the three brothers mid-kick around it](/games/3-ninjas-kick-back/screen-2.png)
-![A ninja perched on a rock in a jungle cavern, a huge boulder poised above and vines strung across the gap below](/games/3-ninjas-kick-back/screen-3.png)
-![Swinging from a rope slung between two trees in the forest, rings lined up ahead to collect](/games/3-ninjas-kick-back/screen-4.png)
-
-*The title screen and a couple of the early forest stages.*
