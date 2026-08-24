@@ -32,7 +32,10 @@ released in this graphical style. It really is timeless.
 It was developed by **Produce!**, who also made *Super Bomberman* and *Super
 Bomberman 2* on the SNES, *Neo Bomberman* in the arcade, *Brain Lord* (another
 very well-received SNES JRPG) and a Japanese-only title called *Mystic Ark*,
-which was a quasi-sequel to *The 7th Saga*.
+which was a quasi-sequel to *The 7th Saga*. The game was published by **Enix**
+of future Square Enix fame. The first game on the list to be published by them,
+but certainly not the last, as they had some of the biggest JRPGs ever released
+before the Square merger.
 
 ### Gameplay
 
@@ -139,9 +142,8 @@ the soundtrack has 38 tracks and you can listen to it
 
 ## The People
 
-Developed by **Produce!** and published by **Enix** — the second Enix game in
-this project already, and we have not left the number sign yet. It came out in
-Japan as *Elnard* before the North American localisation retitled it.
+It came out in Japan as *Elnard* before the North American localisation retitled
+it.
 
 > Notes for expansion: confirm the specific stat changes between the Japanese
 > and North American releases, and find out whose call that was.
