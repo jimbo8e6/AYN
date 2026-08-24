@@ -8,8 +8,20 @@ type Props = {
   alt: string;
 };
 
-/** Screenshots are written as PNG, box scans as JPEG — see public/games/README. */
-function isPixelArt(src: string) {
+/**
+ * Anything at or near the SNES framebuffer width is raw pixel art and must be
+ * scaled with hard edges. Anything wider has already been resampled by whoever
+ * captured it — an aspect-corrected 640x480 grab, or a box scan — and smoothing
+ * is right for those.
+ *
+ * Measured width decides it, because the file extension only describes what the
+ * capture was saved as, not what it contains. Until the image loads, the
+ * extension is a reasonable guess.
+ */
+const NATIVE_MAX_WIDTH = 320;
+
+function looksLikePixelArt(src: string, naturalWidth?: number) {
+  if (naturalWidth) return naturalWidth <= NATIVE_MAX_WIDTH;
   return /\.png$/i.test(src);
 }
 
@@ -33,7 +45,7 @@ export default function ZoomableImage({ src, alt }: Props) {
   const triggerRef = useRef<HTMLImageElement>(null);
   const closeRef = useRef<HTMLButtonElement>(null);
 
-  const pixelArt = isPixelArt(src);
+  const pixelArt = looksLikePixelArt(src, natural?.w);
 
   useEffect(() => {
     setMounted(true);
@@ -104,6 +116,7 @@ export default function ZoomableImage({ src, alt }: Props) {
         tabIndex={0}
         aria-label={`Enlarge: ${alt}`}
         className="cursor-zoom-in"
+        style={{ imageRendering: pixelArt ? "pixelated" : undefined }}
         onLoad={(event) => {
           const img = event.currentTarget;
           if (img.naturalWidth) {

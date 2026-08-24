@@ -274,12 +274,10 @@ body {
   width: 100%;
 }
 
-/* Screenshots are pixel art and must not be smoothed when the browser scales
-   them up; box scans are photographs and must be. `npm run image` writes
-   screenshots as PNG and box art as JPEG, so the extension tells them apart. */
-.article img[src$=".png" i] {
-  image-rendering: pixelated;
-}
+/* Crisp scaling for pixel art is applied by ZoomableImage instead, which can
+   measure the image and so distinguish a native 256x224 capture from one that
+   has already been resampled to 640x480 — something the file extension cannot
+   tell you. */
 
 .article table {
   width: 100%;

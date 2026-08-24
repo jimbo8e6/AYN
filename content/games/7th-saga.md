@@ -37,6 +37,9 @@ of future Square Enix fame. The first game on the list to be published by them,
 but certainly not the last, as they had some of the biggest JRPGs ever released
 before the Square merger.
 
+![Title screen: The 7th Saga in ornate lettering around a rune-covered tablet, with the 1993 Produce/Enix copyright beneath](/games/7th-saga/title.jpg)
+![Opening narration over a green landscape: "The planet referred to in this story is called ..... TICONDERA ....."](/games/7th-saga/ticondera.jpg)
+
 ### Gameplay
 
 Mechanically this plays like most turn based JRPGs. You walk around an
@@ -44,6 +47,9 @@ overworld, visiting towns and dungeons, talking to people, spending money in the
 various shops, until you hit a random encounter that puts you into the battle
 scene, at which point you fight until someone dies. Hopefully not you… But quite
 likely you, this game does not fuck around!
+
+![A weapon shop interior, racks of swords and armour lining the walls](/games/7th-saga/shop.jpg)
+![A red-carpeted throne room with the action menu open: Talk, Magic, Item, Status, Search](/games/7th-saga/throne-room.jpg)
 
 The game brings 7 apprentices together to save the world — standard story for
 this sort of game. These 7 apprentices must find 7 runes to seal away the evil
@@ -57,6 +63,8 @@ won't care about you, some will even betray you and try and kill you. You can
 even lose runes you've collected to these characters if you fall to them in
 battle. It really does make this a unique gameplay experience.
 
+![A character introduction in a stone chamber, captioned "human — Kamil Dowonna"](/games/7th-saga/kamil.jpg)
+
 The other attempt at innovation (for the time) is a crystal ball that gives you
 a radar as you walk the overworld. On this radar you can see towns, towns flash
 red if there is a rune inside, and you can see enemies. The random encounters
@@ -68,6 +76,8 @@ fight the enemies if you want any chance of completing the game, but adding to
 that difficulty is the high encounter rate. You have really hard battles back to
 back to back, and when you just want to get from one town to the next quickly,
 it does get frustrating.
+
+![The overworld with the crystal ball radar active — a translucent disc plotting nearby towns and enemies](/games/7th-saga/radar.jpg)
 
 Supposedly the difficulty of the game was increased for the Western audience,
 and they halved the rate of experience earned — and it certainly feels like
@@ -103,6 +113,9 @@ critical hit. This drags the battles on forever and gives the enemy a free hit
 every other turn, and the enemies' dodge rate is through the roof. In the
 majority of battles it would be 50% of the attacks that got dodged.
 
+![A battle in a dark cave against a shadowy figure, the command menu listing Attack, Defend, Magic, Item, Status, Escape](/games/7th-saga/battle-cave.png)
+![A battle on cracked lava ground against two winged enemies](/games/7th-saga/battle-lava.png)
+
 So a standard attempt at battle would be:
 
 Defend, get hit by the enemy, attack for the critical hit, attack is dodged,
@@ -130,6 +143,8 @@ and made the insanely punishing battles bearable. I was genuinely excited to get
 to a new area to see what different creatures there were to fight. The overworld
 and towns look very typical for a JRPG of the era, but still nice solid artwork
 that really was the standout feature of the game. Well, that and…
+
+![Intro artwork: a long-haired figure in white, arms outstretched above the planet against a starfield](/games/7th-saga/intro-goddess.jpg)
 
 ### Sound and music
 
@@ -248,7 +263,3 @@ despite it not releasing here. Here's what I found:
 > dynamic every month, why is the SNES being lumbered with this relic?
 >
 > **46 out of 100**
-
-## Screenshots
-
-*Screenshots to follow.*
