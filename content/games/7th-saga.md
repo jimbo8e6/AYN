@@ -163,7 +163,53 @@ Reloaded* most recently, so he's done alright for himself!
 
 *North American release, 1993.*
 
-*Notes on the box art to follow.*
+Okay, let's look at the box art. Firstly, the front cover is certainly appealing
+and would've attracted my attention back in the day if it had been released here
+in the UK. The front gives a bold warning that is certainly fairly accurate,
+although "Complete ENJOYMENT" might be a touch too far!
+
+Looking at the back brings a few questions. Firstly, the choice of screenshots
+doesn't do the best job of selling the graphics: bottom left looks like it could
+be a NES game, and the top 2, while having interesting sprites, have pretty poor
+backgrounds!
+
+Let's break down the text on the back:
+
+- **The graphics are eye-popping, breath-taking, stunning and unbelievable** — *Yeah, I'll give them that one!*
+
+- **This is no hack-and-slash, rip-your-guts-out fighter!** — *Again, accurate, but a bold move to start by advertising what your game isn't!*
+
+- **This is the future of RPGs, right here in your hands!** — *Debatable.*
+
+- **With music this good, you won't turn the sound off — you'll turn it up!** — *Again, true, but who was going around playing their SNES with the sound off?*
+
+- **No more small elves leading your team! This game contains real, believable figures.** — *Okay, this one I really have an issue with…*
+
+  Firstly, I'm guessing it's a dig at *Final Fantasy*, maybe *Dragon Quest* too,
+  but point 1: since when is having an Elf leading the team a bad thing? Also
+  point 2: I spent half the game teaming with a character called Esuna. Esuna is
+  an Elf… So, what are we even trying to say here?
+
+  Also also, real believable figures? Let me list the characters in the game
+  really quick:
+
+  - Valsu — The Human
+  - Esuna — The Elf
+  - Lejes — The Demon
+  - Kamil — Another Human
+  - Olvan — The Dwarf
+  - Lux — The Tetujin (a robot)
+  - Wilme — The Alien
+
+  Ah yes, those classic "believable figures".
+
+Then some typical game-selling blurb, finishing with:
+
+- **This is one powerful RPG. Can you handle it?!** — *I mean, honestly? Without save states? No… and to expect little 7-year-old me to be able to is absurd!*
+
+Overall I give this box a rating of &mdash; **Mostly accurate, but trying too
+hard to be the "cool new RPG", punching down on franchises that left it in the
+dust.**
 
 ## The Press
 

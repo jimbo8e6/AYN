@@ -186,6 +186,13 @@ body {
   color: var(--color-line);
 }
 
+/* Same reason as the blockquote rule above: `.article > * + *` only reaches
+   direct children, so a list item running to several paragraphs — or carrying a
+   nested list — would have them butted together with no gap. */
+.article li > * + * {
+  margin-top: 0.85rem;
+}
+
 /* Claim-and-response lists, used in the Box art sections: the packaging's own
    wording in bold, the author's reply after it in italic.
    The claim is set in the sans so it reads as lifted off the box; the reply
