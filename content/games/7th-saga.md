@@ -142,11 +142,19 @@ the soundtrack has 38 tracks and you can listen to it
 
 ## The People
 
-It came out in Japan as *Elnard* before the North American localisation retitled
-it.
+Looking at the people behind this game, there aren't too many surprises —
+veterans in the JRPG world in some places — but what surprised me most was that
+the game's Music Composer **Norihiko Yamanuki** has 2 credits only: this, and a
+game from 1990 called *Mado King Granzort* for the SuperGrafx.
 
-> Notes for expansion: confirm the specific stat changes between the Japanese
-> and North American releases, and find out whose call that was.
+The Graphics Director was **Jun Kusaka**, who went on to have an extensive
+career with work on *Final Fantasy X*, *XII*, *XIII* and *XIV*, and *Kingdom
+Hearts II* and *III* among others.
+
+**Robert Jerauld**, who I mentioned earlier being part of the English-speaking
+localisation, is now an executive producer at Microsoft Games and has worked on
+*Alan Wake*, *Gears of War*, *Microsoft Flight Simulator* and *Gears of War
+Reloaded* most recently, so he's done alright for himself!
 
 ## Box art
 
