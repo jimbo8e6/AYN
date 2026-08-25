@@ -34,6 +34,8 @@ and publishers of the 80s and 90s, putting out a ton of licensed games for home
 computer systems before being bought out by Infogrames, who became Atari UK, who
 were then bought out by Namco Bandai, and we've come full circle!
 
+![The 90 Minutes: European Prime Goal title screen](/games/90-minutes-european-prime-goal/title.png)
+
 ### Gameplay
 
 The game plays like most football games of the era: control a player with the
@@ -46,12 +48,16 @@ actually felt more in line with an early PS1 football game in terms of control
 than other SNES football games, which could be due to the fact it released quite
 late on in the console's life cycle.
 
+![The team selection screen, showing national teams arranged with flag icons](/games/90-minutes-european-prime-goal/team_select.png)
+
 The game is quite fast-paced, which means there's always something going on,
 until the momentum is broken up by these cutscenes that pop up mid-game.
 Sometimes when you run toward a defender it will change to a cutscene where you
 choose either left or right, the defender does the same, and you either dribble
 past or get tackled. It's a nice idea and it looks quite nice, but it just takes
 you out of the game a bit whenever it happens.
+
+![Kick-off, with the overhead view of the pitch and players in position](/games/90-minutes-european-prime-goal/kick_off.png)
 
 The gameplay does have its downsides, but they are downsides that most football
 games of the era that I've played suffered with. Team AI was poor: they won't
@@ -75,6 +81,8 @@ goal up you can just run the clock out, do the same in the second half and
 guarantee a win, which I may or may not have taken advantage of a handful of
 times!
 
+![The main menu, showing the game's modes including 'You're a Hero'](/games/90-minutes-european-prime-goal/menu.png)
+
 The game has a good selection of modes, including a fairly innovative attempt at
 one called "You're a hero": you name a player, choose what they look like, pick
 some attributes, then train them over the course of a year, choosing training
@@ -87,12 +95,18 @@ pointless. From what I can see you can't retrain or add anything to the stats,
 so a good attempt at something different but something that fell a bit flat
 ultimately.
 
+![The team formation screen, where players are arranged before kick-off](/games/90-minutes-european-prime-goal/team_formation.png)
+
 ### Graphics
 
 Some parts of the graphics are really quite nice. The cutscenes look decent,
-there's a cool newspaper clipping at the end of each match which looked nice,
-and the players on the pitch look mostly the same with the odd different hair
-colour. But the teams are different enough that you can always see who you're
+and there's a cool newspaper clipping at the end of each match which looked
+nice.
+
+![The newspaper clipping shown at the end of a match, summarising the result](/games/90-minutes-european-prime-goal/news.png)
+
+The players on the pitch look mostly the same with the odd different hair
+colour, but the teams are different enough that you can always see who you're
 controlling and who you're meant to be passing to, which is ultimately all you
 want from a football game of the time.
 
