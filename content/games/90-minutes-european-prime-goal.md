@@ -27,8 +27,8 @@ Ring*. 6 decades and counting.
 
 It was published by **Ocean Software**, who were one of the biggest developers
 and publishers of the 80s and 90s, putting out a ton of licensed games for home
-computer systems before being bought out by Infogrames, who were then bought out
-by Atari, who were then bought out by Namco Bandai, and we've come full circle!
+computer systems before being bought out by Infogrames, who became Atari UK, who
+were then bought out by Namco Bandai, and we've come full circle!
 
 ### Gameplay
 
