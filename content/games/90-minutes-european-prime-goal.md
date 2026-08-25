@@ -145,13 +145,3 @@ The back is better. Nice black-and-white image of some football men, good screen
 
 Overall I give this box a rating of — Accurate, but I wouldn't have given it a second look on the shelf because of the bullshit art on the front.
 
-## The Press
-
-To be filled in from contemporary magazines. A 1995 PAL release means the UK
-magazines are the only ones that covered it — and by then most of them had
-moved on, so coverage may be thin or non-existent. If nothing turns up, that
-absence is itself worth writing about.
-
-## Screenshots
-
-*Screenshots to follow.*

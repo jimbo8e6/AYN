@@ -145,6 +145,8 @@ export default async function GamePage({ params }: PageProps) {
         </Markdown>
       </div>
 
+      <MagazineReviews reviews={game.magazineReviews} />
+
       {/* Verdict ---------------------------------------------------- */}
       {(game.verdict || typeof game.score === "number") && (
         <section className="mt-16 border border-line bg-surface">
@@ -167,8 +169,6 @@ export default async function GamePage({ params }: PageProps) {
           </div>
         </section>
       )}
-
-      <MagazineReviews reviews={game.magazineReviews} />
 
       {/* Prev / next ------------------------------------------------ */}
       {(previous || next) && (
