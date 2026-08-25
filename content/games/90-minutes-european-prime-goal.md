@@ -16,7 +16,7 @@ magazineReviews:
     quote: "For a football game to succeed it has to be realistic and although this is fun to play it's not for serious football fans."
   - magazine: "Total! (Germany, translated)"
     score: "3.25/6"
-    quote: "In short, if you want to get a football game, you should reach for ISSD or the action-heavy Fever Pitch Soccer. 90 Minutes is at most for beginners — professionals and football fans will only get a tired smile from it."
+    quote: "In short, anyone looking to pick up a football game should reach for ISSD or the action-heavy Fever Pitch Soccer. 90 Minutes will please beginners at most — professionals and football fans will get only a tired smile from it."
 excerpt: "First we had platformers, then JRPGs, now a sports game, and the trifecta of popular game types on the SNES is complete. Namco's Japan-only Prime Goal series reworked for a European audience."
 ---
 
