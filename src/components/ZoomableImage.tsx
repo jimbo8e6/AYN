@@ -49,6 +49,16 @@ export default function ZoomableImage({ src, alt }: Props) {
 
   useEffect(() => {
     setMounted(true);
+
+    // onLoad does not fire for an image the browser already had decoded by the
+    // time React attached the handler — a cached file, or one that finished
+    // during hydration. Without this the measurement never happens and the
+    // extension guess stands, which would draw a 600px logo with hard pixel
+    // edges purely because it is a .png.
+    const img = triggerRef.current;
+    if (img?.complete && img.naturalWidth) {
+      setNatural({ w: img.naturalWidth, h: img.naturalHeight });
+    }
   }, []);
 
   useEffect(() => {
