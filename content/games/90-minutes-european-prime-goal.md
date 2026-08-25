@@ -103,7 +103,7 @@ is usually up there with the best.
 
 ## The People
 
-One of the biggest names that worked on this game was **Naomi Yanagisawa**, who
+One of the biggest names that worked on this game was **Naomiki Yanagisawa**, who
 worked on the graphics. He went on to work in design management for *Super Smash
 Bros.* on the Wii U and 3DS, was General Manager on some of the *Tales of*
 series of RPGs, Progress Management on *Mario Kart 8* and *Mario Kart 8 Deluxe*,
