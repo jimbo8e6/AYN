@@ -7,6 +7,16 @@ released: "1995"
 region: "PAL only"
 genre: ["Sports", "Football"]
 status: "played"
+magazineReviews:
+  - magazine: "Computer and Video Games"
+    score: "81/100"
+    quote: "European Prime Goal starts out as a very good game and it has to be said it plays very well in two player mode but at the end of the day this is just another football game struggling to survive in the Premier League."
+  - magazine: "Nintendo Magazine System"
+    score: "80/100"
+    quote: "For a football game to succeed it has to be realistic and although this is fun to play it's not for serious football fans."
+  - magazine: "Total! (Germany, translated)"
+    score: "3.25/6"
+    quote: "In short, if you want to get a football game, you should reach for ISSD or the action-heavy Fever Pitch Soccer. 90 Minutes is at most for beginners — professionals and football fans will only get a tired smile from it."
 excerpt: "First we had platformers, then JRPGs, now a sports game, and the trifecta of popular game types on the SNES is complete. Namco's Japan-only Prime Goal series reworked for a European audience."
 ---
 
