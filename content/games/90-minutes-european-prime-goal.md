@@ -122,6 +122,11 @@ seemed like they all stuck together off the back of this game.
 
 ## Box art
 
+![90 Minutes: European Prime Goal, PAL front cover](/games/90-minutes-european-prime-goal/front.jpg)
+![Back cover, with screenshots and feature copy](/games/90-minutes-european-prime-goal/back.jpg)
+
+*PAL release, 1995.*
+
 *Notes on the box art to follow.*
 
 ## The Press
