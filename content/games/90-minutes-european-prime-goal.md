@@ -2,7 +2,7 @@
 title: "90 Minutes: European Prime Goal"
 sortTitle: "90 Minutes: European Prime Goal"
 developer: "Namco"
-publisher: "Namco"
+publisher: "Ocean Software"
 released: "1995"
 region: "PAL only"
 genre: ["Sports", "Football"]
@@ -12,20 +12,94 @@ excerpt: "First we had platformers, then JRPGs, now a sports game, and the trife
 
 ## The Game
 
-*Write-up to come.*
+*90 Minutes: European Prime Goal* is an adaptation of Japan's *J-League Soccer
+Prime Goal* series created for a Western audience. While the J-League version of
+the game is fully licensed, this release has international teams with made-up
+player names, and with it being a late release in the console's life cycle I
+think it went under most people's radar. We'll find out if that's a good or bad
+thing very soon!
 
-The bones of it: a European adaptation of Namco's *J.League Soccer Prime Goal*
-series, which never left Japan in its original form. The J.League licence is
-gone, replaced with European sides, and the result is a PAL-exclusive football
-game that a lot of people have never heard of.
+It was developed by **Namco**, and what more needs to be said about Namco,
+really? Developers of some of the most well-known games of all time. *Pac-Man*,
+*Galaga*, *Dig Dug*, *Xevious*, right through to their acquisition by Bandai and
+moving into publishing some of the most popular games of today like *Elden
+Ring*. 6 decades and counting.
 
-Worth covering when you write this up:
+It was published by **Ocean Software**, who were one of the biggest developers
+and publishers of the 80s and 90s, putting out a ton of licensed games for home
+computer systems before being bought out by Infogrames, who were then bought out
+by Atari, who were then bought out by Namco Bandai, and we've come full circle!
 
-- How it plays against the two football games everyone actually remembers on
-  the system — *Sensible Soccer* and *FIFA*.
-- Whether the Prime Goal lineage shows through, or whether the European
-  conversion sanded it off.
-- What the team and player data actually looks like, given the licensing.
+### Gameplay
+
+The game plays like most football games of the era: control a player with the
+D-Pad, use the four face buttons to manipulate the ball in some fashion — pass,
+shoot, long pass, all that good stuff. The problem I personally find with
+football games of this era is the ball doesn't stick to the player as well as it
+does in modern football games, which may be realistic, but doesn't make for a
+fun game in the slightest. So it came as some surprise to me that *90 Minutes*
+actually felt more in line with an early PS1 football game in terms of control
+than other SNES football games, which could be due to the fact it released quite
+late on in the console's life cycle.
+
+The game is quite fast-paced, which means there's always something going on,
+until the momentum is broken up by these cutscenes that pop up mid-game.
+Sometimes when you run toward a defender it will change to a cutscene where you
+choose either left or right, the defender does the same, and you either dribble
+past or get tackled. It's a nice idea and it looks quite nice, but it just takes
+you out of the game a bit whenever it happens.
+
+The gameplay does have its downsides, but they are downsides that most football
+games of the era that I've played suffered with. Team AI was poor: they won't
+advance toward the ball unless you take control and run them onto it, which
+isn't ideal when tied into the second issue, which is the passing. Passing is
+always just a straight line from whichever direction you're running in, and with
+the angle of the game you can't see most of your teammates, so passing is a lot
+of guesswork where you pass off-screen, change player and hope you can run onto
+the ball — or it ends up just sitting there. Frustrating, but not surprising.
+
+The default difficulty of the game seemed quite high, and I found I had a lot
+more fun lowering that to the bottom, which might be a skill issue. But I wasn't
+making any progress whatsoever and I wanted to get through a few games and see
+as much of the game as I could, and once I had done that I did start to find
+some enjoyment out of the game. There was definitely some fun to be had here,
+especially if you had a second controller and someone to play against.
+
+I did come across a bit of a game-breaking bug where as soon as your goalkeeper
+saves a shot he can just stand there and let the time run out, so if you're a
+goal up you can just run the clock out, do the same in the second half and
+guarantee a win, which I may or may not have taken advantage of a handful of
+times!
+
+The game has a good selection of modes, including a fairly innovative attempt at
+one called "You're a hero": you name a player, choose what they look like, pick
+some attributes, then train them over the course of a year, choosing training
+sessions like sprinting and overhead shots which give you a rating, and when
+it's done you get shown your new stats. That player can then replace one of the
+players in the game, so you could create friends, family, or real-world players.
+The only downside to this that I found is if your training doesn't go well then
+the stats aren't close to the stats of the players you replace, so it felt a bit
+pointless. From what I can see you can't retrain or add anything to the stats,
+so a good attempt at something different but something that fell a bit flat
+ultimately.
+
+### Graphics
+
+Some parts of the graphics are really quite nice. The cutscenes look decent,
+there's a cool newspaper clipping at the end of each match which looked nice,
+and the players on the pitch look mostly the same with the odd different hair
+colour. But the teams are different enough that you can always see who you're
+controlling and who you're meant to be passing to, which is ultimately all you
+want from a football game of the time.
+
+### Sound and music
+
+Not really much to talk about here. The intro theme is a banger, but otherwise
+there isn't really much else. Every match is played with a weird mixture of
+music and crowd sounds that after a while do eventually sound like what you'd
+expect from a football match. Horns and chants are all recognisable, but also
+completely alien and not quite right. It's a shame, because music in Namco games
+is usually up there with the best.
 
 ## The People
 
