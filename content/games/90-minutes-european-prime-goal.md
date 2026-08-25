@@ -129,7 +129,11 @@ seemed like they all stuck together off the back of this game.
 
 *PAL release, 1995.*
 
-*Notes on the box art to follow.*
+That Ocean logo fills me with a huge amount of nostalgia — so many of our Amstrad CPC464 games were published by Ocean, and that logo was everywhere in my childhood. The design of the SNES box itself, with the black bar on the side and blue underneath, is lovely. It's just a shame the picture inside is so godawful. One full leg, a sock, the other knee, and a football — it's like they cropped the wrong part of the image, or zoomed in when they weren't supposed to and just went with it. Just awful.
+
+The back is better. Nice black-and-white image of some football men, good screenshots, and the blurb covers everything it needs to. The back does pretty much everything right — if they'd got the picture on the front right, they would've aced it.
+
+Overall I give this box a rating of — Accurate, but I wouldn't have given it a second look on the shelf because of the bullshit art on the front.
 
 ## The Press
 
