@@ -3,11 +3,11 @@ title: "90 Minutes: European Prime Goal"
 sortTitle: "90 Minutes: European Prime Goal"
 developer: "Namco"
 publisher: "Namco"
-released: "1996"
+released: "1995"
 region: "PAL only"
 genre: ["Sports", "Football"]
 status: "played"
-excerpt: "Namco's Japan-only Prime Goal football series, reworked for Europe and released in 1996 — years after most of the world had stopped making SNES games at all."
+excerpt: "First we had platformers, then JRPGs, now a sports game, and the trifecta of popular game types on the SNES is complete. Namco's Japan-only Prime Goal series reworked for a European audience."
 ---
 
 ## The Game
@@ -29,12 +29,12 @@ Worth covering when you write this up:
 
 ## The People
 
-**Namco**, deep into the PlayStation era by this point and still putting out a
-SNES cartridge in Europe. That is the story here. The console was commercially
-finished in Japan and North America by 1996, but the PAL SNES had a long, odd
-tail, and a handful of late releases — this among them — only ever existed in
-Europe. Games that shipped to one region and nowhere else are exactly the sort
-of thing an A-to-Z is for.
+**Namco**, deep into the PlayStation era and still putting out a SNES cartridge
+in Europe. That is the story here. The console was commercially finished in
+Japan and North America by then, but the PAL SNES had a long, odd tail, and a
+handful of late releases — this among them — only ever existed in Europe. Games
+that shipped to one region and nowhere else are exactly the sort of thing an
+A-to-Z is for.
 
 > Notes for expansion: confirm whether development was in-house at Namco or
 > contracted out, and pin down which entry in the Prime Goal series this is
@@ -46,7 +46,7 @@ of thing an A-to-Z is for.
 
 ## The Press
 
-To be filled in from contemporary magazines. A 1996 PAL release means the UK
+To be filled in from contemporary magazines. A 1995 PAL release means the UK
 magazines are the only ones that covered it — and by then most of them had
 moved on, so coverage may be thin or non-existent. If nothing turns up, that
 absence is itself worth writing about.
