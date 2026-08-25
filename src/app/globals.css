@@ -279,6 +279,12 @@ body {
    has already been resampled to 640x480 — something the file extension cannot
    tell you. */
 
+/* Logos carry genuine alpha transparency — no white backing or border. */
+.article img[src*="/logo."] {
+  border: none;
+  background-color: transparent;
+}
+
 .article table {
   width: 100%;
   border-collapse: collapse;
