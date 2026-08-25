@@ -14,6 +14,8 @@ verdict: "Completely average, straight down the middle, nothing great, nothing o
 
 ## The Game
 
+![3 Ninjas Kick Back logo](/games/3-ninjas-kick-back/logo.jpg)
+
 3 Ninjas Kick Back is a licensed action platformer, which you'll discover going
 forwards was the 90s console's bread and butter! If it was even remotely
 popular, it had a game, and a lot of the time that game was an action
