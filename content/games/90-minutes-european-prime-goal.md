@@ -103,16 +103,22 @@ is usually up there with the best.
 
 ## The People
 
-**Namco**, deep into the PlayStation era and still putting out a SNES cartridge
-in Europe. That is the story here. The console was commercially finished in
-Japan and North America by then, but the PAL SNES had a long, odd tail, and a
-handful of late releases — this among them — only ever existed in Europe. Games
-that shipped to one region and nowhere else are exactly the sort of thing an
-A-to-Z is for.
+One of the biggest names that worked on this game was **Naomi Yanagisawa**, who
+worked on the graphics. He went on to work in design management for *Super Smash
+Bros.* on the Wii U and 3DS, was General Manager on some of the *Tales of*
+series of RPGs, Progress Management on *Mario Kart 8* and *Mario Kart 8 Deluxe*,
+and got various Special Thanks credits on games including *Super Smash Bros.
+Ultimate* on Switch, so he really ended up making a name for himself after this!
 
-> Notes for expansion: confirm whether development was in-house at Namco or
-> contracted out, and pin down which entry in the Prime Goal series this is
-> derived from. Confirm the player count and whether it supports the multitap.
+There was also **Yoichi Take**, one of the programmers, who went on to work on
+*Super Smash Bros. Brawl* on the Wii as a programmer, was a Development Producer
+on *NieR Replicant*, and was eventually credited as CEO for the development of
+*Dragon Quest XI* on PS4 — another long and storied career after this SNES
+football game!
+
+A lot of the rest of the people that worked on this also ended up in the *Tales
+of* series, some in *Smash Bros.*, and a few worked on the *Klonoa* games, so it
+seemed like they all stuck together off the back of this game.
 
 ## Box art
 
