@@ -15,6 +15,8 @@ verdict: "Above average. I respect it for what it tried to do different, but the
 
 ## The Game
 
+![The 7th Saga logo](/games/7th-saga/logo.jpg)
+
 The 7th Saga is a punishing JRPG with a unique twist to its gameplay. I said in
 my first review that licensed platformers were the Super Nintendo's bread and
 butter, but I think you could say that licensed platformers are the bread, and
