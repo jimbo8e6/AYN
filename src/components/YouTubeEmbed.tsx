@@ -6,7 +6,7 @@ type Props = {
 
 export default function YouTubeEmbed({ videoId, title, label }: Props) {
   return (
-    <div className="mt-16 flex flex-col items-center">
+    <div className="mt-4 flex flex-col items-start">
       <a
         href={`https://www.youtube.com/watch?v=${videoId}`}
         target="_blank"
