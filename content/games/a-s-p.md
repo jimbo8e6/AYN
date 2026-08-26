@@ -1,8 +1,8 @@
 ---
 title: "A.S.P Air Strike Patrol"
 sortTitle: "A.S.P Air Strike Patrol"
-developer: ""
-publisher: ""
+developer: "Opus Corp."
+publisher: "SETA"
 released: "1994"
 region: "North America"
 genre: ["Action", "Shoot 'em up"]
