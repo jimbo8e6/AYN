@@ -1,13 +1,16 @@
 "use client";
 
-type Video = { id: string; label?: string };
+import { useState } from "react";
 
-type Props = {
-  videos: Video[];
-  title: string;
-};
+type Video = { id: string; label?: string };
+type Props = { videos: Video[]; title: string };
 
 function Thumbnail({ video, title }: { video: Video; title: string }) {
+  const [src, setSrc] = useState(
+    `https://i.ytimg.com/vi/${video.id}/maxresdefault.jpg`,
+  );
+  const [visible, setVisible] = useState(true);
+
   return (
     <div className="flex flex-1 max-w-[50%] flex-col">
       <a
@@ -17,6 +20,26 @@ function Thumbnail({ video, title }: { video: Video; title: string }) {
         aria-label={`Watch on YouTube: ${video.label ?? title}`}
         className="group relative block aspect-video overflow-hidden border border-line bg-ink"
       >
+        {visible && (
+          <img
+            src={src}
+            alt=""
+            className="h-full w-full object-cover transition-opacity duration-200 group-hover:opacity-75"
+            onLoad={(e) => {
+              // YouTube's grey placeholder is 120×90 — hide it so bg-ink shows instead
+              if (e.currentTarget.naturalWidth <= 120) {
+                setVisible(false);
+              }
+            }}
+            onError={() => {
+              if (!src.includes("hqdefault")) {
+                setSrc(`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`);
+              } else {
+                setVisible(false);
+              }
+            }}
+          />
+        )}
         <div className="absolute inset-0 flex flex-col items-center justify-center gap-2">
           <div className="flex h-10 w-10 items-center justify-center rounded-full bg-ink/75 transition-colors duration-200 group-hover:bg-ink">
             <svg
