@@ -296,7 +296,7 @@ body {
    tell you. */
 
 /* Logos carry genuine alpha transparency — no white backing or border. */
-.article img[src*="/logo."] {
+.article img[src*="/logo"] {
   border: none;
   background-color: transparent;
 }
