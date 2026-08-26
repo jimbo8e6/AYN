@@ -17,7 +17,7 @@ excerpt: "First we had platformers, then JRPGs, now a sports game, and the trife
 
 ## The Game
 
-![The 90 Minutes: European Prime Goal logo — a red and blue "90" roundel with green and yellow wings, "minutes" across it and "EUROPEAN PRIME GOAL" beneath](/games/90-minutes-european-prime-goal/logo.png)
+![The 90 Minutes: European Prime Goal logo - a red and blue "90" roundel with green and yellow wings, "minutes" across it and "EUROPEAN PRIME GOAL" beneath](/games/90-minutes-european-prime-goal/logo.png)
 
 *90 Minutes: European Prime Goal* is an adaptation of Japan's *J-League Soccer
 Prime Goal* series created for a Western audience. While the J-League version of
@@ -42,7 +42,7 @@ were then bought out by Namco Bandai, and we've come full circle!
 ### Gameplay
 
 The game plays like most football games of the era: control a player with the
-D-Pad, use the four face buttons to manipulate the ball in some fashion — pass,
+D-Pad, use the four face buttons to manipulate the ball in some fashion - pass,
 shoot, long pass, all that good stuff. The problem I personally find with
 football games of this era is the ball doesn't stick to the player as well as it
 does in modern football games, which may be realistic, but doesn't make for a
@@ -69,7 +69,7 @@ isn't ideal when tied into the second issue, which is the passing. Passing is
 always just a straight line from whichever direction you're running in, and with
 the angle of the game you can't see most of your teammates, so passing is a lot
 of guesswork where you pass off-screen, change player and hope you can run onto
-the ball — or it ends up just sitting there. Frustrating, but not surprising.
+the ball - or it ends up just sitting there. Frustrating, but not surprising.
 
 The default difficulty of the game seemed quite high, and I found I had a lot
 more fun lowering that to the bottom, which might be a skill issue. But I wasn't
@@ -134,7 +134,7 @@ Ultimate* on Switch, so he really ended up making a name for himself after this!
 There was also **Yoichi Take**, one of the programmers, who went on to work on
 *Super Smash Bros. Brawl* on the Wii as a programmer, was a Development Producer
 on *NieR Replicant*, and was eventually credited as CEO for the development of
-*Dragon Quest XI* on PS4 — another long and storied career after this SNES
+*Dragon Quest XI* on PS4 - another long and storied career after this SNES
 football game!
 
 A lot of the rest of the people that worked on this also ended up in the *Tales
@@ -148,11 +148,11 @@ seemed like they all stuck together off the back of this game.
 
 *PAL release, 1995.*
 
-That Ocean logo fills me with a huge amount of nostalgia — so many of our Amstrad CPC464 games were published by Ocean, and that logo was everywhere in my childhood. The design of the SNES box itself, with the black bar on the side and blue underneath, is lovely. It's just a shame the picture inside is so godawful. One full leg, a sock, the other knee, and a football — it's like they cropped the wrong part of the image, or zoomed in when they weren't supposed to and just went with it. Just awful.
+That Ocean logo fills me with a huge amount of nostalgia - so many of our Amstrad CPC464 games were published by Ocean, and that logo was everywhere in my childhood. The design of the SNES box itself, with the black bar on the side and blue underneath, is lovely. It's just a shame the picture inside is so godawful. One full leg, a sock, the other knee, and a football - it's like they cropped the wrong part of the image, or zoomed in when they weren't supposed to and just went with it. Just awful.
 
-The back is better. Nice black-and-white image of some football men, good screenshots, and the blurb covers everything it needs to. The back does pretty much everything right — if they'd got the picture on the front right, they would've aced it.
+The back is better. Nice black-and-white image of some football men, good screenshots, and the blurb covers everything it needs to. The back does pretty much everything right - if they'd got the picture on the front right, they would've aced it.
 
-Overall I give this box a rating of — Accurate, but I wouldn't have given it a second look on the shelf because of the bullshit art on the front.
+Overall I give this box a rating of - Accurate, but I wouldn't have given it a second look on the shelf because of the bullshit art on the front.
 
 ## The Press
 

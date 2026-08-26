@@ -65,9 +65,9 @@ the game.
 ![A ninja perched on a rock in a jungle cavern, a huge boulder poised above and vines strung across the gap below](/games/3-ninjas-kick-back/screen-3.png)
 
 The thing I found strange about this game was that one level was really detailed
-and full of quite cool interactive elements — throwing enemies into electrical
+and full of quite cool interactive elements - throwing enemies into electrical
 fixtures, dropping things from the background onto their heads, pillows
-exploding when you slashed them with your sword — but every other level was just
+exploding when you slashed them with your sword - but every other level was just
 some sort of brown, outdoor borefest, and it just seemed like all their eggs
 were in one basket and by world 4 someone has just thrown that basket out the
 window.
@@ -157,13 +157,13 @@ at least cropped it so their feet weren't outside of the image!
 As for the back, it has a nice selection of screenshots, but does give away the
 best-looking boss in the game, and the description has a few interesting points:
 
-- **Scorching hot graphics** — *Let's not go too far, shall we. They're fine.*
-- **Interact with various items throughout your quest and use them to your benefit** — *Yeah, in one level.*
-- **Intense two-player action** — *Can't comment on this one — didn't drag anyone else along for the ride!*
-- **Tons of hidden passages and areas** — *I mean, I guess… There were a few hidden areas in a couple of levels.*
-- **Awesome sound effects** — *No.*
-- **Many nasty-looking bosses to defeat** — *5, I think — again, they were fine.*
-- **Over 12 huge areas filled with fast-paced excitement and dozens of secret rooms to discover** — *I really wouldn't call the areas huge, even for the time, and they keep going on about hidden areas — maybe they were just too hidden and I missed them!*
+- **Scorching hot graphics** - *Let's not go too far, shall we. They're fine.*
+- **Interact with various items throughout your quest and use them to your benefit** - *Yeah, in one level.*
+- **Intense two-player action** - *Can't comment on this one - didn't drag anyone else along for the ride!*
+- **Tons of hidden passages and areas** - *I mean, I guess… There were a few hidden areas in a couple of levels.*
+- **Awesome sound effects** - *No.*
+- **Many nasty-looking bosses to defeat** - *5, I think - again, they were fine.*
+- **Over 12 huge areas filled with fast-paced excitement and dozens of secret rooms to discover** - *I really wouldn't call the areas huge, even for the time, and they keep going on about hidden areas - maybe they were just too hidden and I missed them!*
 
 Overall I give this box a rating of &mdash; **Misleading, inaccurate, and
 would've probably upset 8-year-old me.**

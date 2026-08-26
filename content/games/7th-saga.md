@@ -50,7 +50,7 @@ likely you, this game does not fuck around!
 ![A weapon shop interior, racks of swords and armour lining the walls](/games/7th-saga/shop.jpg)
 ![A red-carpeted throne room with the action menu open: Talk, Magic, Item, Status, Search](/games/7th-saga/throne-room.jpg)
 
-The game brings 7 apprentices together to save the world — standard story for
+The game brings 7 apprentices together to save the world - standard story for
 this sort of game. These 7 apprentices must find 7 runes to seal away the evil
 trying to take over the world, and these characters are where the first
 innovation attempt is brought into play. You choose one of these characters in a
@@ -62,7 +62,7 @@ won't care about you, some will even betray you and try and kill you. You can
 even lose runes you've collected to these characters if you fall to them in
 battle. It really does make this a unique gameplay experience.
 
-![A character introduction in a stone chamber, captioned "human — Kamil Dowonna"](/games/7th-saga/kamil.jpg)
+![A character introduction in a stone chamber, captioned "human - Kamil Dowonna"](/games/7th-saga/kamil.jpg)
 
 The other attempt at innovation (for the time) is a crystal ball that gives you
 a radar as you walk the overworld. On this radar you can see towns, towns flash
@@ -76,10 +76,10 @@ that difficulty is the high encounter rate. You have really hard battles back to
 back to back, and when you just want to get from one town to the next quickly,
 it does get frustrating.
 
-![The overworld with the crystal ball radar active — a translucent disc plotting nearby towns and enemies](/games/7th-saga/radar.jpg)
+![The overworld with the crystal ball radar active - a translucent disc plotting nearby towns and enemies](/games/7th-saga/radar.jpg)
 
 Supposedly the difficulty of the game was increased for the Western audience,
-and they halved the rate of experience earned — and it certainly feels like
+and they halved the rate of experience earned - and it certainly feels like
 that! Although during research I came across an interview with Robert Jerauld,
 who worked on localisation, and he had something slightly different to say:
 
@@ -131,7 +131,7 @@ you've failed your partner. Little touches like that just make the game world
 feel much more alive. That, combined with some of the interactions you can have
 with the 7, really makes the game stand out above its flaws. At one point one of
 the 7 challenged me to a fight. This was an optional fight that, as far as I'm
-aware, doesn't happen in every playthrough, but when I won that was it — he was
+aware, doesn't happen in every playthrough, but when I won that was it - he was
 dead and gone from the story forever. The game really does make some ballsy
 decisions and I have to give it credit for that.
 
@@ -150,14 +150,14 @@ that really was the standout feature of the game. Well, that and…
 The music in this game is fantastic, a mixture of upbeat, techno-esque battle
 music, tension-building dungeon music, and hope-filling overworld music. The
 sound effects are what you'd expect but the music really is the highlight. Each
-track builds on one emotion or another, and they're not just ten-second loops —
+track builds on one emotion or another, and they're not just ten-second loops -
 the soundtrack has 38 tracks and you can listen to it
 [here](https://downloads.khinsider.com/game-soundtracks/album/7th-saga-nes-rip).
 
 ## The People
 
-Looking at the people behind this game, there aren't too many surprises —
-veterans in the JRPG world in some places — but what surprised me most was that
+Looking at the people behind this game, there aren't too many surprises -
+veterans in the JRPG world in some places - but what surprised me most was that
 the game's Music Composer **Norihiko Yamanuki** has 2 credits only: this, and a
 game from 1990 called *Mado King Granzort* for the SuperGrafx.
 
@@ -189,15 +189,15 @@ backgrounds!
 
 Let's break down the text on the back:
 
-- **The graphics are eye-popping, breath-taking, stunning and unbelievable** — *Yeah, I'll give them that one!*
+- **The graphics are eye-popping, breath-taking, stunning and unbelievable** - *Yeah, I'll give them that one!*
 
-- **This is no hack-and-slash, rip-your-guts-out fighter!** — *Again, accurate, but a bold move to start by advertising what your game isn't!*
+- **This is no hack-and-slash, rip-your-guts-out fighter!** - *Again, accurate, but a bold move to start by advertising what your game isn't!*
 
-- **This is the future of RPGs, right here in your hands!** — *Debatable.*
+- **This is the future of RPGs, right here in your hands!** - *Debatable.*
 
-- **With music this good, you won't turn the sound off — you'll turn it up!** — *Again, true, but who was going around playing their SNES with the sound off?*
+- **With music this good, you won't turn the sound off - you'll turn it up!** - *Again, true, but who was going around playing their SNES with the sound off?*
 
-- **No more small elves leading your team! This game contains real, believable figures.** — *Okay, this one I really have an issue with…*
+- **No more small elves leading your team! This game contains real, believable figures.** - *Okay, this one I really have an issue with…*
 
   Firstly, I'm guessing it's a dig at *Final Fantasy*, maybe *Dragon Quest* too,
   but point 1: since when is having an Elf leading the team a bad thing? Also
@@ -207,19 +207,19 @@ Let's break down the text on the back:
   Also also, real believable figures? Let me list the characters in the game
   really quick:
 
-  - Valsu — The Human
-  - Esuna — The Elf
-  - Lejes — The Demon
-  - Kamil — Another Human
-  - Olvan — The Dwarf
-  - Lux — The Tetujin (a robot)
-  - Wilme — The Alien
+  - Valsu - The Human
+  - Esuna - The Elf
+  - Lejes - The Demon
+  - Kamil - Another Human
+  - Olvan - The Dwarf
+  - Lux - The Tetujin (a robot)
+  - Wilme - The Alien
 
   Ah yes, those classic "believable figures".
 
 Then some typical game-selling blurb, finishing with:
 
-- **This is one powerful RPG. Can you handle it?!** — *I mean, honestly? Without save states? No… and to expect little 7-year-old me to be able to is absurd!*
+- **This is one powerful RPG. Can you handle it?!** - *I mean, honestly? Without save states? No… and to expect little 7-year-old me to be able to is absurd!*
 
 Overall I give this box a rating of &mdash; **Mostly accurate, but trying too
 hard to be the "cool new RPG", punching down on franchises that left it in the
