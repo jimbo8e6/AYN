@@ -8,6 +8,7 @@ region: "North America"
 genre: ["Platformer", "Licensed"]
 status: "played"
 score: 5
+youtubeId: "wWaM7FgldfQ"
 excerpt: "The first game in my alphabetical project, and the first (of many) 90s movie tie-in platformers! Based on the 1994 movie of the same name."
 verdict: "Completely average, straight down the middle, nothing great, nothing offensively bad."
 ---
