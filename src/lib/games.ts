@@ -30,6 +30,7 @@ export type GameMeta = {
   verdict?: string;
   excerpt?: string;
   magazineReviews: MagazineReview[];
+  youtubeId?: string;
   draft: boolean;
 };
 
@@ -114,6 +115,7 @@ function parseGame(fileName: string): Game {
     verdict: data.verdict ? String(data.verdict) : undefined,
     excerpt: data.excerpt ? String(data.excerpt) : undefined,
     magazineReviews: asReviews(data.magazineReviews),
+    youtubeId: data.youtubeId ? String(data.youtubeId) : undefined,
     draft: data.draft === true,
     content,
   };

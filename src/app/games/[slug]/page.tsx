@@ -5,6 +5,7 @@ import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import AccentRule from "@/components/AccentRule";
 import MagazineReviews from "@/components/MagazineReviews";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
 import StatusBadge from "@/components/StatusBadge";
 import ZoomableImage from "@/components/ZoomableImage";
 import { formatReleased, getAllGames, getGame } from "@/lib/games";
@@ -168,6 +169,10 @@ export default async function GamePage({ params }: PageProps) {
             )}
           </div>
         </section>
+      )}
+
+      {game.youtubeId && (
+        <YouTubeEmbed videoId={game.youtubeId} title={game.title} />
       )}
 
       {/* Prev / next ------------------------------------------------ */}
