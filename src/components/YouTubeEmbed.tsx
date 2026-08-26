@@ -1,3 +1,5 @@
+"use client";
+
 type Video = { id: string; label?: string };
 
 type Props = {
@@ -19,6 +21,12 @@ function Thumbnail({ video, title }: { video: Video; title: string }) {
           src={`https://i.ytimg.com/vi/${video.id}/maxresdefault.jpg`}
           alt=""
           className="h-full w-full object-cover transition-opacity duration-200 group-hover:opacity-75"
+          onError={(e) => {
+            const img = e.currentTarget;
+            if (!img.src.includes("hqdefault")) {
+              img.src = `https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`;
+            }
+          }}
         />
 
         <div className="absolute inset-0 flex flex-col items-center justify-center gap-2">
