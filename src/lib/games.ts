@@ -138,7 +138,6 @@ export function getAllGames(): Game[] {
     // numeric so "3 Ninjas" comes before "10-Yard Fight" rather than after it.
     .sort((a, b) =>
       a.sortTitle.localeCompare(b.sortTitle, "en", {
-        sensitivity: "base",
         numeric: true,
       }),
     );
