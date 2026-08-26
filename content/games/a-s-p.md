@@ -8,6 +8,9 @@ region: "North America"
 genre: ["Action", "Shoot 'em up"]
 status: "played"
 score: 8
+youtube:
+  - id: "fnqOlRepAqM"
+    label: "10 minutes of Air Strike Patrol. All credit to 10 min. of SNES on Youtube."
 verdict: "By far the most fun I've had in this series, lovely graphics, a great soundtrack, engaging sound effects, and really fun gameplay to boot. The only thing holding it back is longevity, and a repetitive gameplay loop. Multiple endings are maybe not enough to bring people back."
 excerpt: "4 games, and 4 different genres. People are going to start thinking I'm lying about the SNES being full of platformers, and RPGs! Just you wait though..."
 ---
