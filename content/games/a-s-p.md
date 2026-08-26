@@ -60,6 +60,7 @@ Seven people worked on the graphics for this game. Four of them were never credi
 
 ![A.S.P Air Strike Patrol, North American front cover](/games/a-s-p/frontUS.jpg)
 ![Desert Fighter, European front cover](/games/a-s-p/frontEU.jpg)
+
 ![Back cover, with six screenshots and a bullet point feature list](/games/a-s-p/back.jpg)
 
 *North American release as A.S.P Air Strike Patrol, 1994. European release as Desert Fighter.*
