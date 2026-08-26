@@ -33,3 +33,25 @@ The feel of the planes is really nice — you have speed controls and an actual 
 Not only do you have to consider the time, but your fuel and ammo are limited in each run, so you really have to make every shot count if you want to complete the mission on schedule. I really liked the way this all felt — it almost gave the game a sense of realism and a bit of planning. Failed missions don't end the game, but they can make later missions harder, make people start to dislike you, and can even affect the ending.
 
 Everything in the game just feels satisfying, especially the bombing runs — bombing a huge refinery and seeing all the destruction in your wake never got old. So while the gameplay loop is repetitive, it's so much fun it didn't really bother me. The targets were visually distinct enough, and the story was intriguing enough to keep you pushing on.
+
+### Graphics
+
+I love the graphics in this game. The planes look great with a 3D-esque look to them as you're turning in the sky above your targets, loads of nice big sprites with good looking animations, and some great destruction sprites after the fact too — every building, every unit, they all have destroyed sprites that stay on the battlefield when you're finished.
+
+There was some nice artwork between missions too: the CNN-style news report, the pixel art drawings in the mission briefing, there's even a small but great looking digitised person at the bottom of the screen during your briefing that does exactly what it needs to.
+
+The aesthetic of the mission briefing in general is really well done — very clear layout, just all put together nicely, and a pleasant surprise.
+
+### Sound and Music
+
+Both great. The sound is exactly what you want from a game like this: explosions, bullets whizzing past, rockets launching with a whoosh, tension-filled lock-on warning beeps — it does everything you'd want it to do. Coupled with the music it makes for a really good package, and by far the best all-round package I've heard in the series so far.
+
+The music is a good mix of high-octane high-tempo tracks, slower more relaxed pieces, and then some really funky jazzy stuff to top it all off. Well worth a listen and can be found [here](https://downloads.khinsider.com/game-soundtracks/album/a.s.p.-air-strike-patrol-snes).
+
+## The People
+
+Going into the people behind this game we may as well start with the music, seeing as that's where I just left off. Like the developer and publisher, **Jun Enoki** worked on a lot of games but never really anything too standout. The last game they worked on was in 2018 — *Onimusha Warlords*. One of the first games they worked on was a Japanese-exclusive Where's Wally (Waldo) game called *Wally wo Sagase! Ehon no Kuni no Daibōken*, which may seem an odd thing to bring up, but it will be relevant.
+
+The person responsible for the 3D models was credited as **K. Suzuki**, and they worked on this and also did 3D models for *Digimon World 2* on the PS1, and that's it — those are the only games they worked on. Yet they had Special Thanks credits on *Shin Megami Tensei* and *Chrono Trigger*, so how that happened is beyond me!
+
+Seven people worked on the graphics for this game. Four of them were never credited on another game after this. One was credited on two games — this one and *Wally wo Sagase!* One was credited on three games, including *Wally wo Sagase!* Two people were credited for game design: one only ever worked on this game, the other worked on this and one other. Guess which one? Yep, *Wally wo Sagase! Ehon no Kuni no Daibōken*. Nine people on this game were also credited on that one, and the majority of them never worked in gaming again — a surprise, given how well put together this game is.
