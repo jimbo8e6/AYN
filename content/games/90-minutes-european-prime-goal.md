@@ -10,7 +10,7 @@ status: "played"
 score: 5
 youtube:
   - id: "P94ui19X9Ek"
-    label: "10 minutes of 90 Minutes European Prime Goal"
+    label: "10 minutes of 90 Minutes European Prime Goal. All credit to 10 min. of SNES."
 verdict: "Another average game, nothing offensive but nothing stands out either. Could be a lot of fun with a friend, but on your own you will get tired of it quickly."
 excerpt: "First we had platformers, then JRPGs, now a sports game, and the trifecta of popular game types on the SNES is complete. Namco's Japan-only Prime Goal series reworked for a European audience."
 ---
