@@ -81,3 +81,23 @@ Having a look at the back, I like it a lot - six crisp, clear screenshots surrou
 The one thing I will say is 8 missions doesn't seem like the biggest selling point, but the multiple endings do add to that a bit.
 
 Overall I give this box a rating of - Accurate. Everything it said was completely true, and it sold the game pretty well.
+
+## The Press
+
+*Computer & Video Games (CVG)*:
+
+> I'm not a fan of strategic war games at all, in fact I generally loathe them. That is until I came across Desert Fighter. There is so much to do in this game and it isn't all about bombing everything in sight, which is what I usually do! The graphics may look very realistic and the accompanying sound is just as good. You can really hear the engines of the planes and the bombs blasting on the ground and it doesn't glorify war at all, which is another bonus. It's challenging and gripping and I'd say worth every penny.
+>
+> **94/100**
+
+*GamePro*:
+
+> For serious airware buffs who have flown EA's Strike games and F-15 Strike Eagle, ASP is your next objective.
+>
+> **4/5**
+
+*Electronic Gaming Monthly (EGM)*:
+
+> Veteran players of these kinds of flying games will immediately take to it, but for others it will take practice to get the game control down (being a jet, you may have to make several passes over a target in order to destroy it). Still, the cinemas are well done (the GNN news is a nice touch), and there are plenty of weapons to use.
+>
+> **28/50**
