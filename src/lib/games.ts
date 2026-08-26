@@ -30,8 +30,7 @@ export type GameMeta = {
   verdict?: string;
   excerpt?: string;
   magazineReviews: MagazineReview[];
-  youtubeId?: string;
-  youtubeLabel?: string;
+  youtube: Array<{ id: string; label?: string }>;
   draft: boolean;
 };
 
@@ -45,6 +44,16 @@ function asStringArray(value: unknown): string[] {
   if (Array.isArray(value)) return value.map((entry) => String(entry));
   if (typeof value === "string" && value.trim() !== "") return [value];
   return [];
+}
+
+function asYoutube(value: unknown): Array<{ id: string; label?: string }> {
+  if (!Array.isArray(value)) return [];
+  return value.flatMap((entry) => {
+    if (typeof entry !== "object" || entry === null) return [];
+    const v = entry as Record<string, unknown>;
+    if (typeof v.id !== "string") return [];
+    return [{ id: v.id, label: v.label ? String(v.label) : undefined }];
+  });
 }
 
 function asReviews(value: unknown): MagazineReview[] {
@@ -116,8 +125,7 @@ function parseGame(fileName: string): Game {
     verdict: data.verdict ? String(data.verdict) : undefined,
     excerpt: data.excerpt ? String(data.excerpt) : undefined,
     magazineReviews: asReviews(data.magazineReviews),
-    youtubeId: data.youtubeId ? String(data.youtubeId) : undefined,
-    youtubeLabel: data.youtubeLabel ? String(data.youtubeLabel) : undefined,
+    youtube: asYoutube(data.youtube),
     draft: data.draft === true,
     content,
   };

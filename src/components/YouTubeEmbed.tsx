@@ -1,21 +1,22 @@
+type Video = { id: string; label?: string };
+
 type Props = {
-  videoId: string;
+  videos: Video[];
   title: string;
-  label?: string;
 };
 
-export default function YouTubeEmbed({ videoId, title, label }: Props) {
+function Thumbnail({ video, title }: { video: Video; title: string }) {
   return (
-    <div className="mt-4 flex flex-col items-start">
+    <div className="flex flex-1 max-w-[50%] flex-col">
       <a
-        href={`https://www.youtube.com/watch?v=${videoId}`}
+        href={`https://www.youtube.com/watch?v=${video.id}`}
         target="_blank"
         rel="noopener noreferrer"
-        aria-label={`Watch on YouTube: ${label ?? title}`}
-        className="group relative block w-1/2 aspect-video overflow-hidden border border-line"
+        aria-label={`Watch on YouTube: ${video.label ?? title}`}
+        className="group relative block aspect-video overflow-hidden border border-line"
       >
         <img
-          src={`https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg`}
+          src={`https://i.ytimg.com/vi/${video.id}/maxresdefault.jpg`}
           alt=""
           className="h-full w-full object-cover transition-opacity duration-200 group-hover:opacity-75"
         />
@@ -36,9 +37,21 @@ export default function YouTubeEmbed({ videoId, title, label }: Props) {
         </div>
       </a>
 
-      {label && (
-        <p className="mt-3 text-sm text-muted">{label}</p>
+      {video.label && (
+        <p className="mt-2 text-sm text-muted">{video.label}</p>
       )}
+    </div>
+  );
+}
+
+export default function YouTubeEmbed({ videos, title }: Props) {
+  if (videos.length === 0) return null;
+
+  return (
+    <div className="mt-4 flex gap-3">
+      {videos.map((video) => (
+        <Thumbnail key={video.id} video={video} title={title} />
+      ))}
     </div>
   );
 }

@@ -171,9 +171,7 @@ export default async function GamePage({ params }: PageProps) {
         </section>
       )}
 
-      {game.youtubeId && (
-        <YouTubeEmbed videoId={game.youtubeId} title={game.title} label={game.youtubeLabel} />
-      )}
+      <YouTubeEmbed videos={game.youtube} title={game.title} />
 
       {/* Prev / next ------------------------------------------------ */}
       {(previous || next) && (
