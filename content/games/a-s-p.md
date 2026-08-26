@@ -55,3 +55,28 @@ Going into the people behind this game we may as well start with the music, seei
 The person responsible for the 3D models was credited as **K. Suzuki**, and they worked on this and also did 3D models for *Digimon World 2* on the PS1, and that's it — those are the only games they worked on. Yet they had Special Thanks credits on *Shin Megami Tensei* and *Chrono Trigger*, so how that happened is beyond me!
 
 Seven people worked on the graphics for this game. Four of them were never credited on another game after this. One was credited on two games — this one and *Wally wo Sagase!* One was credited on three games, including *Wally wo Sagase!* Two people were credited for game design: one only ever worked on this game, the other worked on this and one other. Guess which one? Yep, *Wally wo Sagase! Ehon no Kuni no Daibōken*. Nine people on this game were also credited on that one, and the majority of them never worked in gaming again — a surprise, given how well put together this game is.
+
+## Box art
+
+![A.S.P Air Strike Patrol, North American front cover](/games/a-s-p/frontUS.jpg)
+![Desert Fighter, European front cover](/games/a-s-p/frontEU.jpg)
+![Back cover, with six screenshots and a bullet point feature list](/games/a-s-p/back.jpg)
+
+*North American release as A.S.P Air Strike Patrol, 1994. European release as Desert Fighter.*
+
+A treat this time — two completely different front covers to look at. Both sell the game for what it is, and I think I'd have been drawn to either of them had I seen them in a game store growing up. I give the edge to the US art though: it's got a hand-drawn style that I really like, really detailed, and it puts the A-10 front and centre — my plane of choice for the game. The EU art is really nice too, but I prefer the lighter look of the US one.
+
+One thing I find interesting about the box is there's no mention of Opus anywhere — only SETA. The only other name on the front is *Dynamic Growth*, which after a bit of research turns out to be a trademark of SETA, used as a slogan across their games. So nothing about Opus at all, and they made the damn game!
+
+Having a look at the back, I like it a lot — six crisp, clear screenshots surrounding the game's blurb. The description is accurate, but let's have a look at those bullet points. I love to dispute a box art bullet point:
+
+- **Fly an A-10 or an F-15** — *Okay… nothing to dispute there.*
+- **Destroy enemy forces with devastating hi-tech weapons** — *Got to agree with that too. 2 for 2.*
+- **Command detailed missions with realistic objectives** — *Again, true. Dammit game, why won't you let me rip into you!*
+- **Balance complex military, economic, and political factors to achieve victory** — *All tied into the multiple endings, so yes — accurate!*
+- **Watch GNN report the fighting** — *Those news reports I mentioned. That's GNN.*
+- **8 Missions with different endings based on performance** — *True. A clean sweep for A.S.P — the first we've seen.*
+
+The one thing I will say is 8 missions doesn't seem like the biggest selling point, but the multiple endings do add to that a bit.
+
+Overall I give this box a rating of — **Accurate. Everything it said was completely true, and it sold the game pretty well.**
