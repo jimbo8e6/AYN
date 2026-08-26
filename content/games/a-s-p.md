@@ -7,7 +7,7 @@ released: "1994"
 region: "North America"
 genre: ["Action", "Shoot 'em up"]
 status: "played"
-excerpt: "A.S.P is a top down action flight simulator which does try a few things to separate it from the shoot-em-ups of the era. Also known as Desert Fighter in European regions. I used an American-centric list to get my list of games before I realised this, so now I have to commit to the American names for games in this review series."
+excerpt: "4 games, and 4 different genres. People are going to start thinking I'm lying about the SNES being full of platformers, and RPGs! Just you wait though..."
 ---
 
 ## The Game
