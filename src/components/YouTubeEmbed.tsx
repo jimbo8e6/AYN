@@ -17,20 +17,6 @@ function Thumbnail({ video, title }: { video: Video; title: string }) {
         aria-label={`Watch on YouTube: ${video.label ?? title}`}
         className="group relative block aspect-video overflow-hidden border border-line bg-ink"
       >
-        <img
-          src={`https://i.ytimg.com/vi/${video.id}/maxresdefault.jpg`}
-          alt=""
-          className="h-full w-full object-cover transition-opacity duration-200 group-hover:opacity-75"
-          onError={(e) => {
-            const img = e.currentTarget;
-            if (!img.src.includes("hqdefault")) {
-              img.src = `https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`;
-            }
-          }}
-        />
-
-        <div className="absolute inset-0 bg-ink/50" />
-
         <div className="absolute inset-0 flex flex-col items-center justify-center gap-2">
           <div className="flex h-10 w-10 items-center justify-center rounded-full bg-ink/75 transition-colors duration-200 group-hover:bg-ink">
             <svg
