@@ -9,6 +9,9 @@ players: "1 player"
 genre: ["RPG"]
 status: "played"
 score: 6
+youtube:
+  - id: "5UDodqTO2dc"
+    label: "7th Saga intro scene"
 excerpt: "The first of many Super Nintendo JRPGs. This one is punishing, infuriating, beautiful and original."
 verdict: "Above average. I respect it for what it tried to do different, but there was just too much going against it to give it a higher score."
 ---
