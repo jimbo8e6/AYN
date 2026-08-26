@@ -15,7 +15,7 @@ function Thumbnail({ video, title }: { video: Video; title: string }) {
         target="_blank"
         rel="noopener noreferrer"
         aria-label={`Watch on YouTube: ${video.label ?? title}`}
-        className="group relative block aspect-video overflow-hidden border border-line"
+        className="group relative block aspect-video overflow-hidden border border-line bg-ink"
       >
         <img
           src={`https://i.ytimg.com/vi/${video.id}/maxresdefault.jpg`}
