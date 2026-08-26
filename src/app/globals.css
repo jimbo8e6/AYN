@@ -251,23 +251,6 @@ body {
   background-color: var(--color-surface);
 }
 
-/* Two or more images in one paragraph sit side by side. */
-.article p:has(img ~ img) {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  justify-content: center;
-  align-items: center;
-}
-
-.article p:has(img ~ img) img {
-  flex: 1 1 auto;
-  min-width: 0;
-  width: auto;
-  max-width: calc(50% - 0.375rem);
-  margin-inline: 0;
-}
-
 /* An italic line on its own directly under an image reads as a caption. */
 .article p:has(> img) + p > em:only-child {
   display: block;
@@ -283,7 +266,7 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
   gap: 0.75rem;
-  align-items: start;
+  align-items: center;
 }
 
 .article p:has(> img + img) > img {
