@@ -19,7 +19,7 @@ excerpt: "First we had platformers, then JRPGs, now a sports game, and the trife
 
 ![The 90 Minutes: European Prime Goal logo - a red and blue "90" roundel with green and yellow wings, "minutes" across it and "EUROPEAN PRIME GOAL" beneath](/games/90-minutes-european-prime-goal/logo.png)
 
-*90 Minutes: European Prime Goal* is an adaptation of Japan's *J-League Soccer
+90 Minutes: European Prime Goal is an adaptation of Japan's *J-League Soccer
 Prime Goal* series created for a Western audience. While the J-League version of
 the game is fully licensed, this release has international teams with made-up
 player names, and with it being a late release in the console's life cycle I

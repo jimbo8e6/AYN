@@ -17,7 +17,7 @@ excerpt: "4 games, and 4 different genres. People are going to start thinking I'
 ![A.S.P Air Strike Patrol logo](/games/a-s-p/logo.png)
 ![Desert Fighter logo](/games/a-s-p/logo2.png)
 
-*A.S.P - Air Strike Patrol* is a top down action flight simulator which does try a few things to separate it from the shoot-em-ups of the era. Also known as Desert Fighter in European regions so it should have been a lot later down the line seeing as I'm in the UK, but I used an American-centric list to get my list of games before I realised this, so now I have to commit to the American names for games in this review series because I'm nothing if not consistent.
+A.S.P - Air Strike Patrol is a top down action flight simulator which does try a few things to separate it from the shoot-em-ups of the era. Also known as Desert Fighter in European regions so it should have been a lot later down the line seeing as I'm in the UK, but I used an American-centric list to get my list of games before I realised this, so now I have to commit to the American names for games in this review series because I'm nothing if not consistent.
 
 It was developed by **Opus Studios**, who were a Japanese developer established in 1990, and only just closed down a couple of years ago in 2024 - they had a long career but no real standout titles. One of the games they developed was *Half Minute Hero*, which is a fantastic game that I urge people to try out. It was published by **SETA**, who were also involved in the publishing of a lot of games with no real standouts. The USA branch SETA USA was also credited in the publishing of the game, and they did publish quite a few SNES games, but again nothing really outstanding.
 
