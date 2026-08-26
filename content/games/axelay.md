@@ -11,12 +11,30 @@ status: "upcoming"
 excerpt: "Konami's showcase shooter, alternating horizontal stages with vertical ones that bend the planet's surface toward you. Queued up next."
 ---
 
-## Up next
+## The Game
 
-Not yet played. Placeholder entry so it shows up in the running order.
+Coming soon.
 
-What I know going in: Konami built this partly to show off what the hardware
-could do, and the vertical stages — where the ground curves away over a false
-horizon — are the reason people still bring it up. The horizontal stages are
-more conventional, and the weapon-select-between-stages structure is closer to
-*Gradius* than the visuals suggest.
+### Gameplay
+
+Coming soon.
+
+### Graphics
+
+Coming soon.
+
+### Sound and Music
+
+Coming soon.
+
+## The People
+
+Coming soon.
+
+## Box art
+
+Coming soon.
+
+## The Press
+
+Coming soon.

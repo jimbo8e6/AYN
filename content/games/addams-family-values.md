@@ -4,4 +4,30 @@ sortTitle: "Addams Family Values"
 status: "played"
 ---
 
-*Write-up to follow.*
+## The Game
+
+Coming soon.
+
+### Gameplay
+
+Coming soon.
+
+### Graphics
+
+Coming soon.
+
+### Sound and Music
+
+Coming soon.
+
+## The People
+
+Coming soon.
+
+## Box art
+
+Coming soon.
+
+## The Press
+
+Coming soon.

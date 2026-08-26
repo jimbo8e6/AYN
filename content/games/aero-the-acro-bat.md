@@ -13,27 +13,28 @@ excerpt: "A circus-themed mascot platformer from the exact centre of the attitud
 
 ## The Game
 
-*Not played yet — write-up to follow.*
+Coming soon.
 
-Every publisher wanted a mascot in 1993, and Sunsoft's answer was a bat in a
-circus. Aero drills through the air, rides rollercoasters, and fires himself out
-of cannons, and the whole thing is built around momentum in a way that most
-mascot platformers of the period were not.
+### Gameplay
+
+Coming soon.
+
+### Graphics
+
+Coming soon.
+
+### Sound and Music
+
+Coming soon.
 
 ## The People
 
-Developed by **Iguana Entertainment** — the Texas studio later far better known
-for *NBA Jam* conversions and the *Turok* games — and published by **Sunsoft**,
-who by this point had a real pedigree on the NES.
+Coming soon.
 
 ## Box art
 
-*Notes on the box art to follow.*
+Coming soon.
 
 ## The Press
 
-To follow.
-
-## Screenshots
-
-*Screenshots to follow.*
+Coming soon.
