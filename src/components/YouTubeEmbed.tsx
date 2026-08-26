@@ -29,6 +29,8 @@ function Thumbnail({ video, title }: { video: Video; title: string }) {
           }}
         />
 
+        <div className="absolute inset-0 bg-ink/50" />
+
         <div className="absolute inset-0 flex flex-col items-center justify-center gap-2">
           <div className="flex h-10 w-10 items-center justify-center rounded-full bg-ink/75 transition-colors duration-200 group-hover:bg-ink">
             <svg
