@@ -251,8 +251,10 @@ body {
   background-color: var(--color-surface);
 }
 
-/* An italic line on its own directly under an image reads as a caption. */
-.article p:has(> img) + p > em:only-child {
+/* An italic line on its own directly under a multi-image block reads as a caption.
+   Scoped to multi-image paragraphs (box art) so single-image paragraphs with
+   inline italics in the following text are not caught. */
+.article p:has(> img + img) + p > em:only-child {
   display: block;
   margin-top: -0.5rem;
   text-align: center;
