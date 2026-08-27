@@ -14,9 +14,9 @@ excerpt: "The second of the licensed platformers on my list, but certainly not t
 
 Aaahh!!! Real Monsters is a licensed action platformer based on the Nickelodeon animated series of the same name. So you can expect gross out humour, bright colours, and lively animations. Question is, does it live up to those expectations?
 
-Developed by Realtime Associates Inc. Who were founded in 1986 and still going in some capacity to this day. They're notable for developing *Bug!* On the Sega Saturn which was originally intended to be an American developed 3D sonic game, until Sega of Japan pulled the plug.
+Developed by **Realtime Associates Inc.** Who were founded in 1986 and still going in some capacity to this day. They're notable for developing *Bug!* On the Sega Saturn which was originally intended to be an American developed 3D sonic game, until Sega of Japan pulled the plug.
 
-Published by Viacom New Media, a game development arm of the American corporation Viacom. They were involved in publishing a lot of licensed games, mostly from Nickelodeon and MTV throughout the 90s.
+Published by **Viacom New Media**, a game development arm of the American corporation Viacom. They were involved in publishing a lot of licensed games, mostly from Nickelodeon and MTV throughout the 90s.
 
 ### Gameplay
 
