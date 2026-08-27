@@ -74,4 +74,38 @@ Overall I give this box a rating of - Mostly accurate. I think they went a bit o
 
 ## The Press
 
-Coming soon.
+*Digitiser*:
+
+> The graphics are fair enough and faithful to the show, but the gameplay isn't worth commenting on.
+>
+> **69/100**
+
+*GamePro*:
+
+> Beginners will appreciate the game's simplicity and the easy-to-find hidden areas, but the stiff controls may frustrate some. If you enjoy the cartoon, these Monsters may pass as a rental.
+>
+> **2/5**
+
+*Game Informer*:
+
+> Based upon Nickelodeon's hit show of the same name Aaahh!!! Real Monsters is a zany and crazy quest of 3 strange creatures. You must manoeuvre Ikis, Krum and Oblina through this game's 25 levels in a quest to perfect their scaring technique. The quest is simple at first but offers increasing challenge and a number of puzzles to solve. A load of non-violent fun.
+>
+> **7.5/10**
+
+*Video Games*:
+
+> Aaahh!!! Real Monsters is a fine game, but devoid of anything spicy. Once you cut away the interesting music and colourful graphics you're left with nothing more than your average platform game. Kiddies might enjoy it nonetheless.
+>
+> **6/10**
+
+*Super Play*:
+
+> It's a tad more fun than the text above makes out but not by much, buy Mario, Lost Vikings or Pitfall 2 instead.
+>
+> **65/100**
+
+*Nintendo Magazine System*:
+
+> Aaahh!!! Real Monsters starts out as a really fun game, it's hilarious to watch the monsters scaring the crap out of every creature that dares to go near them, but after a while that novelty wears off. You tend forget you have to scare the monsters and end up just jumping on their heads in an instinctive platform fashion. Also working out which monster you need for each particular circumstance rapidly gets on your nerves. It's bright and colourful, and the control is good, but I'd only really recommend this to dedicated fans of the cartoon.
+>
+> **82/100**
