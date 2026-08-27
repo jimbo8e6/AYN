@@ -6,7 +6,7 @@ status: "played"
 
 ## The Game
 
-Coming soon.
+The second of the licensed platformers on my list, but certainly not the last! Is it better than 3 Ninja's Kick Back? Stay tuned to find out.
 
 ### Gameplay
 
