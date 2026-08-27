@@ -26,15 +26,24 @@ Published by **Viacom New Media**, a game development arm of the American corpor
 
 In this game you play one of three monsters, Ickis, Oblina, or Krum who are enrolled in a "How to be a Monster" High School thing, very similar to *Monster's Inc*/*Monster's University* but well before that time. It follows a similar story to the animated show it's based on. The headmaster of the school will send you out to find an object and you have to scare people along the way over the course of 25 very varied levels. A trash dump acts as a kind of hub world, then there are levels representing a school, a paper factory, a cinema, a museum, a science lab, so with all that variety the game doesn't ever really get too repetitive or stale. The trash dump always acts as the first level of a new world with that being the Monster's home and base of operations, so it's the only one that could maybe get a touch repetitive.
 
+![Aaahh!!! Real Monsters title screen](/games/aaahh-real-monsters/title.png)
+
 Levels are fairly long, but with well placed checkpoints, so a death is never too frustrating and in the levels you're tasked with finding a certain item before leaving, while this idea could have been interesting it fell apart for a couple of reasons, one being the item didn't ever seem relevant, it was just a random item, and you had to find the same item in all the levels of a world, but the worst part of it was almost all the time the item was just sat next to the exit of the level, meaning it was essentially pointless. If you had to explore the level for it that could've been fun, but possibly frustrating, so I get why they made it simple, but at this point you may as well have done away with it entirely.
+
+![Opening cinematic, first screen](/games/aaahh-real-monsters/opening.png)
+![Opening cinematic, second screen](/games/aaahh-real-monsters/opening2.png)
 
 The main method of attack in the game is throwing trash, 3 to 4 pieces for most enemies before they run away, and running away is all they do, you don't kill anyone in this game, that would maybe be a bit much even for 90s Nickelodeon! You can also pick up some fish bones that are more powerful that will finish an enemy in 1 or 2 hits.
 
 The levels are designed nicely, they're fairly open with multiple secret areas to find, with pipes to slide down, rails you can monkey bar across, but they never feel like a labyrinth where you're getting lost all the time. The exit was always easy enough to find but a bit of exploration was often rewarded.
 
+![Gameplay in one of the game's varied levels](/games/aaahh-real-monsters/level.png)
+
 Health is generous too, which for games of this era was a pleasant surprise, often one or two hits is enough to end your run but even though I did die a few times it does take a lot of hits to get you there and health can be found in the levels as well which usually meant you were pretty well stocked up for the boss fights, and the boss fights in the game are great! They all use different mechanics, one needs you to change the direction of a conveyor belt to drop boxes on their head, one wears goggles and you have to switch lights off, then on again to blind them, one of them you can only scare if you're stood in the light of a street light, but the street lights keep getting switched off so you have to make sure you're in the right place, they all work well and never made you feel frustrated, even when mistakes were made it always felt like my fault.
 
 The three monsters you can choose from are all playable, and they're playable simultaneously, all on screen at the same time and you can switch between them with a button press. Each monster has a unique triple team ability that is genuinely useful as well. One stacks all 3 monsters on top of each other to reach higher places, one is a slingshot to give you a longer jump, and one places its eye on the floor, and another monster uses the third monster as a golf club and launches it, giving you a way of looking further along the level to check for traps and enemies.
+
+![A basketball court level showing the game's variety](/games/aaahh-real-monsters/basketball.png)
 
 So far everything sounds hunky dory right? Well there were some frustrations. The first of which was a repeated mini boss, a dog, and each time you encounter it it gets a bit harder, and by the last encounter it was infuriating, a cramped environment, no room to manoeuvre, and when the dog bites you, you get stuck in an animation loop of being bitten, dragged across the screen, dropped and entering the recovery animation, then the dog grabs you again because the space is so small. That and a fly mini boss that takes forever to kill and is really hard to hit.
 
@@ -43,6 +52,8 @@ All this was enough, but later in the game they add instant death traps that are
 ### Graphics
 
 As you'd expect from a Nickelodeon based game, it looks fantastic. The animations are equal parts great and gross, the monsters look just like they do in the show and if you bought this in 1995 you'd feel like you were just playing an episode of the show.
+
+![A shower room level showing the game's gross-out Nickelodeon style](/games/aaahh-real-monsters/shower.png)
 
 The levels all look fantastic and distinct from each other, and the sprites and animations of the enemies are really well done too. You have kids firing spitballs at you, and after 2 or 3 shots they pause, which lets you get an attack in, but rather than just having them stand there they made the effort to animate them chewing up some more paper for their next attack. Kids throwing paper aeroplanes, cats, rats, dogs, all the bosses, they all look really good. The only negative I'd give on this side of things is the enemy variety, I pretty much just listed all of them there, there's a kid that drives an RC car at you as well, and it just seemed a shame there wasn't a bit more variety with things that related to the levels you were playing. The levels look great, so why not just go the extra mile and have enemies that directly relate to where you are. It's a small enough gripe, but a gripe nonetheless.
 
