@@ -58,6 +58,9 @@ The music was composed for the game by **Greg Turner** who had a strong career o
 
 ## Box art
 
+![Aaahh!!! Real Monsters, front cover](/games/aaahh-real-monsters/front.jpg)
+![Aaahh!!! Real Monsters, rear cover](/games/aaahh-real-monsters/rear.jpg)
+
 Coming soon.
 
 ## The Press
