@@ -50,7 +50,11 @@ Again, as you'd expect from a Nickelodeon cartoon sound and music are brilliant 
 
 ## The People
 
-Coming soon.
+There are a few really good selling points for this game, graphics, sound and music, and level design, so let's see who provided us with them. Background artists were **Ellen Kirk** and **Doran Fish** and neither really did anything of note after this, Ellen worked on a lot of games, but a lot of them were educational games for Windows, and Doran had a smaller back catalogue and was one of the Realtime Associates developers to work on *Bug!*
+
+Level design was done by **Kevin Chan** who worked on this and 2 other games, *Warlock*, and *Iron Man/X-O Manowar in Heavy Metal* so a very short career for someone with a fairly promising start.
+
+The music was composed for the game by **Greg Turner** who had a strong career of over 60 game credits including the port of *Super Star Wars: Return of the Jedi* on Game Gear and Game Boy, *Bug!* and *Bug Too!*, and the port of *Heroes of Might and Magic* for the Game Boy Colour, so it seems he was very good at taking music from one medium and putting it into a less powerful medium and still making it sound good.
 
 ## Box art
 
