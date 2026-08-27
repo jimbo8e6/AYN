@@ -8,6 +8,11 @@ region: "North America and Europe"
 genre: ["Platformer", "Licensed"]
 status: "played"
 score: 7
+youtube:
+  - id: "PW1dYzLnNa0"
+    label: "10 minutes of Aaahh!!! Real Monsters. All credit to 10 min. of SNES on Youtube."
+  - id: "8VfPz-2V8PU"
+    label: "Opening credits for Aaahh!!! Real Monsters."
 verdict: "A fun, vibrant platformer with great sound and music, lovely Nickelodeon style graphics and enough variation to keep you interested throughout. It doesn't really tread much in the way of new ground, and there are some serious frustrations that stop it getting a higher score, but definitely recommended for a fun few hours."
 excerpt: "The second of the licensed platformers on my list, but certainly not the last! Is it better than 3 Ninja's Kick Back? Stay tuned to find out."
 ---
