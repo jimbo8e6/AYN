@@ -1,6 +1,11 @@
 ---
 title: "Aaahh!!! Real Monsters"
 sortTitle: "Aaahh!!! Real Monsters"
+developer: "Realtime Associates"
+publisher: "Viacom New Media"
+released: "1995"
+region: "North America and Europe"
+genre: ["Platformer", "Licensed"]
 status: "played"
 ---
 
