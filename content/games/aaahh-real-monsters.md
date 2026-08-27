@@ -7,11 +7,12 @@ released: "1995"
 region: "North America and Europe"
 genre: ["Platformer", "Licensed"]
 status: "played"
+excerpt: "The second of the licensed platformers on my list, but certainly not the last! Is it better than 3 Ninja's Kick Back? Stay tuned to find out."
 ---
 
 ## The Game
 
-The second of the licensed platformers on my list, but certainly not the last! Is it better than 3 Ninja's Kick Back? Stay tuned to find out.
+Coming soon.
 
 ### Gameplay
 
