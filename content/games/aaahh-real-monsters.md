@@ -61,7 +61,16 @@ The music was composed for the game by **Greg Turner** who had a strong career o
 ![Aaahh!!! Real Monsters, front cover](/games/aaahh-real-monsters/front.jpg)
 ![Aaahh!!! Real Monsters, rear cover](/games/aaahh-real-monsters/rear.jpg)
 
-Coming soon.
+Can't complain at all with the front of the box. Beautiful 90s gross Nickelodeon art, it would attract fans of the show, or gross little kids who are looking for something they can pretend to Mum and Dad that it's a cute platformer, then laugh at the bogey and toilet jokes. If I saw this cover in the shop I would easily be drawn to it even though the show was something I completely missed in my childhood.
+
+Looking at the back and it's another well laid out, clean box. That's 2 games in a row with impressive looking boxes, can this game fulfil all the promises made like A.S.P managed to? Well, the screenshots are all explained accurately, and they've picked some good screens to sell the game with so good start there, then we have my favourite, the bullet points!
+
+- **Explore over 25 different levels, including 5 bonus levels** - *I don't know about this one, I didn't count as I played, and I played this some time ago now, but from all the research I can find there looks to be 18 levels, so unless they include the boss fights as levels, I think they might be over selling it a bit here.*
+- **Team up the threesome to perform triple monster moves** - *This is true, and fun!*
+- **Switch the lead monster with 3-way character control** - *Again, true, but I love that this was a selling point in 1995.*
+- **Chase away enemies with unique monster scare moves** - *You certainly do this as part of the game yes.*
+
+Overall I give this box a rating of - Mostly accurate. I think they went a bit over with the promised amount of levels, but everything else was spot on.
 
 ## The Press
 
