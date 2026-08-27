@@ -4,7 +4,7 @@ sortTitle: "7th Saga, The"
 developer: "Produce!"
 publisher: "Enix"
 released: "1993"
-region: "Japan as Elnard, North America 1993"
+region: "North America (Elnard in Japan)"
 players: "1 player"
 genre: ["RPG"]
 status: "played"

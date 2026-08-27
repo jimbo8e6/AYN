@@ -4,7 +4,7 @@ sortTitle: "A.S.P Air Strike Patrol"
 developer: "Opus Corp."
 publisher: "SETA"
 released: "1994"
-region: "North America"
+region: "North America & Europe (As Desert Fighter)"
 genre: ["Action", "Shoot 'em up"]
 status: "played"
 score: 8

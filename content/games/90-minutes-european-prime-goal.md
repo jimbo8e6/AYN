@@ -4,7 +4,7 @@ sortTitle: "90 Minutes: European Prime Goal"
 developer: "Namco"
 publisher: "Ocean Software"
 released: "1995"
-region: "PAL only"
+region: "Europe"
 genre: ["Sports", "Football"]
 status: "played"
 score: 5
