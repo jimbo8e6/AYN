@@ -57,7 +57,23 @@ Very similar situation with the graphics too, nothing of note and that explains 
 ![ABC Monday Night Football, front cover](/games/abc-monday-night-football/front.jpg)
 ![ABC Monday Night Football, back cover](/games/abc-monday-night-football/back.jpg)
 
-Coming soon.
+Oh boy, here we go! Firstly the front, ABC Monday Night Football logo looks nice, and I do love the Data East logo, but the actual picture is terrible. Just a fuzzy pixelated picture of an American football, I don't know who they thought they were going to sell this to, I guess the license does the heavy lifting for that, but it's just rubbish.
+
+Now onto the back and we have bullet points! In fact I can even start disputing it from the big bold writing at the top:
+
+**"The only thing we left out is the cooler of Gatorade"** - *No, you left out the gameplay as well, quite important that.*
+
+Okay, the bullet points:
+
+- **Hard-hitting graphics and play-by-play sound bring every grunt and groan to life.** - *Nothing about the graphics is hard hitting, and the play-by-play sound I guess is the one liners of commentary that get old before the end of the first game.*
+- **Chalkboards of pro-designed offensive and defensive plays.** - *Okay I'll give it that one, they are in the game.*
+- **"Super Play" mode zooms to a close-up of the action** - *Again, technically accurate but they missed out the part where it's completely broken and unfair, I guess that's not a selling point.*
+- **28 prime-time teams with their own personality and field prowess** - *Nothing about the teams suggested they had any kind of personality, like, at all.*
+- **Relive the action with instant replay** - *Yup, they can have that one too.*
+- **Monitor player stats and save them with the "Super Save Stats" feature** - *This is also a thing, but in its own menu in the main menu completely separate from any game mode you might be playing.*
+- **So real it hurts!** - *It sure does Data Eats, it sure does.*
+
+Overall I give this box a rating of - Inaccurate. Just complete rubbish.
 
 ## The Press
 
