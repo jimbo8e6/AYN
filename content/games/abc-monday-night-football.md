@@ -77,4 +77,20 @@ Overall I give this box a rating of - Inaccurate. Just complete rubbish.
 
 ## The Press
 
-Coming soon.
+*GamePro*:
+
+> In this day and age of five player Madden football with passing windows, real players, and high-impact action, ABC Monday Night Football plays like yesterday's cart.
+>
+> **10.5/20**
+
+*Video Games & Computer Entertainment*:
+
+> Simplistic game play and awful control ruins what could have been an interesting game. The few novel features and ABC license are not nearly enough to save it from mediocrity.
+>
+> **5/10**
+
+*Game Players*:
+
+> Here's a gridiron sim that doesn't take advantage of its recognizable license: limited digitized voice, poor cinema screens, and no NFL or player's license…ICK!
+>
+> **43/100**
