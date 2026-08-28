@@ -7,6 +7,8 @@ released: "1993"
 region: "North America and Japan"
 genre: ["Sports"]
 status: "played"
+score: 2
+verdict: "God awful."
 excerpt: "Ladies and Gentlemen, a second sports game has hit our SNES list, and it sure is...something"
 ---
 
