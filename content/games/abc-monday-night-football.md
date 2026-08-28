@@ -8,6 +8,11 @@ region: "North America and Japan"
 genre: ["Sports"]
 status: "played"
 score: 2
+youtube:
+  - id: "Q_WrvVPQQAA"
+    label: "10 minutes of ABC Monday Night Football. All credit to 10 min. of SNES on Youtube."
+  - id: "--izT-KhZl0"
+    label: "The ABC Monday Night Football intro - 1993 Denver Broncos"
 verdict: "God awful."
 excerpt: "Ladies and Gentlemen, a second sports game has hit our SNES list, and it sure is...something"
 ---
