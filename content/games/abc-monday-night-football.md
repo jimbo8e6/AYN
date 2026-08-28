@@ -12,6 +12,8 @@ excerpt: "Ladies and Gentlemen, a second sports game has hit our SNES list, and 
 
 ## The Game
 
+![ABC Monday Night Football logo](/games/abc-monday-night-football/logo.png)
+
 ABC Monday Night Football is the official tie in American Football game with the long running show of the same name. ABC Monday Night Football started in 1970 and is still running to this day (albeit on ESPN now and not ABC).
 
 **Data East** getting the license for the TV show, and likeness and voice of the long running "voice of the show" Frank Gifford makes sense in an era of licenses being thrown round like sweets for video games, what's surprising is that's where the license ends, and none of the teams in the game are represented by their true NFL counterparts. Even the 92 and 93 John Madden games didn't have the full NFL license and wouldn't until the following year with the 94 release. I'd love to know the behind the scenes on it, was the license already tied up with John Madden for the 94 release when Data East started developing this? Or was it too expensive? If it was expense then why splash out for the MNF licensing, why not just go for NFL, surely the selling point would've been bigger? Who knows, and besides me, who really cares?
@@ -51,6 +53,9 @@ The Game Designer was **Ken Fukaki**, and while he does have some good productio
 Very similar situation with the graphics too, nothing of note and that explains a lot.
 
 ## Box art
+
+![ABC Monday Night Football, front cover](/games/abc-monday-night-football/front.jpg)
+![ABC Monday Night Football, back cover](/games/abc-monday-night-football/back.jpg)
 
 Coming soon.
 
