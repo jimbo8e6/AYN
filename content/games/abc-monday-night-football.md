@@ -2,6 +2,7 @@
 title: "ABC Monday Night Football"
 sortTitle: "ABC Monday Night Football"
 status: "played"
+excerpt: "Ladies and Gentlemen, a second sports game has hit our SNES list, and it sure is...something"
 ---
 
 ## The Game
