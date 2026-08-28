@@ -44,7 +44,11 @@ God awful…Are you sensing a theme here? The intro music is fine, and that's ab
 
 ## The People
 
-Coming soon.
+Right, so who have we got behind this dumpster fire, surely no one that went on to anything….The Sound Creator **Atomic Hanada**??! A literal music genius responsible for sound in some very well known titles like *Joe & Mac*, *Windjammers 1 & 2*, *Daytona USA*, *Shenmue 1 & 2*. This is slightly unbelievable, and he was either having the biggest of off days, or he left the work to the other two that worked on the sound, except they have fairly good credits as well so all I can think is it was an in joke.
+
+The Game Designer was **Ken Fukaki**, and while he does have some good production credits, he had only worked design on 3 games including this one, and this was his last, so that tracks.
+
+Very similar situation with the graphics too, nothing of note and that explains a lot.
 
 ## Box art
 
