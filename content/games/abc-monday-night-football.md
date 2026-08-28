@@ -71,7 +71,7 @@ Okay, the bullet points:
 - **28 prime-time teams with their own personality and field prowess** - *Nothing about the teams suggested they had any kind of personality, like, at all.*
 - **Relive the action with instant replay** - *Yup, they can have that one too.*
 - **Monitor player stats and save them with the "Super Save Stats" feature** - *This is also a thing, but in its own menu in the main menu completely separate from any game mode you might be playing.*
-- **So real it hurts!** - *It sure does Data Eats, it sure does.*
+- **So real it hurts!** - *It sure does Data East, it sure does.*
 
 Overall I give this box a rating of - Inaccurate. Just complete rubbish.
 
