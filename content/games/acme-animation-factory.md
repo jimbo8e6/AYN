@@ -34,7 +34,11 @@ No complaints here, it's your typical Looney Tunes jaunty music, the Looney Tune
 
 ## The People
 
-Coming soon.
+There are some interesting things to find about the people behind the game at least, one of the game's designers, **Greg Michael**, leaned more into programming after this and worked on *Mortal Kombat II*, *Alien Trilogy* (my favourite shooter on the PS1), *Forsaken*, and *Crackdown 3* to name a few, but he worked double duty on this game and was Producer as well as design.
+
+The game's second producer was a real Jack-of-all-trades working production, design, graphics, QA, and marketing across 46 games, but dropped off the radar in 2006.
+
+The music was worked on by **Steve Collett** who is still very active to this day working on games like *Pagemaster*, *X-Men Mutant Academy*, *Street Fighter Alpha 3*, and most recently, *Powerwash Simulator 2*.
 
 ## Box art
 
