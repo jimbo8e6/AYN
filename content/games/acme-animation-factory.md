@@ -45,6 +45,17 @@ The music was worked on by **Steve Collett** who is still very active to this da
 ![ACME Animation Factory, front cover](/games/acme-animation-factory/front.png)
 ![ACME Animation Factory, back cover](/games/acme-animation-factory/back.png)
 
+I love the art on this box, it's pure Looney Tunes and would definitely catch my eye in a video store, it's a shame the content wouldn't have interested me at all, but the box certainly would've done. The cut off Daffy Duck head on to Bugs Bunny's body, and vice versa, is a great touch and sells the software perfectly.
+
+As for the back, again some beautiful screenshots and Looney Tunes art, and my favourite, bullet points!
+
+- **Create and save cartoons to watch any time** - *you can do this, in its most basic form, but you can do it.*
+- **Choose from a full menu of Looney Tunes scenes and characters, or draw your own!** - *Yup, another accurate statement.*
+- **Colour your creation any way you want, then add titles and create music** - *We're 3 for 3 here and I think we could be on for our second clean sweep.*
+- **Use your control pad or the Nintendo mouse to make it even easier!** - *I couldn't test this, but I double checked to be sure and it definitely is fully Nintendo mouse compatible, so well done ACME Animation Factory, you're the second clean sweep of the series.*
+
+Unsurprisingly I give this box a rating of - Accurate. Ignoring the fact the content wasn't for me at all, it made no promises it couldn't keep and I have to give it props for that.
+
 ## The Press
 
 Coming soon.
