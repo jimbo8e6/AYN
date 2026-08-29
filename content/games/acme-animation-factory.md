@@ -8,6 +8,9 @@ region: "North America and Europe"
 genre: ["Educational", "Licensed"]
 status: "played"
 score: 5
+youtube:
+  - id: "KicRphtFo-w"
+    label: "10 minutes of ACME Animation Factory, all credit to 10 min. of SNES on Youtube."
 verdict: "This is a really difficult one for me to rate, because it's not really a game, and I'm not the target audience it's tough. Technically it's a completely competent and well made console animation studio, but in terms of out of the box content it is quite light, it really is just for animation enthusiasts."
 excerpt: "Not exactly a game, but it released on the SNES and begins with a letter, so it has to count"
 ---
