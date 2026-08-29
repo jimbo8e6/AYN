@@ -58,4 +58,14 @@ Unsurprisingly I give this box a rating of - **Accurate**. Ignoring the fact the
 
 ## The Press
 
-Coming soon.
+*GamePro*:
+
+> With the point-and-click icons, the easy controls let you do everything efficiently. This game might inspire a whole new generation of animators.
+>
+> **4/5**
+
+*Electronic Games*:
+
+> Acme Animation Factory is fun and, for a mildly complex creative product, fairly user friendly - the learning curve should not be high for its target audience. But it's not that much of a step beyond Mario Paint, so selecting it will be largely a personal choice for some.
+>
+> **75/100**
