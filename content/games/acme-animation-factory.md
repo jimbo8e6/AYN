@@ -12,6 +12,8 @@ excerpt: "Not exactly a game, but it released on the SNES and begins with a lett
 
 ## The Game
 
+![ACME Animation Factory logo](/games/acme-animation-factory/logo.png)
+
 Coming soon.
 
 ### Gameplay
