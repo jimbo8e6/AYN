@@ -42,7 +42,8 @@ The music was worked on by **Steve Collett** who is still very active to this da
 
 ## Box art
 
-Coming soon.
+![ACME Animation Factory, front cover](/games/acme-animation-factory/front.png)
+![ACME Animation Factory, back cover](/games/acme-animation-factory/back.png)
 
 ## The Press
 
