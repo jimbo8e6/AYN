@@ -94,7 +94,7 @@ Okay, the bullet points:
 - **Monitor player stats and save them with the "Super Save Stats" feature** - *This is also a thing, but in its own menu in the main menu completely separate from any game mode you might be playing.*
 - **So real it hurts!** - *It sure does Data East, it sure does.*
 
-Overall I give this box a rating of - Inaccurate. Just complete rubbish.
+Overall I give this box a rating of - **Inaccurate**. Just complete rubbish.
 
 ## The Press
 

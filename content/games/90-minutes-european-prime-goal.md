@@ -152,7 +152,7 @@ That Ocean logo fills me with a huge amount of nostalgia - so many of our Amstra
 
 The back is better. Nice black-and-white image of some football men, good screenshots, and the blurb covers everything it needs to. The back does pretty much everything right - if they'd got the picture on the front right, they would've aced it.
 
-Overall I give this box a rating of - Accurate, but I wouldn't have given it a second look on the shelf because of the bullshit art on the front.
+Overall I give this box a rating of - **Accurate**, but I wouldn't have given it a second look on the shelf because of the bullshit art on the front.
 
 ## The Press
 

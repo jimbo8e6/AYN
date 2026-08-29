@@ -98,7 +98,7 @@ Having a look at the back, I like it a lot - six crisp, clear screenshots surrou
 
 The one thing I will say is 8 missions doesn't seem like the biggest selling point, but the multiple endings do add to that a bit.
 
-Overall I give this box a rating of - Accurate. Everything it said was completely true, and it sold the game pretty well.
+Overall I give this box a rating of - **Accurate**. Everything it said was completely true, and it sold the game pretty well.
 
 ## The Press
 

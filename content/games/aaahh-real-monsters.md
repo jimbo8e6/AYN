@@ -88,7 +88,7 @@ Looking at the back and it's another well laid out, clean box. That's 2 games in
 - **Switch the lead monster with 3-way character control** - *Again, true, but I love that this was a selling point in 1995.*
 - **Chase away enemies with unique monster scare moves** - *You certainly do this as part of the game yes.*
 
-Overall I give this box a rating of - Mostly accurate. I think they went a bit over with the promised amount of levels, but everything else was spot on.
+Overall I give this box a rating of - **Mostly accurate**. I think they went a bit over with the promised amount of levels, but everything else was spot on.
 
 ## The Press
 
