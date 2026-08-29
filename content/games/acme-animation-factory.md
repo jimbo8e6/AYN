@@ -54,7 +54,7 @@ As for the back, again some beautiful screenshots and Looney Tunes art, and my f
 - **Colour your creation any way you want, then add titles and create music** - *We're 3 for 3 here and I think we could be on for our second clean sweep.*
 - **Use your control pad or the Nintendo mouse to make it even easier!** - *I couldn't test this, but I double checked to be sure and it definitely is fully Nintendo mouse compatible, so well done ACME Animation Factory, you're the second clean sweep of the series.*
 
-Unsurprisingly I give this box a rating of - Accurate. Ignoring the fact the content wasn't for me at all, it made no promises it couldn't keep and I have to give it props for that.
+Unsurprisingly I give this box a rating of - **Accurate**. Ignoring the fact the content wasn't for me at all, it made no promises it couldn't keep and I have to give it props for that.
 
 ## The Press
 
