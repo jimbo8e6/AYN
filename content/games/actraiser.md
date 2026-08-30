@@ -67,4 +67,26 @@ Overall I give this box a rating of - **Accurate**. It's basic, not much to it, 
 
 ## The Press
 
-Coming soon.
+*Computer & Video Games*:
+
+> The old saying goes 'gobsmacking audiovisuals do not a good game make', but Actraiser mixes absolutely stunning graphics and sound with a game so addictive, you'll want to play it again and again. A special mention must go to the stunning movie-score-like incidental tracks which really do get the old adrenalin pumping! As Rich has said, the similarities of this to Populous and Sim City are somewhat obvious, but that's no bad thing by any means - the addition of some absolutely awesome arcade sequences only go to enhance the game further. Be warned, however - this sucker is tough, and will take a heck of a lot of practice to complete, but even so, Actraiser is a brilliant title that Super Famicom owners will go absolutely nuts over.
+>
+> **95/100**
+
+*Super Pro*:
+
+> A fantastic arcade adventure which is mostly an arcade game along the lines of Castlevania IV, but also has a Populous-style adventure section. It's big, it's beautiful and it's thoroughly recommended!
+>
+> **91/100**
+
+*Mean Machines*:
+
+> At first glance, this looked like a Populous rip-off with its "control your minions" idea. Once I studied the game in more depth, its great playability came apparent. The arcade sections are fantastic, and feature the best music ever heard on a console or computer and offer a challenge that's tough without being dispiriting. The graphics are also outstanding, especially in the final showdown. The strategic element works well, although it may put off some people - they'd be silly to miss a game of this quality. If you've a Super Famicom, this MUST be your next purchase!
+>
+> **91/100**
+
+*Electronic Gaming Monthly*:
+
+> This game is the perfect melding of Populous and Castlevania, with strategy segments that lead into incredibly detailed action sequences. The building sections are straight-forward enough and while the battle scenes lack power-ups, the detail in animation and sound is amazing.
+>
+> **36/40**
