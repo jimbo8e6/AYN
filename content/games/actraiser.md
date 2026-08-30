@@ -46,7 +46,9 @@ Unsurprisingly for an Enix game, the music is fantastic, a whole host of full le
 
 ## The People
 
-Coming soon.
+Wow, so this could be why the music is the standout, **Yuzo Koshiro** did the music for this game, and here's a short list of what he went on to do: *Streets of Rage 1, 2 & 3*, *Sonic the Hedgehog*, *Shenmue II*, *Castlevania: Portrait of Ruin*, *Super Smash Bros. for Wii U and 3DS*, *Super Smash Bros. Ultimate*, and is also credited on the 2026 game *Mina the Hollower*. That is just a very small snapshot of this man's career, still going strong today.
+
+That was really the only standout person in the credits of ActRaiser, most the other people that worked on this game worked on the other Enix SNES games in the 90s and then fizzled out in the early 00s.
 
 ## Box art
 
