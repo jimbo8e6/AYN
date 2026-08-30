@@ -42,7 +42,7 @@ The world map is simple, but the buildings are distinctly different, farms have 
 
 ### Sound and Music
 
-Unsurprisingly for an Enix game, the music is fantastic, a whole host of full length tracks, over 30 minutes of great music, and the sound is exactly what you'd expect, swords clashing, arrows firing, if you've played a hack & slash game before you know what to expect here and it does deliver. The music is the stand out over the sound though.
+Unsurprisingly for an Enix game, the music is fantastic, a whole host of full length tracks, over 30 minutes of great music, and the sound is exactly what you'd expect, swords clashing, arrows firing, if you've played a hack & slash game before you know what to expect here and it does deliver. The music is the stand out over the sound though. Listen to the soundtrack [here](https://downloads.khinsider.com/game-soundtracks/album/actraiser).
 
 ## The People
 
