@@ -221,9 +221,7 @@ Then some typical game-selling blurb, finishing with:
 
 - **This is one powerful RPG. Can you handle it?!** - *I mean, honestly? Without save states? No… and to expect little 7-year-old me to be able to is absurd!*
 
-Overall I give this box a rating of &mdash; **Mostly accurate, but trying too
-hard to be the "cool new RPG", punching down on franchises that left it in the
-dust.**
+Overall I give this box a rating of - **Mostly accurate**. But trying too hard to be the "cool new RPG", punching down on franchises that left it in the dust.
 
 ## The Press
 

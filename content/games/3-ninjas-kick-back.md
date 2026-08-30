@@ -165,8 +165,7 @@ best-looking boss in the game, and the description has a few interesting points:
 - **Many nasty-looking bosses to defeat** - *5, I think - again, they were fine.*
 - **Over 12 huge areas filled with fast-paced excitement and dozens of secret rooms to discover** - *I really wouldn't call the areas huge, even for the time, and they keep going on about hidden areas - maybe they were just too hidden and I missed them!*
 
-Overall I give this box a rating of &mdash; **Misleading, inaccurate, and
-would've probably upset 8-year-old me.**
+Overall I give this box a rating of - **Misleading**. Inaccurate, and would've probably upset 8-year-old me.
 
 ## The Press
 
