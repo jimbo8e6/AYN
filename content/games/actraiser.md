@@ -92,8 +92,6 @@ Overall I give this box a rating of - **Accurate**. It's basic, not much to it, 
 
 ## The Press
 
-![ActRaiser double page magazine advert](/games/actraiser/advert.jpg)
-
 *Computer & Video Games*:
 
 > The old saying goes 'gobsmacking audiovisuals do not a good game make', but Actraiser mixes absolutely stunning graphics and sound with a game so addictive, you'll want to play it again and again. A special mention must go to the stunning movie-score-like incidental tracks which really do get the old adrenalin pumping! As Rich has said, the similarities of this to Populous and Sim City are somewhat obvious, but that's no bad thing by any means - the addition of some absolutely awesome arcade sequences only go to enhance the game further. Be warned, however - this sucker is tough, and will take a heck of a lot of practice to complete, but even so, Actraiser is a brilliant title that Super Famicom owners will go absolutely nuts over.
@@ -117,3 +115,5 @@ Overall I give this box a rating of - **Accurate**. It's basic, not much to it, 
 > This game is the perfect melding of Populous and Castlevania, with strategy segments that lead into incredibly detailed action sequences. The building sections are straight-forward enough and while the battle scenes lack power-ups, the detail in animation and sound is amazing.
 >
 > **36/40**
+
+![ActRaiser double page magazine advert](/games/actraiser/advert.jpg)
