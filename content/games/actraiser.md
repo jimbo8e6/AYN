@@ -52,7 +52,8 @@ That was really the only standout person in the credits of ActRaiser, most the o
 
 ## Box art
 
-Coming soon.
+![ActRaiser, front cover](/games/actraiser/front.png)
+![ActRaiser, rear cover](/games/actraiser/rear.png)
 
 ## The Press
 
