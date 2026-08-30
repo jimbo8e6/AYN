@@ -55,6 +55,16 @@ That was really the only standout person in the credits of ActRaiser, most the o
 ![ActRaiser, front cover](/games/actraiser/front.png)
 ![ActRaiser, rear cover](/games/actraiser/rear.png)
 
+Looking at the front and it is a pretty cool image, lightning flashing over some pyramids, it's a nice image, but if I'm honest it might not have been enough to sell me the game if I saw it on a shelf in the 90s. I appreciate it a lot now, but I don't know how much 7 year old me would.
+
+The back is laid out nicely, 4 nicely placed screenshots, well picked screenshots, and a short and sweet description of the game, sadly no bullet points, so I'll have to break it down.
+
+- **This sensational game combines pulse-stopping action sequences with an intelligent Simulation Mode, allowing the player to forge a new civilization. Finally......experience a game that fully utilizes the advanced capabilities of the Super NES.** - *This seems true to me, you could maybe argue "sensational", "pulse-stopping" and "intelligent" but remembering this came out in 1990/1991 at the earliest I think they're fair descriptions.*
+- **Breathe life into the statue modelled after your likeness to cleanse the land and defeat the monsters who have conquered.** - *This is just explaining one of the aspects of the game, but it is accurate.*
+- **Help your people develop a new land from that which has been purified and build towns with your powers.** - *Again, just describing the game really, but it is accurate so I have to give it that.*
+
+Overall I give this box a rating of - **Accurate**. It's basic, not much to it, but it is accurate.
+
 ## The Press
 
 Coming soon.
