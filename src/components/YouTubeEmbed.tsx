@@ -32,11 +32,7 @@ function Thumbnail({ video, title }: { video: Video; title: string }) {
               }
             }}
             onError={() => {
-              if (!src.includes("hqdefault")) {
-                setSrc(`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`);
-              } else {
-                setVisible(false);
-              }
+              setVisible(false);
             }}
           />
         )}
