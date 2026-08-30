@@ -1,12 +1,11 @@
 ---
 title: "ActRaiser"
 sortTitle: "ActRaiser"
-developer: "Quintet"
+developer: "Quintet Co."
 publisher: "Enix"
-released: "1990-12-16"
-region: "Japan first, North America late 1991, PAL 1992"
-players: "1 player"
-genre: ["Action", "Simulation"]
+released: "1990"
+region: "Japan, North America and Europe"
+genre: ["Platformer", "City Builder"]
 status: "played"
 excerpt: "Is it another action platformer? Yes, and no...Part platform hack & slash, part city builder God game. Innovative, and fantastic."
 ---
