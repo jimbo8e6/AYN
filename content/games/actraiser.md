@@ -12,6 +12,8 @@ excerpt: "Is it another action platformer? Yes, and no...Part platform hack & sl
 
 ## The Game
 
+![ActRaiser logo](/games/actraiser/logo.png)
+
 Coming soon.
 
 ### Gameplay
