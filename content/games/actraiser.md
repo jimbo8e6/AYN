@@ -7,6 +7,8 @@ released: "1990"
 region: "Japan, North America and Europe"
 genre: ["Platformer", "City Builder"]
 status: "played"
+score: 9
+verdict: "Fantastic game, so much better than the sum of its parts. The combination of action and strategy was such a new thing at the time and it worked so well. It would be such a shame if they released a sequel and stripped the most interesting part away from the game..."
 excerpt: "Is it another action platformer? Yes, and no...Part platform hack & slash, part city builder God game. Innovative, and fantastic."
 ---
 
