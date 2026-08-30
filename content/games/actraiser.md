@@ -9,7 +9,6 @@ players: "1 player"
 genre: ["Action", "Simulation"]
 status: "played"
 excerpt: "Is it another action platformer? Yes, and no...Part platform hack & slash, part city builder God game. Innovative, and fantastic."
-excerpt: "A side-scrolling action game bolted to a god sim, released weeks after the console itself — and still one of the strangest, most confident things on the system."
 ---
 
 ## The Game
