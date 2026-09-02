@@ -52,6 +52,16 @@ After a quick cross check, all the big names from ActRaiser also worked on ActRa
 
 *European release, 1994.*
 
+Oh come on! Is there even a comparison here? Look at that European artwork! The art is so sick, the protagonist, some screaming demon thing, and a dragon looking thing. The only thing that lets it down is **Ubisoft**'s Times New Roman looking ass under that amazing artwork! Wait, why is **Ubisoft** there anyway? Turns out they took over publishing for Europe as **Enix** didn't have an established base over there so they licensed it out to them. Back when there was a space between Ubi and Soft, which just looks so cursed now.
+
+Anyway, back to the box art, the US art is just boring, and if it wasn't for the promise/warning of "100% pure action and excitement" next to the art you could easily think the town building aspect was front and centre based on this box. The European one would have instantly interested me back in the day, the American one, unless I'd played the original, I wouldn't have given a second look to.
+
+Then when it comes to the back of the box, my opinion switches. The US one has 4 nice screenshots, big, bold and front and centre, and a lot more text, although most of the text is actually talking about *ActRaiser*, and how great it was, so it's still really fucking weird that they completely changed it and still went with that for their description! "Hey remember that game that you loved and so did we, this one's even better because the graphics are great, just ignore that 50% of the game is missing please." No bullet points here sadly.
+
+The back of the European box also has 4 screenshots, but one of them is the world map which again is so misleading! Looking at that top screenshot you'd for sure think the city building stuff was there, so misleading to anyone that played the original. Again no bullet points, just a lot of languages, and that classic ELSPA age rating tick box thing that I feel a huge amount of nostalgia for.
+
+Overall I give this box a rating of - **Misleading**. Each box has its own way of slightly misleading the customer, with such a huge change from the original it really should be more obvious.
+
 ## The Press
 
 Coming soon.
