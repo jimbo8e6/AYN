@@ -12,6 +12,8 @@ excerpt: "We're back in the domain of the licensed platformer, and this is the f
 
 ## The Game
 
+![The Addams Family logo](/games/addams-family/logo.png)
+
 The Addams Family is a licensed platformer where you play as Gomez Addams trying to find and rescue the other members of the family from the confines of the Addams Family home and grounds. It does nothing new, it's very likely a typical 90s licensed cash grab, but I loved it as a kid, I loved it when I replayed it, and it's not broken, unfair, or promising anything it isn't.
 
 Developed and published by **Ocean Software**, who we last saw all the way back in *90 Minutes European Prime Goal*, this is one of the many licenses they got hold of, and one they released on pretty much anything with a microchip in it. This game saw a release on: NES, Game Boy, SNES, ZX Spectrum, Amiga, Atari ST, Commodore 64, Amstrad CPC, Genesis/Mega Drive, Game Gear and Master System. They really wanted this out there as much as was humanly possible.
@@ -41,3 +43,8 @@ I jumped straight to the music on this one, music and sound were done by **Jonat
 Game design and graphics were covered by **Warren Lancashire** who eventually worked on *Lego City Undercover*, *Lego Jurassic World*, and *Lego Star Wars: The Force Awakens* among other things.
 
 And that's about all of note on this one.
+
+## Box art
+
+![The Addams Family, front cover](/games/addams-family/front.png)
+![The Addams Family, back cover](/games/addams-family/back.png)
