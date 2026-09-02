@@ -48,3 +48,9 @@ And that's about all of note on this one.
 
 ![The Addams Family, front cover](/games/addams-family/front.png)
 ![The Addams Family, back cover](/games/addams-family/back.png)
+
+This is one of those ones that, while it would attract my attention if I saw it, it is also incredibly lazy with it just being the movie poster and nothing else. This is typical of **Ocean** licensed games though so it's no surprise, nothing amazing, but nothing offensive to the eyes either.
+
+The back is fairly simple as well, 4 screenshots seems to be the usual standard, and they've picked fairly good ones here, and sadly once again, no bullet points, and this time the writing doesn't even mention anything gameplay related at all, it's all story, which is a shame.
+
+Overall I give this box a rating of - **Accurate**. Technically it's accurate because it doesn't promise anything it doesn't deliver, but only because it doesn't promise anything. Booooo.
