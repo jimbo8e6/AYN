@@ -1,6 +1,6 @@
 ---
 title: "The Addams Family"
-sortTitle: "Addams Family, The"
+sortTitle: "Addams Family"
 developer: ""
 publisher: ""
 released: ""
