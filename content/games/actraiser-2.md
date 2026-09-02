@@ -22,17 +22,29 @@ Is this lack of genre a mistake on my part? Surely this hugely anticipated seque
 
 Developed and published by the exact same people as ActRaiser, with 3 years between the first game's Japanese release in 1990, they had so much time to build on both aspects of the game and create a genuinely deep city builder and polished platformer, but instead **Enix** stepped in and told them to scrap it entirely, apparently they thought a Western audience only wanted fast paced action and would dislike the slower town building part, despite several Western publications reviewing those exact parts highly. Thanks **Enix**, man, you used to be cool.
 
+![ActRaiser 2 title screen](/games/actraiser-2/title.png)
+
 ### Gameplay
 
 The "action" section of ActRaiser has had a massive overhaul in the sequel as it takes centre stage for this game, and not only did they remove a really interesting part of the game, but they absolutely butchered this part of the game as well. Yes, ActRaiser was simple, there wasn't much new and interesting within each of the genres, but it was fun and it worked. ActRaiser 2 has gone "bigger, harder, prettier and better" with this, and while it certainly is better looking (we'll get to that in a moment) it is far from better.
 
+![ActRaiser 2 gameplay](/games/actraiser-2/game1.png)
+![ActRaiser 2 gameplay](/games/actraiser-2/game2.png)
+
 Firstly the controls are horrible, you now have this jump and dive mechanic where your angel wings come out and you swoop forwards out of a jump, it looks cool, but it's so stupidly hard to control, and it's not like you can just ignore it because it's needed to make some jumps, and the accuracy needed is unreal. Imagine the cape in *Super Mario World*, but, you know, shit.
 
+![ActRaiser 2 gameplay](/games/actraiser-2/game3.png)
+
 The game is insanely unforgiving too, but not in that "just one more try" way of *Super Ghouls n Ghosts*, it's just frustrating, infuriating, and horrible, to the point that this is the first game in the list so far that I have just simply given up on. I didn't complete it, I didn't even get much further than the first couple of levels, I got to a stage where I literally could not work out how to progress, I checked online and I think it's just timing one of these dives right, and then a load of badly controlled platforming, with enemies that knock you back into things that cause you damage. I just got angry, and disappointed that the game I loved so much had been brought to this, so I put the controller down and walked away. Maybe that means I'm not qualified to give a verdict, I probably should complete games before I rate them fairly, but this is my project, and if a game causes me to give up and walk away I will be rating it with that in mind.
+
+![ActRaiser 2 gameplay](/games/actraiser-2/game4.png)
+![ActRaiser 2 gameplay](/games/actraiser-2/game5.png)
 
 ### Graphics
 
 This is one aspect where the sequel did turn it up to 11, the graphics are beautiful. The sprites are much bigger, much more detailed, the levels look great (based on screenshots I've looked at because I only saw the first couple). Gorgeous backgrounds, great looking bosses, lovely details like spider webs, clouds and fog, it could be considered to be one of the best looking games on the SNES, and this makes me doubly angry. If a game that looks this good played as well as the first, and had the city builder stuff included it could've been an all time classic, a franchise that continued to this day. Now, besides a remake of the first game, the series has died. **Quintet** did start development of an N64 sequel, but it never saw the light of day.
+
+![ActRaiser 2 boss fight](/games/actraiser-2/boss.png)
 
 ### Sound and Music
 
