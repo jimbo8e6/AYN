@@ -64,4 +64,40 @@ Overall I give this box a rating of - **Misleading**. Each box has its own way o
 
 ## The Press
 
-Coming soon.
+*GamePro*:
+
+> Fudgy controls don't stop ActRaiser 2 from topping its predecessor with more elaborate graphics and some of the most gruesome side-scrolling enemies ever.
+>
+> **4.5/5**
+
+*Electronic Gaming Monthly*:
+
+> From the opening music, reminiscent of the original ActRaiser, you just know this game is going to be special, and ActRaiser 2 didn't disappoint. Everything in this game is exceptional - from the hauntingly beautiful music to the graphics - this is a game you'd be proud to add to any collection.
+>
+> **35/40**
+
+*Computer and Video Games*:
+
+> ActRaiser 2 does a fine job at pretending to be a coin-op. Pounding action and arty graphics make this challenge one that you've got to complete. Although the flying addition is fiddly, it soon becomes a real asset giving the game that edge of combat creativeness. Unfortunately, the special powers are never practical because you have to charge them up each time. There's also a fair bit of slow down, but nothing distracting. Fans of the original may not like the lack of strategic depth, but it hasn't disappointed me.
+>
+> **86/100**
+
+*Game Players*:
+
+> The sequel to one of the first SNES games is as good as the first. The "Sim Village" aspects of the original are missing, but demon-infested action stages are top notch.
+>
+> **85/100**
+
+*Edge*:
+
+> Many people will undoubtedly be impressed with the sound and the graphical content but underneath it all lies a fairly simple, albeit difficult game to play. It's a real shame, isn't it? Potentially one of the biggest games of the year reduced to just a simple platform hack 'em up.
+>
+> **5/10**
+
+*GamesMaster*:
+
+> Yet again, we're battered mercilessly about the pancreas with the widely-documented 'sequel effect'. This theory postulates that, with ample compensation for statistically disastrous a priori knowledge, then the sum of a sequel shall, as a whole, always equal less than then, erm, the original's, um... Look, it's crap, okay?
+>
+> **41/100**
+
+The top 4 reviews rated it really highly, which made me think I missed something, although they all seemed to only mention the graphics and sound. Edge and GamesMaster brought back my faith that no, it's the reviewers that are wrong.
