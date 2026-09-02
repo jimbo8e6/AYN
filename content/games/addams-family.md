@@ -8,6 +8,11 @@ region: "Japan, North America and Europe"
 genre: ["Platformer", "Licensed"]
 status: "played"
 score: 8
+youtube:
+  - id: "PSrjHD_P40A"
+    label: "The underground level. All credit to Lahdo on Youtube"
+  - id: "A6X4VAHdDVg"
+    label: "Trailer for the Addams Family movie"
 verdict: "A game very near and dear to my heart, far from perfect, and for someone just picking this up today there are things that could be massively improved. Doesn't break the mould but I love it and I always will."
 excerpt: "We're back in the domain of the licensed platformer, and this is the first game on the list that's going to get a much higher score than it deserves because I owned it, I grew up playing it, and I'll be reviewing it with rose tinted glasses firmly implanted into my face."
 ---
