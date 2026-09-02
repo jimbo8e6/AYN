@@ -54,3 +54,35 @@ This is one of those ones that, while it would attract my attention if I saw it,
 The back is fairly simple as well, 4 screenshots seems to be the usual standard, and they've picked fairly good ones here, and sadly once again, no bullet points, and this time the writing doesn't even mention anything gameplay related at all, it's all story, which is a shame.
 
 Overall I give this box a rating of - **Accurate**. Technically it's accurate because it doesn't promise anything it doesn't deliver, but only because it doesn't promise anything. Booooo.
+
+## The Press
+
+*GamePro*:
+
+> Addams Family requires the same quick ducking, precision jumping, and hop and bop skills as the Mario carts. Great graphics, sinisterly authentic sounds, and a monstrous level of challenge add up to a package that will make you happy…completely. If you're impatiently awaiting the next Mario adventure, The Addams Family will make perfect house guests in the meantime.
+>
+> **20/20**
+
+*N-Force*:
+
+> You've seen the film, bought the T-shirt, now play the SNES version. It's totally mega!
+>
+> **90/100**
+
+*Mean Machines*:
+
+> Nothing really new on offer, but the platform action is tough and enjoyable and fans of the genre should be in their element.
+>
+> **89/100**
+
+*Super Pro*:
+
+> One for the Mario nuts with similar sorts of problems and traps. It's quite pleasant to look at and listen to, but it's the sheer size and volume of levels that makes The Addams Family so interesting!
+>
+> **84/100**
+
+*Electronic Gaming Monthly*:
+
+> The game play is good but seems slippery at times. Things could be better.
+>
+> **25/40**
