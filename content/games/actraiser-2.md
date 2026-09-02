@@ -118,3 +118,6 @@ Overall I give this box a rating of - **Misleading**. Each box has its own way o
 > **41/100**
 
 The top 4 reviews rated it really highly, which made me think I missed something, although they all seemed to only mention the graphics and sound. Edge and GamesMaster brought back my faith that no, it's the reviewers that are wrong.
+
+![ActRaiser 2 magazine advert](/games/actraiser-2/advert1.jpg)
+![ActRaiser 2 magazine advert](/games/actraiser-2/advert2.jpg)
