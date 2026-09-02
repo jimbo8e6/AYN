@@ -38,7 +38,7 @@ Again, as is typical of **Enix** games, the sound is brilliant, the effects are 
 
 ## The People
 
-Coming soon.
+After a quick cross check, all the big names from ActRaiser also worked on ActRaiser 2 so there isn't really much to say. I fully blame **Enix** for the failings of this game, and not these guys, although whoever was in charge of the controls should sleep with a warm pillow on both sides for eternity.
 
 ## Box art
 
