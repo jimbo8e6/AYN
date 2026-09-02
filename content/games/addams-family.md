@@ -9,3 +9,27 @@ genre: ["Platformer", "Licensed"]
 status: "upcoming"
 excerpt: "We're back in the domain of the licensed platformer, and this is the first game on the list that's going to get a much higher score than it deserves because I owned it, I grew up playing it, and I'll be reviewing it with rose tinted glasses firmly implanted into my face."
 ---
+
+## The Game
+
+The Addams Family is a licensed platformer where you play as Gomez Addams trying to find and rescue the other members of the family from the confines of the Addams Family home and grounds. It does nothing new, it's very likely a typical 90s licensed cash grab, but I loved it as a kid, I loved it when I replayed it, and it's not broken, unfair, or promising anything it isn't.
+
+Developed and published by **Ocean Software**, who we last saw all the way back in *90 Minutes European Prime Goal*, this is one of the many licenses they got hold of, and one they released on pretty much anything with a microchip in it. This game saw a release on: NES, Game Boy, SNES, ZX Spectrum, Amiga, Atari ST, Commodore 64, Amstrad CPC, Genesis/Mega Drive, Game Gear and Master System. They really wanted this out there as much as was humanly possible.
+
+### Gameplay
+
+Like I said, this doesn't do anything new. It's a 2D platformer, you move from one end of the level to the other, jumping on enemies to kill them, you collect a couple of power ups to make that killing a little easier, there's a sword you can stab with, and some golf balls that act in a similar way to Mario's fire flower power up. There's also a fez with a propellor on the top that lets Gomez fly, and some shoes that make him run extra fast.
+
+The game starts out in the Addams Family mansion, which is your hub level, and the levels can be tackled in any order, you open a door and head in to levels like the greenhouse, the gallery, the inside of a tree, underground, there's plenty of variety and the game does offer some challenge without being too frustrating.
+
+As you play you can level up your health from 2 hearts to 5 which gives you a good feeling of progression, and really helps if you've been struggling on a certain level for a while. Go away, beat a different level, then come back with some more health and try again.
+
+### Graphics
+
+The graphics are fine, they're far from great, especially after *ActRaiser 2*, but they're clear and bright with a good variety of enemies and backgrounds, animation is basic, but there are some nice moments like Gomez tapping his foot when you take a while to move, very *Sonic* like. Gomez is maybe a bit too "cute" the sprite is quite small and low detail, but then when you go through the house there are some nice paintings of the family that are much more detailed. It's a colourful game with graphics that do what they need to.
+
+### Sound and Music
+
+The sound in this game is iconic to me personally, the cheeps and chirps of the creatures in the levels, the sound effect when you bounce on a monster's head, the noise Gomez makes when he gets hurt, the theme of this review is "doesn't do anything special, but it just works" and that's no exception here.
+
+The music however is genuinely good, a really nice rendition of the Addams Family theme, then the level themes are all well put together, but the soundtrack is quite short, with a few tracks that are only a few seconds long. The meat of the soundtrack is good, but there are tracks that are repeated with echo or wind over it depending on where you are in the game. It's a cool thing to give the song something slightly different whether you're inside, outside or underground, but takes up a lot of real estate on the soundtrack. What's there is great though.
