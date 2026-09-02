@@ -26,6 +26,8 @@ The game starts out in the Addams Family mansion, which is your hub level, and t
 
 As you play you can level up your health from 2 hearts to 5 which gives you a good feeling of progression, and really helps if you've been struggling on a certain level for a while. Go away, beat a different level, then come back with some more health and try again.
 
+One thing I have always found a slight negative to the game is the slightly slippery controls. Gomez has this weird momentum thing where he doesn't stop on a dime like in most platformers, it's like the ice level in a Mario game, except there's ice in this game too and it's even worse. It's not a game breaker by any stretch, it just takes a bit of getting used to.
+
 ### Graphics
 
 The graphics are fine, they're far from great, especially after *ActRaiser 2*, but they're clear and bright with a good variety of enemies and backgrounds, animation is basic, but there are some nice moments like Gomez tapping his foot when you take a while to move, very *Sonic* like. Gomez is maybe a bit too "cute" the sprite is quite small and low detail, but then when you go through the house there are some nice paintings of the family that are much more detailed. It's a colourful game with graphics that do what they need to.
