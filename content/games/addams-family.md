@@ -33,3 +33,11 @@ The graphics are fine, they're far from great, especially after *ActRaiser 2*, b
 The sound in this game is iconic to me personally, the cheeps and chirps of the creatures in the levels, the sound effect when you bounce on a monster's head, the noise Gomez makes when he gets hurt, the theme of this review is "doesn't do anything special, but it just works" and that's no exception here.
 
 The music however is genuinely good, a really nice rendition of the Addams Family theme, then the level themes are all well put together, but the soundtrack is quite short, with a few tracks that are only a few seconds long. The meat of the soundtrack is good, but there are tracks that are repeated with echo or wind over it depending on where you are in the game. It's a cool thing to give the song something slightly different whether you're inside, outside or underground, but takes up a lot of real estate on the soundtrack. What's there is great though.
+
+## The People
+
+I jumped straight to the music on this one, music and sound were done by **Jonathan Dunn** who has a very long credit list. He started in the late 80s doing sound and music for a lot of home computer games, and started with **Ocean** straight away with *Platoon* on the Commodore 64, he did the music for **Ocean**'s *Robocop*, *Rambo*, *Batman*, *Total Recall*, *Terminator 2*, a load of Simpsons home computer releases, before moving onto console games like *Jurassic Park* for NES and SNES, and even did music for the Virtual Boy release of *Waterworld*. The guy was obviously good at converting already existing music onto games consoles.
+
+Game design and graphics were covered by **Warren Lancashire** who eventually worked on *Lego City Undercover*, *Lego Jurassic World*, and *Lego Star Wars: The Force Awakens* among other things.
+
+And that's about all of note on this one.
