@@ -11,6 +11,7 @@
     "image": "node scripts/image.mjs"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "gray-matter": "^4.0.3",
     "next": "^16.2.12",
     "react": "^19.2.8",
