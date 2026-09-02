@@ -7,6 +7,8 @@ released: "1993"
 region: "Japan, North America and Europe"
 genre: ["Platformer"]
 status: "played"
+score: 3
+verdict: "Disappointing beyond belief, I wanted so much more than what was offered. I will give credit where it's due for the graphics and sound, but when the gameplay is shat into a cup and poured into a SNES cartridge there's only so much the fancy graphics and amazing music can fix."
 excerpt: "The sequel to one of the most innovative and fun games on the SNES, with 3 years of development time but only a year gap for us in the UK, could anything go wrong here at all?!..."
 ---
 
