@@ -7,6 +7,8 @@ excerpt: "The sequel to one of the most innovative and fun games on the SNES, wi
 
 ## The Game
 
+![ActRaiser 2 logo](/games/actraiser-2/logo.png)
+
 Coming soon.
 
 ### Gameplay
