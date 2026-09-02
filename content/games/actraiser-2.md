@@ -42,7 +42,15 @@ After a quick cross check, all the big names from ActRaiser also worked on ActRa
 
 ## Box art
 
-Coming soon.
+![ActRaiser 2, US front cover](/games/actraiser-2/USfront.jpg)
+![ActRaiser 2, US back cover](/games/actraiser-2/USback.jpg)
+
+*North American release, 1993.*
+
+![ActRaiser 2, EU front cover](/games/actraiser-2/EUfront.jpg)
+![ActRaiser 2, EU back cover](/games/actraiser-2/EUback.jpg)
+
+*European release, 1994.*
 
 ## The Press
 
