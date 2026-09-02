@@ -2,6 +2,7 @@
 title: "ActRaiser 2"
 sortTitle: "ActRaiser 2"
 status: "played"
+excerpt: "The sequel to one of the most innovative and fun games on the SNES, with 3 years of development time but only a year gap for us in the UK, could anything go wrong here at all?!..."
 ---
 
 ## The Game
