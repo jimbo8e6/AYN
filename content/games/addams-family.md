@@ -25,19 +25,30 @@ The Addams Family is a licensed platformer where you play as Gomez Addams trying
 
 Developed and published by **Ocean Software**, who we last saw all the way back in *90 Minutes European Prime Goal*, this is one of the many licenses they got hold of, and one they released on pretty much anything with a microchip in it. This game saw a release on: NES, Game Boy, SNES, ZX Spectrum, Amiga, Atari ST, Commodore 64, Amstrad CPC, Genesis/Mega Drive, Game Gear and Master System. They really wanted this out there as much as was humanly possible.
 
+![The Addams Family title screen](/games/addams-family/title.jpg)
+
 ### Gameplay
 
 Like I said, this doesn't do anything new. It's a 2D platformer, you move from one end of the level to the other, jumping on enemies to kill them, you collect a couple of power ups to make that killing a little easier, there's a sword you can stab with, and some golf balls that act in a similar way to Mario's fire flower power up. There's also a fez with a propellor on the top that lets Gomez fly, and some shoes that make him run extra fast.
 
+![The furnace level](/games/addams-family/furnace.jpg)
+![The gallows area](/games/addams-family/gallows.jpg)
+
 The game starts out in the Addams Family mansion, which is your hub level, and the levels can be tackled in any order, you open a door and head in to levels like the greenhouse, the gallery, the inside of a tree, underground, there's plenty of variety and the game does offer some challenge without being too frustrating.
+
+![The tree level](/games/addams-family/tree.jpg)
 
 As you play you can level up your health from 2 hearts to 5 which gives you a good feeling of progression, and really helps if you've been struggling on a certain level for a while. Go away, beat a different level, then come back with some more health and try again.
 
 One thing I have always found a slight negative to the game is the slightly slippery controls. Gomez has this weird momentum thing where he doesn't stop on a dime like in most platformers, it's like the ice level in a Mario game, except there's ice in this game too and it's even worse. It's not a game breaker by any stretch, it just takes a bit of getting used to.
 
+![The ice level](/games/addams-family/ice.jpg)
+
 ### Graphics
 
 The graphics are fine, they're far from great, especially after *ActRaiser 2*, but they're clear and bright with a good variety of enemies and backgrounds, animation is basic, but there are some nice moments like Gomez tapping his foot when you take a while to move, very *Sonic* like. Gomez is maybe a bit too "cute" the sprite is quite small and low detail, but then when you go through the house there are some nice paintings of the family that are much more detailed. It's a colourful game with graphics that do what they need to.
+
+![One of the family portraits in the mansion](/games/addams-family/portrait.jpg)
 
 ### Sound and Music
 
