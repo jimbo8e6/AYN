@@ -41,3 +41,8 @@ The sound effects are similar to the previous game but a bit punchier in places,
 Like I said before, this is pretty much unchanged from *The Addams Family*, **Jake Wikeley** was brought in as an extra background artist, he had previously worked on some Amiga and DOS games like *Hook*, *Lethal Weapon* and *Jurassic Park*, and he went on to work on several *Far Cry* games up until *Far Cry: New Dawn* in 2019.
 
 **John Palmer** was brought in specifically as a sprite artist to help transfer the TV series animation to the console, he had previously worked on the Amiga and Atari ST versions of *Batman*. That is about it, although **Rob Arnold** who had some hardware and technical support credits for other games was credited as the EPROM blower, and **Allan Shortt**, a programmer on the original *Mario Bros.* Arcade game among other things was simply credited as "Moral Support" whatever that means!
+
+## Box art
+
+![Addams Family: Pugsley's Scavenger Hunt, front cover](/games/addams-family-pugsleys-scavenger-hunt/front.png)
+![Addams Family: Pugsley's Scavenger Hunt, back cover](/games/addams-family-pugsleys-scavenger-hunt/back.png)
