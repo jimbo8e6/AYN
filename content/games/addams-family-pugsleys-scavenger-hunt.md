@@ -3,7 +3,7 @@ title: "Addams Family: Pugsley's Scavenger Hunt"
 sortTitle: "Addams Family Pugsleys Scavenger Hunt"
 developer: "Ocean Software"
 publisher: "Ocean Software"
-released: ""
+released: "1993"
 region: "North America and Europe"
 genre: ["Platformer", "Licensed"]
 status: "upcoming"
