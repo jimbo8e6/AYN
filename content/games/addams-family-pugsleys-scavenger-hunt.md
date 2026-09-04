@@ -35,3 +35,9 @@ The game was a lot more colourful, the characters were a lot more striking in th
 Once again the sound and music in this game are great, it has basically the same people working on it that the previous game did, and they've had a year to hone their skills and give us even better than before. There's a good 35 minutes of music on the soundtrack, and while some of the songs are particularly long and have the same main beat, they are slightly altered throughout so you're not just sitting listening to a 30 second loop for 9 minutes, which is always nice.
 
 The sound effects are similar to the previous game but a bit punchier in places, I'm sure they reused a few like Pugsley's shoes screeching to a halt when you stop him running, but there's plenty new stuff and it's exactly what you want from a platformer. Nothing obnoxious, but some nice fun sound effects.
+
+## The People
+
+Like I said before, this is pretty much unchanged from *The Addams Family*, **Jake Wikeley** was brought in as an extra background artist, he had previously worked on some Amiga and DOS games like *Hook*, *Lethal Weapon* and *Jurassic Park*, and he went on to work on several *Far Cry* games up until *Far Cry: New Dawn* in 2019.
+
+**John Palmer** was brought in specifically as a sprite artist to help transfer the TV series animation to the console, he had previously worked on the Amiga and Atari ST versions of *Batman*. That is about it, although **Rob Arnold** who had some hardware and technical support credits for other games was credited as the EPROM blower, and **Allan Shortt**, a programmer on the original *Mario Bros.* Arcade game among other things was simply credited as "Moral Support" whatever that means!
