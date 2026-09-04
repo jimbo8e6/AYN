@@ -8,6 +8,11 @@ region: "North America and Europe"
 genre: ["Platformer", "Licensed"]
 status: "played"
 score: 7
+youtube:
+  - id: "2BQP4yUucHc"
+    label: "Addams Family - Pugsley's Scavenger Hunt intro. All credit to RetroNick on Youtube."
+  - id: "IokBKvFiCvM"
+    label: "The intro to The Addams Family animated series"
 verdict: "While it is a great game, and does improve on the first in a few ways, there aren't any rose tinted glasses with this one, and it loses a bit because of the lack of any kind of password system. Still a great game."
 excerpt: "A sequel (ish) to The Addams Family coming out just a year later with a very similar gameplay style, but based on the animated series rather than the movie. Can it live up to the first game?"
 ---
