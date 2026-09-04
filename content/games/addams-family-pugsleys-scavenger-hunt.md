@@ -20,17 +20,30 @@ excerpt: "A sequel (ish) to The Addams Family coming out just a year later with 
 
 Once again developed and published by **Ocean Software**, the industry leader in licensed games, there isn't much more to say that hasn't already been said, so let's get into it.
 
+![Pugsley's Scavenger Hunt title screen](/games/addams-family-pugsleys-scavenger-hunt/title.jpg)
+
 ### Gameplay
 
 The gameplay remains largely very similar to the first game. You have a series of doors that open into levels, and in those levels you have to find an item in the titular scavenger hunt given to you by Wednesday Addams (this was Wednesday's second era of being the cool character everyone loved, the girl has staying power!) Similar to the first game you can tackle whichever level you like in whatever order you want, which is a nice feature that I'm glad they stuck with. The core mechanics are similar, platform from left to right, jump on enemies, you know the drill.
 
+![Wednesday Addams gives you your scavenger hunt items](/games/addams-family-pugsleys-scavenger-hunt/wednesday.jpg)
+![The hub level in the Addams mansion](/games/addams-family-pugsleys-scavenger-hunt/hub.jpg)
+
 The one thing this game omitted, which is such a bizarre decision that I just can't get my head around, was a password system. No save, no password, you either one and done this game, or you start again from the start. Now for me, being the save stating scumbag I am, this didn't make any difference to my play through at all. But for people at the time playing it I can imagine they must have been so annoyed. The previous game had passwords, there was absolutely no reason to drop them for this, but they did. It could be a case of the developers being concerned the game could be rented and completed easily in a night or two, so no one would buy their game. This sort of artificial difficulty and attempt to extend the gameplay time was commonplace in the era, so I wouldn't be surprised if that were the case.
+
+![Game over screen](/games/addams-family-pugsleys-scavenger-hunt/game_over.png)
 
 ### Graphics
 
 The game has had a massive jump in graphics quality, while I did really like the graphics of the first game, this one steps it up so much. With it being based on the animated series they were able to use sprites and backgrounds more fitting of a platformer of the era, similar to *Aaahh!!! Real Monsters*.
 
+![The bathroom level](/games/addams-family-pugsleys-scavenger-hunt/bathroom.jpg)
+![The laboratory level](/games/addams-family-pugsleys-scavenger-hunt/laboratory.jpg)
+
 The game was a lot more colourful, the characters were a lot more striking in their design, and because of that they were able to really go outside the box with the level design as well. There's a level completely encompassed by a crystal ball, with Granny Frump staring through from behind as you play, a bathroom level with bubbles floating around, a level in a laboratory with vials and burners. It's a really good looking game, with some really nice clear images of the characters from the series when you talk to them.
+
+![The crystal ball level](/games/addams-family-pugsleys-scavenger-hunt/crystal.jpg)
+![Granny Frump watching through the crystal ball](/games/addams-family-pugsleys-scavenger-hunt/granny.jpg)
 
 ### Sound and Music
 
