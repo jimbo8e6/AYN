@@ -52,3 +52,31 @@ For a second time they've done exactly what they need to with the front cover, l
 As for the back, we're once again cursed with a lack of bullet points, a bonus point to whichever game is the first to bring them back! It has the standard 4 screenshots, in a standard placement. They picked good screenshots that show the game off nicely, including the crystal ball level that is one of the best looking. The text is just a basic explanation of the story, and the gameplay.
 
 Overall I give this box a rating of - **Accurate**. It's another box that gets that rating by default essentially, can't get caught in a lie if you don't promise anything!
+
+## The Press
+
+*Super Play*:
+
+> One great thing about it is that it's the same as the *Addams Family* original, but different. The characters, for instance, are the same (Pugsley, Gomez, etc), but rendered in a different way - as this is based on the cartoon series, they're all brighter, more colourful. The game structure is the same too - you're once again walking around a house, entering different areas which convert into levels. However, this time the graphics are more original, more varied - like the artist has had more fun with them. The parallax scrolling in the backgrounds is a sight to be seen - perhaps the best ever? - and many of the visual effects are simply stunning. The characters are great too - the baddy sprites are all true individuals, with the drowning cats, in particular, really making an impression on the soppier members of the Super Play team. This is one of those games that it's fun just to sit and watch, not only to play.
+>
+> **90/100**
+
+*Nintendo Magazine System*:
+
+> Ocean produce another strong game from their favourite constituency, a worthy sequel to *Addams Family* and it's so polished you can see your face in it.
+>
+> **89/100**
+
+*GamesMaster*:
+
+> This has to be one of the best platformers around on the SNES. It really is quite hard and should keep you pulling your hair out for a long while. This is a big improvement over the original Addams' game and is blessed with better graphics and good variety of sound effects. The gameplay is just great. It's a game not to be missed.
+>
+> **88/100**
+
+*Computer & Video Games*:
+
+> Yeah, it's all familiar stuff, as is the familiar feeling when exploring its many levels. Ocean have had lots of practise with this sort of game, and Pugsley is their finest licence yet - even the hunt requires an element of thought! It's by no means a classic, but it's entertaining stuff and most certainly worth a look.
+>
+> **87/100**
+
+Not a single mention of the lack of a password system in these, which would've been huge for the regular gamer, but obviously not for a magazine that likely gave it a quick once over and moved on!
