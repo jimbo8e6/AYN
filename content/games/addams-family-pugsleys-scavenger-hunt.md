@@ -46,3 +46,9 @@ Like I said before, this is pretty much unchanged from *The Addams Family*, **Ja
 
 ![Addams Family: Pugsley's Scavenger Hunt, front cover](/games/addams-family-pugsleys-scavenger-hunt/front.png)
 ![Addams Family: Pugsley's Scavenger Hunt, back cover](/games/addams-family-pugsleys-scavenger-hunt/back.png)
+
+Once again they've done exactly what they need to with the front cover, like the previous game was just the movie poster, this is just essentially a promo art piece for the animated series, but it tells you exactly what you're getting, it's a lot brighter and more colourful than the last game, and would definitely catch your eye in the game store.
+
+As for the back, we're once again cursed with a lack of bullet points, a bonus point to whichever game is the first to bring them back! It has the standard 4 screenshots, in a standard placement. They picked good screenshots that show the game off nicely, including the crystal ball level that is one of the best looking. The text is just a basic explanation of the story, and the gameplay.
+
+Overall I give this box a rating of - **Accurate**. It's another box that gets that rating by default essentially, can't get caught in a lie if you don't promise anything!
