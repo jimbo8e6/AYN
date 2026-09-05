@@ -57,10 +57,8 @@ Now, with the front I thought for a second that they had created some original a
 
 As for the back, we have bullet points again! Kind of, subtitles under screenshots but I'll take it! So you have the usual game description, which is fine, and they've opted for 3 screenshots rather than the usual 4 so they can advertise the included movie poster. (I bet complete versions go for a pretty penny nowadays). The three screenshots are all from fairly early in the game and don't really give you a good variety, 2 of them are in the exact same location, so not the best choices, but the descriptions are what matter here.
 
-*Play Fester through 42 levels of electrifying Addams role-playing adventure* - It's really hard to know how many levels there are because it's an overworked and dungeons, is every screen in a dungeon a level? 42 seems like a lot so I think that's how they might be counting it which is a bit sneaky. Also, referring to it as an RPG on the box is maybe a bit much, you can upgrade your health, I guess it all depends on how people define RPG's nowadays.
-
-*Interact with all your favourite characters from the movie* - Yeah I'll give it that.
-
-*Use spider eyes, potions, and headless teddybears in your quest to find Pubert* - Again, yes those are all in the game.
+- **Play Fester through 42 levels of electrifying Addams role-playing adventure** - *It's really hard to know how many levels there are because it's an overworked and dungeons, is every screen in a dungeon a level? 42 seems like a lot so I think that's how they might be counting it which is a bit sneaky. Also, referring to it as an RPG on the box is maybe a bit much, you can upgrade your health, I guess it all depends on how people define RPG's nowadays.*
+- **Interact with all your favourite characters from the movie** - *Yeah I'll give it that.*
+- **Use spider eyes, potions, and headless teddybears in your quest to find Pubert** - *Again, yes those are all in the game.*
 
 Overall I give this box a rating of - **Mostly accurate**. It's hard to know for sure with the number of levels, but it does feel like a stretch, same with calling it an RPG, also the electrifying pun knocks it down a mark.
