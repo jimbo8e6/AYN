@@ -62,3 +62,23 @@ As for the back, we have bullet points again! Kind of, subtitles under screensho
 - **Use spider eyes, potions, and headless teddybears in your quest to find Pubert** - *Again, yes those are all in the game.*
 
 Overall I give this box a rating of - **Mostly accurate**. It's hard to know for sure with the number of levels, but it does feel like a stretch, same with calling it an RPG, also the electrifying pun knocks it down a mark.
+
+## The Press
+
+*Nintendo Magazine System*:
+
+> Ocean have hit upon the ideal interpretation of the Addams Family. The best seen on any console.
+>
+> **90/100**
+
+*GameFan*:
+
+> Boy, Fester is really kickin' up dust in AFV! There are many similarities between it and Zelda, but it just couldn't do it. Other than that, AFV gives the gamer the next best thing to it...you betcha! Tuneful music, lavish bosses and a fluid storyline to keep you tunes in with the action.
+>
+> **86/100**
+
+*GamesMaster*:
+
+> I found myself enjoying AFV more the deeper I got into it. The simplified gameplay and variety of locations and characters make for a compelling game. A cracking little adventure
+>
+> **82/100**
