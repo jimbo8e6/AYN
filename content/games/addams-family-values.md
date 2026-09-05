@@ -9,3 +9,7 @@ genre: ["Action Adventure", "Licensed"]
 status: "upcoming"
 excerpt: "The third Addams Family game in a row, Addams Family Values rounds out a *sort of* trilogy in an entirely new way."
 ---
+
+## The Game
+
+![Addams Family Values logo](/games/addams-family-values/logo.png)
