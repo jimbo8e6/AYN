@@ -93,7 +93,9 @@ export default async function GamePage({ params }: PageProps) {
 
         {game.excerpt && (
           <p className="mt-8 font-serif text-xl leading-relaxed text-body">
-            {game.excerpt}
+            <Markdown allowedElements={["em", "strong", "a", "code"]} unwrapDisallowed>
+              {game.excerpt}
+            </Markdown>
           </p>
         )}
       </header>
