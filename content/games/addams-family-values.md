@@ -6,7 +6,9 @@ publisher: "Ocean Software"
 released: "1995"
 region: "North America and Europe"
 genre: ["Action Adventure", "Licensed"]
-status: "upcoming"
+status: "played"
+score: 7
+verdict: "The music really pushed it up from a 6, I definitely prefer the two platformers in terms of gameplay, I think they had a really good thing going with them, but I appreciate what they tried to do and that music made it all worthwhile."
 excerpt: "The third Addams Family game in a row, Addams Family Values rounds out a *sort of* trilogy in an entirely new way."
 ---
 
@@ -82,3 +84,5 @@ Overall I give this box a rating of - **Mostly accurate**. It's hard to know for
 > I found myself enjoying AFV more the deeper I got into it. The simplified gameplay and variety of locations and characters make for a compelling game. A cracking little adventure
 >
 > **82/100**
+
+Very positive reviews, and mostly well deserved but they didn't seem to cover any of the gripes I had with the game. There were some lower scores but they were all from German magazines.
