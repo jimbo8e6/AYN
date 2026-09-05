@@ -8,6 +8,11 @@ region: "North America and Europe"
 genre: ["Action Adventure", "Licensed"]
 status: "played"
 score: 7
+youtube:
+  - id: "FK0bKWu7SAE"
+    label: "10 minutes of Addams Family Values. All credit to 10 Min. of SNES on Youtube"
+  - id: "ZJ0G-OQlE7s"
+    label: "Original TV advert for Addams Family Values on SNES"
 verdict: "The music really pushed it up from a 6, I definitely prefer the two platformers in terms of gameplay, I think they had a really good thing going with them, but I appreciate what they tried to do and that music made it all worthwhile."
 excerpt: "The third Addams Family game in a row, Addams Family Values rounds out a *sort of* trilogy in an entirely new way."
 ---
