@@ -20,21 +20,34 @@ Addams Family Values was released in 1995 for both the SNES and Genesis/Mega Dri
 
 For the third time we have a game both developed and published by **Ocean Software**, so very little to say here that hasn't already been said.
 
+![Addams Family Values title screen](/games/addams-family-values/title.png)
+
 ### Gameplay
 
 The jump from a 2D platformer to a top down action adventure was a surprising one, 2D platformers were often the game of choice for licensed games of this era, and it's not even like *A Link to the Past* released between the games, *A Link to the Past* actually predates the first Addams Family game, but Addams Family games weren't strangers to this genre, *Fester's Quest* on the NES was a similar type of game so they had some roots already laid out.
 
+![The overworld](/games/addams-family-values/overworld.png)
+
 You move around the world and various levels using Fester's electricity to zap various different enemies, skeletons, eyes, killer tomatoes, tiny robots, there's some good variety of enemies, but the actual fighting does get repetitive. You can get a better electricity blast that extends out longer, think the sword in *Zelda* when you're at full health, but it really is just a case of walking round zapping enemies over and over until they die.
+
+![The forest level](/games/addams-family-values/forest.png)
+![The greenhouse level](/games/addams-family-values/greenhouse.png)
 
 I do get a kick out of the dialogue, Fester will talk to various people, the Addams Family themselves and some other characters, and that typical Addams Family feeling of bad is good, and good is bad is quite funny. When you have a cute little character pleading for help, and Fester just asks "why?" Does make it a refreshing change to the usual cliche dialogue.
 
 There is quite a lot of variety between levels as well, with puzzles to work out and bosses to fight. I just wish there was a bit more variety in the combat, there are some other weapons, but they don't really seem to be much more help than what you have to start with.
 
+![A boss fight](/games/addams-family-values/boss.png)
+
 The world is also a bit confusing, with very little indication on where to go next without a guide. An easy thing to find now, but not when the game released, and I can imagine a lot of people would've found the game frustrating because of that.
+
+![The map screen](/games/addams-family-values/map.png)
 
 ### Graphics
 
 It's a very nice looking game, with it being based on the film, the graphic style is similar to the first game, with the family sprites looking similar to how they did there, the levels all look nice, with some very basic but effective effects like fog through some of them and enough variety too you don't think you're seeing the same level over and over again. I think the dark, dingy feel to the game is to it's detriment a bit though, I get that that's the Addams Family, but there's a lot of vibrant colour missing that the SNES does so well.
+
+![The basement level](/games/addams-family-values/basement.png)
 
 ### Sound and Music
 
