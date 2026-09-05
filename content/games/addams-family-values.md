@@ -39,3 +39,11 @@ It's a very nice looking game, with it being based on the film, the graphic styl
 The music is really good again, very atmospheric, and fit the world perfectly. There are 16 tracks on the soundtrack and it clocks in at just under an hour long. The "Blizzard" theme is a standout, but all the music is great, it almost feels like 16 bit versions of music you'd hear in a horror film. "House of the Dead" must have been inspired by the theme to John Carpenter's *Halloween*. It's a soundtrack I could listen to outside of playing the game and is easily my favourite soundtrack of the three Addams Family games. You can check it out [here](https://downloads.khinsider.com/game-soundtracks/album/addams-family-values).
 
 As for the sound effects, they're fine. The attack sound does grate on you after a while, and the enemies exploding all sounds the same, there are some nice bits here and there, but the music is by far the big selling point.
+
+## The People
+
+New game, new genre, and a new load of people to talk about. First of all the music because it stood out so well. **Keith Tinman** was credited for the music in this, he'd previously worked on a load of home computer releases, before starting console work with *Cool World* on the SNES. Then in 2002 he did music for the fantastic PS2 title *The Thing*, which makes me even more convinced about the John Carpenter influence here.
+
+**Don McDermott** pulled triple duty and worked on the graphics, game design and the script, I quite enjoyed the script so I had a look at his previous work and it's the only game he's ever written for before or since but he did artwork for *Medal of Honour Frontline*, and for some reason got a special thanks credit for the *Buffy the Vampire Slayer* game in 2002.
+
+However the biggest career by far has to go to the programmer **Robert Walker**. He did programming for a lot of handheld Lego games, but it seemed that he moved into marketing in the 00s and dealt with the releases of *Uncharted*, *Little Big Planet*, *Infamous*, *God of War III*, honestly the list goes on and on right up to *Helldivers II* and...*Concorde*...yeesh.
