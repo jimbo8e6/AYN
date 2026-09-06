@@ -27,17 +27,10 @@ function Thumbnail({ video, title }: { video: Video; title: string }) {
             className="h-full w-full object-cover transition-opacity duration-200 group-hover:opacity-75"
             onLoad={(e) => {
               // YouTube's grey placeholder is 120×90 — hide it so bg-ink shows instead
-              if (e.currentTarget.naturalWidth <= 120) {
-                setVisible(false);
-              }
+              const w = e.currentTarget.naturalWidth;
+              if (w === 0 || w <= 120) setVisible(false);
             }}
-            onError={() => {
-              if (src.includes("maxresdefault")) {
-                setSrc(`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`);
-              } else {
-                setVisible(false);
-              }
-            }}
+            onError={() => setVisible(false)}
           />
         )}
         <div className="absolute inset-0 flex flex-col items-center justify-center gap-2">
