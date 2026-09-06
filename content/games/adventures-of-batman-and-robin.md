@@ -38,7 +38,13 @@ Sound is about what you'd expect for a beat-em-up, grunts and groans as you kick
 
 ## The People
 
-Coming soon.
+A lot of people worked on this game! 7 people on sound effects and music alone. **Jun Funahashi** had previously worked on *TMNT* for the NES, *Castlevania III*, and *Batman Returns* (had some experience with Batman music already!) among other. After this he went on to work on a lot of modern Frogger games of all things, and his last game was *Stranglehold* in 2007. **Kazuhiko Uehara** was obviously a mainstay for **Konami**, working on *Metal Gear 2*, *Turtles in Time*, *Parodius*, and he had a great credit on *Metal Gear Solid 2: Substance* as part of the "Skateboarding unit"
+
+6 people worked on the graphics, **Yoichi Yoshimoto** was credited on the most other games, he'd mainly worked on smaller NES titles or Japanese exclusives, but after this went on to work on *Brave Fencer Musashi* for PS1, various *Kingdom Hearts* games, *Final Fantasy IV: The Complete Collection* on PSP, and *Mario Sports Mix* on the Wii.
+
+The game also had 4 programmers, obviously not a case of too many cooks spoiling the broth because the game came out great. **Makoto Sato** still works in the industry today programming a companion app for *Final Fantasy XIV*.
+
+All these Japanese people working hard on such a good game, and it never even released in Japan.
 
 ## Box art
 
