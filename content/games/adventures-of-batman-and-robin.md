@@ -6,7 +6,9 @@ publisher: "Konami"
 released: "1994"
 region: "North America and Europe"
 genre: ["Beat-em-up", "Licensed"]
-status: "upcoming"
+status: "played"
+score: 8
+verdict: "The first beat-em-up entry on the list and it started with a bang. Fantastic graphics, fluid animations, feels like you're playing an episode of the cartoon. Just wish Batman controlled a little better in places, and a bit more enemy variety wouldn't go a miss."
 excerpt: "The first beat-em-up on the list, and in a surprising twist, it's a licensed one, that's 8 out of the first 13 games. Is it good? Yes, yes it is."
 ---
 
