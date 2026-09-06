@@ -59,4 +59,44 @@ I give this box my rating of - **Accurate**. The game does exactly what it says 
 
 ## The Press
 
-Coming soon.
+*GameFan Magazine*:
+
+> Wow! Now this is what action/adventure is all about! In every category Batman and Robin delivers. The graphics, sound and especially the level design are pure genious. Special effects are waiting around every corner! Konami does it again!
+>
+> **95/100**
+
+*GamesMaster*:
+
+> Whether you're a fan of Batman or not, this will still have you begging for more. It's a very tough game to do well at, but there are a lot of goodies to help you through the game.
+>
+> **91/100**
+
+*Computer & Video Games*:
+
+> This is a great SNES game, and Konami has more than done the licence justice with a cracking soundtrack that helps set the tone for the accurately depicted Batman characters and sets. Many of Batman's psycho enemies have been included and the prerequisite Mode 7 touches are here - the roller coaster section is very similar to a stage in Probotector. But the scene-setting pieces of text can irritate after a while, and more variations on the levels would have been appreciated; but on the whole what you get is a well-rounded package.
+>
+> **91/100**
+
+*Video Games & Computer Entertainment*:
+
+> Talk about bang for the buck! The levels are wildly inventive and varied. Check out the driving levels, the Riddler's maze and Batman's freefall flight with Catwoman (to name a few) and prepare to be impressed. In addition to these features, The Adventures of Batman and Robin features rock solid action gameplay. No, Konami didn't pay me to write this review, The Adventures of Batman and Robin is that good.
+>
+> **9/10**
+
+*Digitiser*:
+
+> Batman and Robin is a tough and original platformer. Graphically it is outrageously good, though it tends to peak rather early on with a stunning 3D roller-coaster battle against Joke-o. The art deco backdrops are faithful to the cartoon, as is a soundtrack which perfectly recreates the brooding score. This is one of the few games we regret not reviewing in time for Crimbo, and it's one we'd recommend you to consider as an irregular New Year purchase.
+>
+> **89/100**
+
+*GamePro*:
+
+> With the steadfast controls, you'll blast through each stage - except behind the wheel of the Batmobile, where the twitchy steering and weak graphics harken back to eight-bit games. Regardless, there's enough depth in this fun, intriguing game to keep you dashing across Gotham City for quite some time.
+>
+> **4/5**
+
+*Game Players/Ultra Game Players*:
+
+> Sadly, Batman & Robin falls short of super-heroic stature. Parts of the game can be frustrating and Batman's slow movement doesn't help. But if you're a fan of the show, you still can't go wrong with this cart. It does most things right and it's always fun to don the cape and cowl. Now if we could only get the Adam West Batman game.
+>
+> **80/100**
