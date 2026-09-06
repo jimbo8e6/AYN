@@ -28,11 +28,13 @@ There are some things I didn't like though, I mentioned before about the gadgets
 
 ### Graphics
 
-Coming soon.
+Graphics are phenomenal, it's like they were lifted straight from the animated series, each level starts at the bat computer talking to Alfred or Gordon, or watching a news report, and all the characters look exactly like they do in the show, it has really nice fluid animations, Batman's cape flowing behind you when you run, or billowing above you when you fall, there's some really nice parallax scrolling in some levels, and a really gorgeous scene with you chasing Catwoman across the roof tops while search lights shine on you from below. There's colour, there's darkness, a great mix of everything, the only thing I wish there was more of was enemy variety. What you have looks great, but when you fight your 100th Tommy Gun wielding gangster it starts to look a little bit less impressive. The bosses are all designed really well, you fight on a rollercoaster, the wings of a plane, a chessboard that breaks away under your feet as you run. These games based on animated series really do lend themselves well to this era of gaming. I did get a bit of slow down in places, so either the SNES was being pushed to its limits, or my emulator was crapping out.
 
 ### Sound and Music
 
-Coming soon.
+Really nice recreation of the theme song for the show, and a decent soundtrack to go along with it. The tracks are all quite short so while they are good, you can get repetition if you linger on a level too long. The levels are fairly short so it doesn't happen often. It does make you feel like you're playing an episode of the show.
+
+Sound is about what you'd expect for a beat-em-up, grunts and groans as you kick seven shades of shit out of a villain's goons. Nothing majorly stand out, but nothing offensive that will have you turning the volume down. Weirdly the boss fight with The Scarecrow seemed to have the exact same sound when you hit him versus when you got hit, so it was hard to tell if I was landing a blow or getting hit myself. Not sure if that was an intentional thing or a mistake, but it was odd.
 
 ## The People
 
