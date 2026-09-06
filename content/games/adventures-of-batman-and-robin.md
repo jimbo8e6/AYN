@@ -12,6 +12,8 @@ excerpt: "The first beat-em-up on the list, and in a surprising twist, it's a li
 
 ## The Game
 
+![The Adventures of Batman & Robin logo](/games/adventures-of-batman-and-robin/logo.png)
+
 Coming soon.
 
 ### Gameplay
