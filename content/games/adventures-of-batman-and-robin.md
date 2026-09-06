@@ -48,7 +48,14 @@ All these Japanese people working hard on such a good game, and it never even re
 
 ## Box art
 
-Coming soon.
+![The Adventures of Batman & Robin, front cover](/games/adventures-of-batman-and-robin/front.jpg)
+![The Adventures of Batman & Robin, back cover](/games/adventures-of-batman-and-robin/back.png)
+
+At first glance the front cover is lovely, lifted straight from the animated series, and would be eye catching on any game shop shelf. Upon closer inspection there are a couple of things I noticed, number one, how is The Joker not on the front cover? The most iconic villain, and is the first and last villain you see in the game, just an odd choice. Second, what is going on with The Riddlers arm? I thought he was aiming a shotgun onto the floor but I'm not even sure what he's holding, not got a clue what he's up to. The third, damn is Batman's hand not huge? Also, I love that Two Face is just holding a pistol, on the front cover of a Nintendo game, taken directly from a children's animated series. Villains used guns back then in kids shows back then!
+
+As for the back, they've broken the 4 screenshot rule and gone for 6! They've chosen really nice ones too, the search light while leaping across the buildings, the rollercoaster, swinging from the bottom of a blimp, they really make you want to play the game. No bullet points, but reading the description they do go into a bit more detail talking about the amount of levels and the gadgets and all that, and every part of it is completely true, so…
+
+I give this box my rating of - **Accurate**. The game does exactly what it says on the tin, and it does it amazingly well.
 
 ## The Press
 
