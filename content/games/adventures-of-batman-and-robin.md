@@ -1,7 +1,8 @@
 ---
 title: "The Adventures of Batman & Robin"
-sortTitle: "Adventures of Batman & Robin"
-status: "playing"
+sortTitle: "Adventures of Batman and Robin"
+status: "upcoming"
+excerpt: "The first beat-em-up on the list, and in a surprising twist, it's a licensed one, that's 8 out of the first 13 games. Is it good? Yes, yes it is."
 ---
 
 ## The Game
