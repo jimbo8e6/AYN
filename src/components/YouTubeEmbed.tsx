@@ -32,7 +32,11 @@ function Thumbnail({ video, title }: { video: Video; title: string }) {
               }
             }}
             onError={() => {
-              setVisible(false);
+              if (src.includes("maxresdefault")) {
+                setSrc(`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`);
+              } else {
+                setVisible(false);
+              }
             }}
           />
         )}
