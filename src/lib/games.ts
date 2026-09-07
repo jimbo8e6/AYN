@@ -191,6 +191,11 @@ export const INDEX_LETTERS = ["#", ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")];
 export function getLatestGames(count: number): Game[] {
   return getAllGames()
     .filter((game) => game.status !== "upcoming")
+    .sort((a, b) => {
+      const mtimeA = fs.statSync(path.join(CONTENT_DIR, `${a.slug}.md`)).mtimeMs;
+      const mtimeB = fs.statSync(path.join(CONTENT_DIR, `${b.slug}.md`)).mtimeMs;
+      return mtimeB - mtimeA;
+    })
     .slice(0, count);
 }
 
