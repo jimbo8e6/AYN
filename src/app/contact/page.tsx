@@ -46,12 +46,22 @@ export default function ContactPage() {
 
       <div className="border border-line bg-surface p-10 text-center sm:p-14">
         <p className="eyebrow">Send a message</p>
-        <a
-          href={`mailto:${siteConfig.email}`}
-          className="mt-6 inline-block text-2xl font-light tracking-tight break-all text-ink underline decoration-btn-yellow decoration-2 underline-offset-8 transition-colors hover:text-btn-red sm:text-3xl"
-        >
-          {siteConfig.email}
-        </a>
+        <div className="mt-6 flex flex-col items-center gap-4">
+          <a
+            href={`mailto:${siteConfig.email}`}
+            className="text-2xl font-light tracking-tight break-all text-ink underline decoration-btn-yellow decoration-2 underline-offset-8 transition-colors hover:text-btn-red sm:text-3xl"
+          >
+            E-Mail
+          </a>
+          <a
+            href="https://bsky.app/profile/jimbo8e6.bsky.social"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-2xl font-light tracking-tight text-ink underline decoration-btn-yellow decoration-2 underline-offset-8 transition-colors hover:text-btn-red sm:text-3xl"
+          >
+            Bluesky
+          </a>
+        </div>
         <p className="mx-auto mt-8 max-w-sm text-sm leading-relaxed text-muted">
           Include the game name in the subject line if you are writing about a
           specific entry &mdash; it makes finding it again much easier.
