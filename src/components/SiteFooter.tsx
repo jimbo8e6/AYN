@@ -35,6 +35,18 @@ export default function SiteFooter() {
         </div>
 
         <p className="mt-12 border-t border-line-soft pt-6 text-sm leading-relaxed text-body">
+          If you like what I&rsquo;m doing, feel free to throw a couple of quid my way!{" "}
+          <a
+            href="https://ko-fi.com/wax_official"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-deep underline decoration-1 underline-offset-4 transition-colors hover:text-red-deep"
+          >
+            Ko-Fi
+          </a>
+        </p>
+
+        <p className="mt-6 border-t border-line-soft pt-6 text-sm leading-relaxed text-body">
           Proudly part of the Channel 84 network. I wouldn&rsquo;t be doing this
           without them. Please support them all over at{" "}
           <a
