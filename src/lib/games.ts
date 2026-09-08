@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { execSync } from "node:child_process";
 import matter from "gray-matter";
 
 export type GameStatus = "played" | "playing" | "upcoming";
@@ -187,14 +188,26 @@ export function getGamesByLetter(): LetterGroup[] {
  */
 export const INDEX_LETTERS = ["#", ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")];
 
+function gitCommitTime(filePath: string): number {
+  try {
+    const out = execSync(`git log --format=%ct -n 1 -- "${filePath}"`, {
+      encoding: "utf8",
+      cwd: process.cwd(),
+    }).trim();
+    return out ? parseInt(out, 10) : 0;
+  } catch {
+    return 0;
+  }
+}
+
 /** The most recently added write-ups, for the home page. */
 export function getLatestGames(count: number): Game[] {
   return getAllGames()
     .filter((game) => game.status !== "upcoming")
     .sort((a, b) => {
-      const mtimeA = fs.statSync(path.join(CONTENT_DIR, `${a.slug}.md`)).mtimeMs;
-      const mtimeB = fs.statSync(path.join(CONTENT_DIR, `${b.slug}.md`)).mtimeMs;
-      return mtimeB - mtimeA;
+      const tA = gitCommitTime(path.join(CONTENT_DIR, `${a.slug}.md`));
+      const tB = gitCommitTime(path.join(CONTENT_DIR, `${b.slug}.md`));
+      return tB - tA;
     })
     .slice(0, count);
 }
