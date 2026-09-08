@@ -34,17 +34,23 @@ export default function SiteFooter() {
           </nav>
         </div>
 
-        <p className="mt-12 border-t border-line-soft pt-6 text-sm leading-relaxed text-body">
-          If you like what I&rsquo;m doing, feel free to throw a couple of quid my way!{" "}
+        <div className="mt-12 border-t border-line-soft pt-6">
+          <p className="text-sm leading-relaxed text-body">
+            If you like what I&rsquo;m doing, feel free to throw a couple of quid my way!
+          </p>
           <a
-            href="https://ko-fi.com/superaz"
+            href="https://ko-fi.com/X8X41FVSHL"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue-deep underline decoration-1 underline-offset-4 transition-colors hover:text-red-deep"
+            className="mt-3 inline-block"
           >
-            Ko-Fi
+            <img
+              src="https://ko-fi.com/img/githubbutton_sm.svg"
+              alt="Support me on Ko-fi"
+              height="32"
+            />
           </a>
-        </p>
+        </div>
 
         <p className="mt-6 border-t border-line-soft pt-6 text-sm leading-relaxed text-body">
           Proudly part of the Channel 84 network. I wouldn&rsquo;t be doing this
