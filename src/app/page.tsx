@@ -1,11 +1,9 @@
 import Link from "next/link";
 import AccentRule from "@/components/AccentRule";
-import GameCard from "@/components/GameCard";
-import { countPlayed, getLatestGames } from "@/lib/games";
+import { countPlayed } from "@/lib/games";
 import { LIBRARY_TARGET, siteConfig } from "@/lib/site";
 
 export default function HomePage() {
-  const latest = getLatestGames(3);
   const played = countPlayed();
   const percent = ((played / LIBRARY_TARGET) * 100).toFixed(2);
 
@@ -151,34 +149,6 @@ export default function HomePage() {
             </p>
           </div>
         </div>
-      </section>
-
-      {/* Latest ----------------------------------------------------- */}
-      <section className="mx-auto max-w-5xl px-6 py-24">
-        <div className="flex flex-wrap items-baseline justify-between gap-4">
-          <div>
-            <h2 className="rule-heading">Latest write-ups</h2>
-            <AccentRule className="mt-4" />
-          </div>
-          <Link
-            href="/games"
-            className="text-sm font-medium text-muted underline underline-offset-4 transition-colors hover:text-ink"
-          >
-            All games
-          </Link>
-        </div>
-
-        {latest.length > 0 ? (
-          <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {latest.map((game, index) => (
-              <GameCard key={game.slug} game={game} index={index} />
-            ))}
-          </div>
-        ) : (
-          <p className="mt-10 font-serif text-lg text-body">
-            Nothing published yet. The first entry is on its way.
-          </p>
-        )}
       </section>
 
       {/* Contact prompt --------------------------------------------- */}
