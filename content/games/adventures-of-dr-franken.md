@@ -1,6 +1,11 @@
 ---
 title: "The Adventures of Dr. Franken"
 sortTitle: "Adventures of Dr. Franken"
+developer: "Motivetime Ltd"
+publisher: "DTMC Inc."
+released: "1993"
+region: "North America and Europe"
+genre: ["Platformer"]
 status: "upcoming"
 excerpt: "The first non licensed platformer of the series is finally here, and I'm really hoping it's not a sign of things to come..."
 ---
