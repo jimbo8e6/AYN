@@ -71,4 +71,40 @@ Reluctantly this box gets my rating of - **Accurate**. But really, really, painf
 
 ## The Press
 
-Coming soon.
+*Computer & Video Games*:
+
+> Here's a great game starring everyone's favourite munster. Dr Franken is a real cool guy who's rather frantic about finding his missus. There's lots of variation in the gameplay, with moving platforms, secret passages and hidden staircases and coves to maximise the fun. And it's worth just losing a life to see the hysterical expression on Dr Franken's face. It's a big improvement on the Game Boy Version, with excellent attention to graphic detail and good sound to compliment the involving gameplay. Order your copy now.
+>
+> **87/100**
+
+*Super Action*:
+
+> Considering the limitations of the vastly overused platform concept, this cart comes out looking and sounding pretty dang good. With enough levels to keep even Baz Diablo happy it'll take us fallible gamesplayers a long time to complete. More to the point. Dr Franken is probably just about interesting enough for you to actually want to finish it. This isn't an all time classic, but is still good enough to warrant having two whole pages of the greatest SNES mag in the Universe dedicated to it!
+>
+> **83/100**
+
+*Game Players*:
+
+> Help green-skinned Dr. Franken search the world for pieces of his robot girlfriend. DTMC targets younger players, but they're the ones most likely to be frustrated by it's lack of a password feature.
+>
+> **73/100**
+
+*GamesMaster*:
+
+> When you first start you'll feel little or no urge to continue, but persevere and things do get better. There is a good platform game in here, but look over there and you'll see another one, and another, and another, and another, and another…
+>
+> **72/100**
+
+*Electronic Gaming Monthly*:
+
+> This is a good, almost non-linear game.
+>
+> **33/50**
+
+*Super Play*:
+
+> Collecting bits of Bitsy becomes incredibly repetitive after several levels, despite some attempts to inject variety into the proceedings (the New York docklands level requires you to operate a crane to retrieve your paramour's parts). At no time does it ever rise above the level of spotting a switch and throwing it to see what it does. The kicks and punches are sluggish to operate if you're moving fast, so the sensible player takes everything at a zimmer-frame pace. Sometimes it's a little unfair in this respect, and will have you cursing in disbelief as you're killed by a space-hopper that you chose to attack (although the lack of continues prevents you, fortunately, from finishing the entire game in a weekend). Dr Franken really isn't very engaging, and the imbecilic expression on the monster's face when he dies doesn't exactly leave me clamouring for more. Call me a junkie if you like, but I prefer my games to have Class A addiction.
+>
+> **58/100**
+
+Thank god for *Super Play* at the end there, because I thought I was taking crazy pills reading the other reviews. I quite like *CVG* usually, but "order your copy now" sounds like "we were paid for this review" to me.
