@@ -24,19 +24,30 @@ So I decided to go through every game they were credited on to see which ones th
 
 What about the publisher? **DTMC** published 8 games, all for either Game Boy or SNES who look as though they went out of business in 1994 after 2 years. Now this is all starting to make more and more sense.
 
+![The Adventures of Dr. Franken title screen](/games/adventures-of-dr-franken/title.png)
+
 ### Gameplay
 
 Okay, now I can get into the meat of it all, and full disclosure, I did not finish the game. I tried, lord I did try, but it was, and let me stress this, fucking awful.
 
 You're dropped in playing the titular Dr Franken, who incidentally is Frankenstein's monster, and not the Doctor, but I'm not getting into that, it's been done to death. It's the 90s so he has to be cool and wear shades, and he wanders round these levels that are essentially several stories of flat left to right, looking for pieces of certain things, the first level for example seems to be his passport you're after. As I said earlier the game doesn't tell you any of this, and I know, I'm playing this in 2026 without the box or manual, and I'm sure they explain it all perfectly (we'll find out about the box soon enough) but they couldn't even be bothered to start the level with a simple "find this" with a picture of what you're looking for next to it.
 
+![A level in The Adventures of Dr. Franken](/games/adventures-of-dr-franken/level.png)
+
 You expose these levels while fighting off various enemies with a right kick, a left kick, and a bicycle kick, so the controls ended up being annoying as hell too with directional attack buttons, why can't I just attack in the direction I'm facing? So, no idea what you're doing, no indication of where to even start, multi tiered levels with left and right directions, enemies that respawn when their spawn point is just off screen, and some walls are "secret" walls that you can just walk straight through, again without any indication. What, I hear you ask, could possibly make this game play any worse? How about a time limit? Would you like one of those with your dish of absolute unwashed arsehole?
 
+![An enemy in The Adventures of Dr. Franken](/games/adventures-of-dr-franken/enemy.png)
+![A chef enemy in The Adventures of Dr. Franken](/games/adventures-of-dr-franken/chef.png)
+
 I did watch a play through to ensure I wasn't missing anything important and I wasn't, every level is the same thing with a different backdrop. You do have 2 limited ammo ranged attacks, one stuns and the other kills, but they don't fix any of the problems this game has. It definitely feels like a Game Boy game on the big screen.
+
+![The world map in The Adventures of Dr. Franken](/games/adventures-of-dr-franken/map.png)
 
 ### Graphics
 
 The game does look fine, I will give it that if nothing else, the sprites are well detailed for what they are, Franken looks decent in his shades indoors slappable face kind of way, and the enemies are all fairly varied in each level. I will accept that, I've seen better on the SNES but I've seen worse too. The animations however are very basic, the enemies just repeat the same loop over and over as they float in their set animation paths wherever that may be. There really isn't much more to say, the levels themselves are varied in a visual sense, but not a design sense, they're a mess of exploration with very little thought to them at all.
+
+![Dr. Franken's death screen](/games/adventures-of-dr-franken/death.png)
 
 ### Sound and Music
 
