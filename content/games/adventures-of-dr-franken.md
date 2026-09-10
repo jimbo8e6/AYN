@@ -42,7 +42,19 @@ To give you an indication of the quality of the music in this game, there are 20
 
 ## The People
 
-Coming soon.
+Okay so I want to look at the music first and I'm not surprised to see the composer has worked on two games, and this was their first. **Toyin Agbetu** then went on to work on *Elite Soccer* and nothing else in the industry again.
+
+The music engineers credited had a bit more of an interesting career path. **Richard Frankish** had worked previously on *Paperboy* and *Dragon's Lair* (SNES) before doing music for *Micro Machines*, but they were mostly considered a programmer, he had credits on *GTA Liberty City Stories*, *Manhunt 2*, *GTA Chinatown Wars*, *Red Dead Redemption*, *LA Noire*, *GTA V* and *Red Dead Redemption 2*. He must have jumped ship to **Rockstar** and has been eating pretty good since then! Big steps up from this steaming pile of Franken-shit.
+
+**Rob Mann** was also a music engineer on this, and he also moved more into programming but didn't take off quite the way **Richard** did, he worked on a couple of fairly popular racing games, *DiRT* and *Grid*, then fell off the radar by 2012.
+
+Racing games seems to be a theme here, **David Percival** was one of the people working on the graphics of this game, and he did graphics for a couple more games after this he also predominantly worked in programming and ended up technical director and head of engineering for *F1 2010*, *2011*, *2012*, *F1 Race Stars*, *F1 22*, *23*, *24* and *25*.
+
+**Russel Phillips** was in charge of "additional graphics" whatever that might mean and he has actually worked art/design his whole career working on a few *SOCOM: US Navy Seals* games among others.
+
+The programmer **Adrian Jones**, did a few very uneventful games afterwards and vanished in 1999.
+
+I can't believe the worst game I've played so far had one of the biggest breakout programmers involved!
 
 ## Box art
 
