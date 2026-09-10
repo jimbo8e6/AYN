@@ -63,7 +63,11 @@ I can't believe the worst game I've played so far had one of the biggest breakou
 
 ![The Adventures of Dr. Franken, back cover](/games/adventures-of-dr-franken/Back.png)
 
-Coming soon.
+And the drizzling shits just keep on coming don't they, look, I remember the 80s home computers, My first proper gaming device was an Amstrad CPC 464, and some of the boxes for these games had artwork literally drawn by the person that wrote the code, usually a literal child. I have nostalgia for some of those boxes, but in 1993 there really is no excuse to have box art that looks like it was drawn by a child who is desperate to get into comic book artistry. The US box art has that early home computer feel for sure, but the EU one might be even worse, Franken looks like a totally different character, the shades aren't there, and the enemy in the background looks like another child's drawing, but worse. The only thing saving it is the nostalgia of that **Elite** logo. Honestly a dumpster fire of a box that I wouldn't give a second look in a game shop in 1993.
+
+As for the back, we're back to the classic 4 screenshot setup, and as I said before the graphics aren't bad and they picked a couple of decent screenshots here, but the text is just the story of the game and nothing at all offering any insight into what you'll actually do in the game.
+
+Reluctantly this box gets my rating of - **Accurate**. But really, really, painfully shit.
 
 ## The Press
 
