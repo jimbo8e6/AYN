@@ -10,6 +10,9 @@ status: "played"
 score: 1
 verdict: "Despite what the magazines of the time will tell you, this game is not worth your time. It has that artificial difficulty to ensure it can't be beaten on a rental weekend, and in my opinion scurvy may have more redeeming qualities."
 excerpt: "The first non licensed platformer of the series is finally here, and I'm really hoping it's not a sign of things to come..."
+youtube:
+  - id: "k8d_32_OT_o"
+    label: "The first level of Adventures of Dr. Franken. All credit to Socke on Youtube"
 ---
 
 ## The Game
