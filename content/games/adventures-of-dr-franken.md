@@ -58,6 +58,11 @@ I can't believe the worst game I've played so far had one of the biggest breakou
 
 ## Box art
 
+![The Adventures of Dr. Franken, US front cover](/games/adventures-of-dr-franken/Front_US.png)
+![The Adventures of Dr. Franken, EU front cover](/games/adventures-of-dr-franken/front_EU.png)
+
+![The Adventures of Dr. Franken, back cover](/games/adventures-of-dr-franken/Back.png)
+
 Coming soon.
 
 ## The Press
