@@ -1,7 +1,8 @@
 ---
 title: "The Adventures of Dr. Franken"
-sortTitle: "Adventures of Dr. Franken, The"
+sortTitle: "Adventures of Dr. Franken"
 status: "upcoming"
+excerpt: "The first non licensed platformer of the series is finally here, and I'm really hoping it's not a sign of things to come..."
 ---
 
 ## The Game
