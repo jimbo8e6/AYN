@@ -12,6 +12,8 @@ excerpt: "The first non licensed platformer of the series is finally here, and I
 
 ## The Game
 
+![The Adventures of Dr. Franken logo](/games/adventures-of-dr-franken/logo.png)
+
 Coming soon.
 
 ### Gameplay
