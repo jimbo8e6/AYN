@@ -52,6 +52,11 @@ A much more interesting group of people than this game deserves honestly.
 
 ## Box art
 
+![Adventures of Mighty Max, US front cover](/games/adventures-of-mighty-max/Front_US.png)
+![Adventures of Mighty Max, EU front cover](/games/adventures-of-mighty-max/Front_EU.png)
+
+![Adventures of Mighty Max, back cover](/games/adventures-of-mighty-max/Back.png)
+
 Coming soon.
 
 ## The Press
