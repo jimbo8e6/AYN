@@ -1,11 +1,11 @@
 ---
 title: "Adventures of Mighty Max"
 sortTitle: "Adventures of Mighty Max"
-developer: ""
-publisher: ""
-released: ""
-region: ""
-genre: []
+developer: "WJS Design"
+publisher: "Ocean Software"
+released: "1994"
+region: "North America and Europe"
+genre: ["Platformer", "Licensed"]
 status: "upcoming"
 excerpt: "The indication that the SNES is full of licensed platformers is really coming to fruition now, it has to be better than Dr. Franken though, right?"
 ---
