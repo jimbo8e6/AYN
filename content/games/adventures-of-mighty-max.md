@@ -67,6 +67,8 @@ As for the back we've gone for 4 screenshots again, but laid out slightly differ
 - **Time travel with, or race against a buddy in incredible 2 player split screen play** - *You literally have that in a bubble directly above this, why would you need to put the 2 player thing twice? Is it because you know the game desperately needs 2 player or there is absolutely no fun to be had?*
 - **It's 50 levels of MAXimum adventure all based on your favourite Saturday morning cartoon** - *It's based on Teenage Mutant Ninja Turtles?? Sweet! Also, 50 levels. Fuck, and I mean this sincerely, that!*
 
+Overall this box gets my rating of - **Almost accurate**. Don't assume my favourite Saturday morning cartoon, and don't tell me the levels are cool when they're really not.
+
 ## The Press
 
 Coming soon.
