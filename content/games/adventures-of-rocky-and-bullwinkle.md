@@ -1,7 +1,13 @@
 ---
-title: "The Adventures of Rocky & Bullwinkle"
-sortTitle: "Adventures of Rocky & Bullwinkle, The"
+title: "The Adventures of Rocky and Bullwinkle and Friends"
+sortTitle: "Adventures of Rocky and Bullwinkle and Friends"
+developer: ""
+publisher: ""
+released: ""
+region: ""
+genre: []
 status: "upcoming"
+excerpt: ""
 ---
 
 ## The Game
