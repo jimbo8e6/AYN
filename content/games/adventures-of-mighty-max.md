@@ -6,7 +6,9 @@ publisher: "Ocean Software"
 released: "1994"
 region: "North America and Europe"
 genre: ["Platformer", "Licensed"]
-status: "upcoming"
+status: "played"
+score: 2
+verdict: "Two dire platformers in a row, I can't even begin to imagine unwrapping this game for Christmas, the disappointment once the game started would have been immeasurable. That said, it was more playable than the last abomination, it was also more boring, but I said I'd give it props for a couple of things so it'll get an extra point."
 excerpt: "The indication that the SNES is full of licensed platformers is really coming to fruition now, it has to be better than Dr. Franken though, right?"
 ---
 
