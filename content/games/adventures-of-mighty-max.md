@@ -7,7 +7,7 @@ released: ""
 region: ""
 genre: []
 status: "upcoming"
-excerpt: ""
+excerpt: "The indication that the SNES is full of licensed platformers is really coming to fruition now, it has to be better than Dr. Franken though, right?"
 ---
 
 ## The Game
