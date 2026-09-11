@@ -1,7 +1,13 @@
 ---
-title: "The Adventures of Mighty Max"
-sortTitle: "Adventures of Mighty Max, The"
+title: "Adventures of Mighty Max"
+sortTitle: "Adventures of Mighty Max"
+developer: ""
+publisher: ""
+released: ""
+region: ""
+genre: []
 status: "upcoming"
+excerpt: ""
 ---
 
 ## The Game
