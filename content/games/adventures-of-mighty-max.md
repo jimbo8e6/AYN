@@ -42,7 +42,13 @@ Again, not good. I listened to the theme against the intro to the cartoon and ev
 
 ## The People
 
-Coming soon.
+The sound is simply credited to **Krysalis**, which upon further inspection was a company that dealt with sound for various 16 bit games and mainly uses **Matt Furniss** to produce the music, which is mental because **Matt** has an insane history, *Predator 2*, *Alien 3*, *Terminator*, *Robocop*, *Lion King*, so the guy knew how to translate themes to game soundtracks. He did the music for some of the console releases for *Mortal Kombat* and *Mortal Kombat II*, so that leads me to believe he was away the week this game was done and he let the intern do it instead.
+
+**Wayne Smithson** was dealing with level design and overall game design, so he has a lot to answer for, but somehow he ended up a Technical Producer on *GTA 2*, Chief Development Officer for *The Outer Worlds 2* in 2025, and worked on the Switch port of *Red Dead Redemption*, *Crackdown 3*, *Sonic & Sega All Stars Racing*, he went on to pretty good things!
+
+Background graphics were done by **Chris Warren**, and this was the last game he worked on, and enemy animation was dealt with by **Dan Cartwright** who must have had a massive glow up because he worked on *Worms 2*, *Worms Armageddon*, *Worms World Party*, all of which have great character animations, and also worked in some capacity on the audio of *L.A. Noire*.
+
+A much more interesting group of people than this game deserves honestly.
 
 ## Box art
 
