@@ -57,7 +57,15 @@ A much more interesting group of people than this game deserves honestly.
 
 ![Adventures of Mighty Max, back cover](/games/adventures-of-mighty-max/Back.png)
 
-Coming soon.
+Another game with a different cover between the US release and the PAL release, The US one looks pretty cool, the main villain holding the heroes in his claw, the logo bold and big, and a promise of a free comic book inside. All things that would have grabbed my attention as a kid for sure. The EU one is fine, it looks like a promo image for the show, if it's something you watched then it would attract some attention on a shelf.
+
+As for the back we've gone for 4 screenshots again, but laid out slightly differently to the usual, and I guess they've picked alright ones, at least they're all from different levels and not just the first 4 volcano levels you come across. Also, I forgot to mention the fact the game is 2 player, that maybe could have upped the fun level slightly so I'll take that into consideration. I'll treat the image subtitles as bullet points and let's see what we've got:
+
+- **Double the action with 2 player split screen play** - *Didn't test it, but it's there, and you would technically be doubling the action.*
+- **Be the Max and unleash your tennis ball cannon on restless natives and goofy aliens** - *Ooooh it's a tennis ball cannon! Okay that makes sense.*
+- **Team up with Felix and Bea and warp to cool places like the jungle and outer space** - *There are some team up moves, you collect something and someone joins you for a few seconds killing enemies, it's fine. There are no cool places in this game however.*
+- **Time travel with, or race against a buddy in incredible 2 player split screen play** - *You literally have that in a bubble directly above this, why would you need to put the 2 player thing twice? Is it because you know the game desperately needs 2 player or there is absolutely no fun to be had?*
+- **It's 50 levels of MAXimum adventure all based on your favourite Saturday morning cartoon** - *It's based on Teenage Mutant Ninja Turtles?? Sweet! Also, 50 levels. Fuck, and I mean this sincerely, that!*
 
 ## The Press
 
