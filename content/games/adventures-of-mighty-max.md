@@ -12,6 +12,8 @@ excerpt: "The indication that the SNES is full of licensed platformers is really
 
 ## The Game
 
+![Adventures of Mighty Max logo](/games/adventures-of-mighty-max/logo.png)
+
 Coming soon.
 
 ### Gameplay
