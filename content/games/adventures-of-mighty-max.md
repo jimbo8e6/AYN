@@ -71,4 +71,28 @@ Overall this box gets my rating of - **Almost accurate**. Don't assume my favour
 
 ## The Press
 
-Coming soon.
+*Games World: The Magazine*:
+
+> As a children's toy, Mighty Max will probably appeal to a younger market, but the challenge in this is very grown-up indeed. Extremely fast with smooth animation, the enjoyment is only hindered by Max's gun shooting in just two directions. Once you get used to all his abilities the game becomes a top platform puzzler. There's even a split screen two-player mode. Surprisingly good.
+>
+> **79/100**
+
+*GamesMaster*:
+
+> Mighty Max is dull, there's no getting away from it. You never get curious about the next level and if that doesn't happen what's the point in playing?
+>
+> **69/100**
+
+*Electronic Gaming Monthly*:
+
+> An incredibly slow and plodding game, Mighty Max has control that needs some serious help and levels aren't very appealing. The concept is kind of cool, but the execution just isn't there.
+>
+> **24/50**
+
+*Computer & Video Games*:
+
+> Whilst you can't argue with the brilliance of the actual Mighty Max toys, this game is horrible. Slow, repetitive, frustrating and almost uncontrollable. Too hard for small little players and way too bad for older ones. Don't get this for your kid sibling as they'll hate you forever.
+>
+> **37/100**
+
+I feel a lot more vindicated with these scores than I did after *Dr. Franken*.
