@@ -81,4 +81,26 @@ Overall I give this box my rating of - **Misleading**. While there are a couple 
 
 ## The Press
 
-Coming soon.
+*Electronic Games*:
+
+> All the games are thoroughly challenging. It takes many tries to succeed, even in the mini-games, and, be assured, it will be a long time before the player will succeed in getting Bullwinkle to the top of the first mountain, much less both heroes past their many game locales.
+>
+> **80/100**
+
+*Game Players*:
+
+> Moose and Squirrel's first 16-bit cart isn't much in the graphics department, but it has some very hard - sometimes frustrating - gameplay.
+>
+> **42/100**
+
+*GamePro*:
+
+> If you're a huge fan of the famous duo, you might run to the nearest rental outlet. However, if you don't need to know the answer to "Is it Moose on the Loose"...or "Boris and Natasha Have the Goods," watch the Moose and Squirrel on TV.
+>
+> **2/5**
+
+*Electronic Gaming Monthly*:
+
+> The variety of games is nice, but the whole thing looks rushed.
+>
+> **4/10**
