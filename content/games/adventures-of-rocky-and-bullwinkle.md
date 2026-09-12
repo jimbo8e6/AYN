@@ -6,7 +6,9 @@ publisher: "THQ"
 released: "1993"
 region: "North America"
 genre: ["Platformer", "Licensed"]
-status: "upcoming"
+status: "played"
+score: 4
+verdict: "Not a good game by any stretch of the imagination, but off the back of two of the worst ones I've played so far it was a lot better. Objectively it's below average though. No doubt about that."
 excerpt: "Based on the animated series of the same name, Rocky and Bullwinkle and Friends is the second licensed platformer in a row so far, please be better than the last one."
 ---
 
