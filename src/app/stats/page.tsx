@@ -36,7 +36,7 @@ export default function StatsPage() {
   // By genre
   type Bucket = { count: number; total: number; scoredCount: number };
   const genreMap = new Map<string, Bucket>();
-  for (const g of games) {
+  for (const g of played) {
     for (const genre of g.genre) {
       const b = genreMap.get(genre) ?? { count: 0, total: 0, scoredCount: 0 };
       b.count++;
@@ -53,7 +53,7 @@ export default function StatsPage() {
 
   // By developer
   const devMap = new Map<string, Bucket>();
-  for (const g of games) {
+  for (const g of played) {
     if (!g.developer) continue;
     const b = devMap.get(g.developer) ?? { count: 0, total: 0, scoredCount: 0 };
     b.count++;
@@ -67,7 +67,7 @@ export default function StatsPage() {
 
   // By publisher
   const pubMap = new Map<string, Bucket>();
-  for (const g of games) {
+  for (const g of played) {
     if (!g.publisher) continue;
     const b = pubMap.get(g.publisher) ?? { count: 0, total: 0, scoredCount: 0 };
     b.count++;
@@ -81,7 +81,7 @@ export default function StatsPage() {
 
   // By letter
   const letterMap = new Map<string, Bucket>();
-  for (const g of games) {
+  for (const g of played) {
     const b = letterMap.get(g.letter) ?? { count: 0, total: 0, scoredCount: 0 };
     b.count++;
     if (g.score !== undefined) { b.total += g.score; b.scoredCount++; }
@@ -97,7 +97,7 @@ export default function StatsPage() {
 
   // By region
   const regionMap = new Map<string, number>();
-  for (const g of games) {
+  for (const g of played) {
     if (!g.region) continue;
     regionMap.set(g.region, (regionMap.get(g.region) ?? 0) + 1);
   }
@@ -105,7 +105,7 @@ export default function StatsPage() {
 
   // By year
   const yearMap = new Map<string, number>();
-  for (const g of games) {
+  for (const g of played) {
     if (!g.released) continue;
     const year = g.released.slice(0, 4);
     yearMap.set(year, (yearMap.get(year) ?? 0) + 1);
