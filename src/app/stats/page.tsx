@@ -175,20 +175,21 @@ export default function StatsPage() {
           <h2 className="rule-heading">Score distribution</h2>
           <AccentRule className="mt-4" />
           <div className="mt-8 border border-line bg-surface p-6 sm:p-8">
-            <div className="flex items-end gap-1 sm:gap-2" style={{ height: "140px" }}>
+            <div className="flex items-end gap-1 sm:gap-2">
               {Object.entries(dist).map(([score, count]) => {
-                const heightPct = count > 0 ? Math.max((count / distMax) * 100, 6) : 3;
+                const BAR_MAX = 120;
+                const barPx = count > 0 ? Math.max(Math.round((count / distMax) * BAR_MAX), 8) : 2;
                 return (
                   <div key={score} className="flex flex-1 flex-col items-center gap-1">
                     <span className="text-[10px] text-muted sm:text-xs">{count > 0 ? count : ""}</span>
                     <div
                       className="w-full"
                       style={{
-                        height: `${heightPct}%`,
+                        height: `${barPx}px`,
                         backgroundColor: count > 0 ? "var(--color-ink)" : "var(--color-shell-dark)",
                       }}
                     />
-                    <span className="text-[10px] font-semibold text-muted sm:text-xs">{score}</span>
+                    <span className="mt-1 text-[10px] font-semibold text-muted sm:text-xs">{score}</span>
                   </div>
                 );
               })}
