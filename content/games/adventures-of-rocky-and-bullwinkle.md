@@ -52,7 +52,13 @@ The sound is pretty non existent, a few sound effects when you jump and fire, an
 
 ## The People
 
-Coming soon.
+**Jim Wallace** was the audio engineer, and this was the first game he ever worked on, he worked on audio on various games until the 00s when he went into production, he was producer on a few PS2 games before working senior management on *God of War II*, and stayed senior manager on games like *GT 5: Prologue*, *Twisted Metal: Head On*, *LittleBigPlanet*, *Resistance 2*, *Uncharted 2*, he had a lot of big games on his resume.
+
+The music itself was done by **Mark Van Hecke**, who also had a big resume, but it ended a lot earlier. He worked on various licensed games, converting the real themes to video game music between 1990 and 1996. He did a load of *Simpsons* games, *Star Trek*, *Ghostbusters*, *Casper*, and then just fell off the radar.
+
+**Glen Schofield** was one of the 7 people credited for the graphics, he had previously worked on *Barbie: Game Girl* and *Ren & Stimpy: Space Cadet Adventures* for the Game Boy, and eventually did graphics for *Gex 3* and *Disney's Magical Racing Tour*, he eventually became Director of Design for various games including *Legacy of Kain: Blood Omen 2*, then moved into production and became executive producer for a little game called *Dead Space*, and he was one of the original developers that moved on to make *Callisto Protocol* where he was the game director.
+
+That's about where the interesting credits end for this one.
 
 ## Box art
 
