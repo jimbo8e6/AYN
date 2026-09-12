@@ -118,7 +118,7 @@ export default function StatsPage() {
         <h1 className="display mt-6 text-5xl sm:text-6xl">Stats</h1>
         <AccentRule className="mt-8" width="w-32" />
         <p className="mt-8 max-w-2xl font-serif text-xl leading-relaxed text-body">
-          A running tally of everything covered so far. Updates automatically with each new entry.
+          A running tally of everything covered so far.
         </p>
       </header>
 
