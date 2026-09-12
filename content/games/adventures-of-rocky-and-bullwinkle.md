@@ -62,7 +62,8 @@ That's about where the interesting credits end for this one.
 
 ## Box art
 
-Coming soon.
+![The Adventures of Rocky and Bullwinkle and Friends, front cover](/games/adventures-of-rocky-and-bullwinkle/front.png)
+![The Adventures of Rocky and Bullwinkle and Friends, rear cover](/games/adventures-of-rocky-and-bullwinkle/back.png)
 
 ## The Press
 
