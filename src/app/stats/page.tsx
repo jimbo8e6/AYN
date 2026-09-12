@@ -95,14 +95,6 @@ export default function StatsPage() {
       return a.letter.localeCompare(b.letter);
     });
 
-  // By region
-  const regionMap = new Map<string, number>();
-  for (const g of played) {
-    if (!g.region) continue;
-    regionMap.set(g.region, (regionMap.get(g.region) ?? 0) + 1);
-  }
-  const regionList = [...regionMap.entries()].sort((a, b) => b[1] - a[1]);
-
   // By year
   const yearMap = new Map<string, number>();
   for (const g of played) {
@@ -304,21 +296,6 @@ export default function StatsPage() {
         </section>
       )}
 
-      {/* By region */}
-      {regionList.length > 0 && (
-        <section className="mt-16">
-          <h2 className="rule-heading">By region</h2>
-          <AccentRule className="mt-4" />
-          <div className="mt-6 divide-y divide-line border border-line bg-surface">
-            {regionList.map(([region, count]) => (
-              <div key={region} className="flex items-center justify-between px-6 py-3">
-                <span className="font-serif text-body">{region}</span>
-                <span className="text-sm text-muted">{count} {count === 1 ? "game" : "games"}</span>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
     </div>
   );
 }
