@@ -38,6 +38,12 @@ export default function HomePage() {
             >
               Read the goal
             </a>
+            <Link
+              href="/stats"
+              className="border border-line px-8 py-3.5 text-sm font-medium tracking-wide text-ink transition-colors hover:bg-shell-light"
+            >
+              See the stats
+            </Link>
           </div>
         </div>
       </section>
