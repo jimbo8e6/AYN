@@ -7,7 +7,7 @@ released: ""
 region: ""
 genre: []
 status: "upcoming"
-excerpt: ""
+excerpt: "Based on the animated series of the same name, Rocky and Bullwinkle and Friends is the second licensed platformer in a row so far, please be better than the last one."
 ---
 
 ## The Game
