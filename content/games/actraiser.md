@@ -1,7 +1,7 @@
 ---
 title: "ActRaiser"
 sortTitle: "ActRaiser"
-developer: "Quintet Co."
+developer: "Quintet"
 publisher: "Enix"
 released: "1990"
 region: "Japan, North America and Europe"
