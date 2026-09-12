@@ -24,27 +24,40 @@ The game was developed by **Absolute Entertainment**, starting in the early 80s 
 
 They also published the Mega Drive version, but for the SNES publishing rights were handed over to **THQ**, and what can I say about **THQ**? They were one of the biggest developers and publishers before they went bankrupt. They started publishing ports of games for the Game Boy, before also getting into the licensed game craze for console games, publishing games like *Home Alone 2: Lost in New York*, *Ren & Stimpy*, *The Lawnmower Man*, then eventually breaking into what turned into a huge market of console WWF and WCW games. They sadly went bankrupt in 2012, however the name was sold to **Nordic Games** in 2014 who would begin releasing games under the name **THQ Nordic**.
 
+![The Adventures of Rocky and Bullwinkle and Friends title screen](/games/adventures-of-rocky-and-bullwinkle/title.png)
+
 ### Gameplay
 
 This is the problem with this challenge of mine, the SNES was a fantastic console, my favourite console even, but it is full of a lot of shit games. *The Adventures of Rocky and Bullwinkle and Friends* is one of them, but it's not awful, not like the last two games on my list. It's playable, I actually completed it (with a little bit of Game Genie help, full disclosure) and it had some interesting ideas.
 
 Instantly the game gives you a cut scene to start, telling you the plot of the game, what is expected of you, and off you go, so straight away it's got one up on the previous two games that didn't give you anything whatsoever, and you start the game as Bullwinkle the moose, and you move from left to right, standard. You have a jump, a head butt, and when you collect fruit, a ranged attack. Starting the level you have to climb a mountain, and it sees Bullwinkle grab on and shimmy his way up, as rocks fall toward you you can press right and Bullwinkle will lean over and avoid them, it's a nice looking animation and something a bit different, problem is the climb takes forever, every now and again you jump off the mountain side onto some platforms to collect some flags that will eventually give you extra lives, and once you get to a flat surface at the top you fight your way through some enemies, and then have to do it again. It takes a long time to get to the top and the game is unforgiving! It's really hard, too hard really. Trying to navigate climbing, jumping, and flying enemies all at once is very challenging.
 
+![Bullwinkle climbing the mountain in the first level](/games/adventures-of-rocky-and-bullwinkle/climb.png)
+
 You do eventually make it to the top and move on to a mine cart level (a year before *Donkey Kong Country* I might add) which again, is very difficult, but it does break the game up with a nice amount of variation, having to duck and jump, and move from cart to cart. Again the level is a bit long, and without save states would definitely have worn out its welcome. I don't see how a child in 1993 could have ever finished the game.
 
 Then you have a level on a boat where floating barrels stop you progressing, you have to stand on the barrels so they sink below the boat then jump back to the boat before you sink with it and move on. There's a ghost ship, then some levels where you play as Rocky, Bullwinkle's squirrel friend, and go through a town and the final level which is a weird house with floating skulls. It's all very basic, and far too hard, but the variety was refreshing after the pain of *Mighty Max*.
 
+![One of the game's many varied levels](/games/adventures-of-rocky-and-bullwinkle/level.png)
+![Another of the game's levels](/games/adventures-of-rocky-and-bullwinkle/level2.png)
+
 Weirdly, when you finish a set of levels you get sent back to the main menu, which made me think at first that the game was really short, but when you select "main game" it just takes you to the next level. The game offers two mini games alongside the main game, and I think this was maybe a way to break things up and let you play a mini game before moving on. One mini game stars Sherman & Peabody who were characters in the animated show, and also got their own animated movie in 2014 for some reason! I never really understood this game, Mr Peabody rides a dragon that you, as Sherman, have to avoid the fireballs from, all while chewing gum and letting the bubbles fly upward. The second mini game stars Dudley Do-Right, another character from the show, riding his horse away from a train, jumping obstacles to keep your distance and stop the train catching you and running you over.
+
+![The game's main menu between levels](/games/adventures-of-rocky-and-bullwinkle/menu.png)
 
 There is a lot of variety here, and the game is playable, but really only if you either have some Game Genie codes, or you have months and months of time to play, and ultimately it doesn't do a lot particularly well, just serviceable, which means a lot after the last 2 games.
 
 Also the final boss is bizarre. Playing as Rocky, Bullwinkle has been captured somehow despite the fact you've just been playing as him and it didn't show it, he's suspended in a cage above some hot liquid, and slowly lowered while an executioner chases you round the screen. You can only stun the executioner, and you have to keep firing at a pin holding the cage on a chain, the pin comes loose and if it falls out Bullwinkle falls into the vat of hot stuff. Once it lowers to a certain point you need to jump to the other side and fire at the padlock keeping him in. None of this was signposted in any way, so it was frustrating, but mechanically it was kind of interesting.
+
+![A moment of wit from the game](/games/adventures-of-rocky-and-bullwinkle/joke.png)
 
 ### Graphics
 
 The graphics are super basic, it's not far off NES level really, just a bit brighter colours. There's nothing offensive, just the most middle of the road graphics. The opening and closing cut scenes are nice enough, and give you the feel of the show with all the characters, but after games like *The Adventures of Batman & Robin*, or *Aaahh!!! Real Monsters*, it's definitely lacking.
 
 The levels have good visual variety, every one looks very different, and the enemies, while basic looking, are also fairly varied, although it is mostly a case of "ah so that's what this level's flying enemy looks like" and the bosses are nothing to write home about either.
+
+![The varied level design on display](/games/adventures-of-rocky-and-bullwinkle/level3.png)
 
 ### Sound and Music
 
