@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import AccentRule from "@/components/AccentRule";
 import { getAllGames } from "@/lib/games";
+import { LIBRARY_TARGET } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Stats",
@@ -129,7 +130,7 @@ export default function StatsPage() {
         <div className="mt-8 grid grid-cols-2 gap-4 sm:grid-cols-4">
           {[
             { label: "Reviewed", value: played.length },
-            { label: "Still to play", value: upcoming.length },
+            { label: "Still to play", value: LIBRARY_TARGET - played.length },
             { label: "Overall average", value: overallAvg === "—" ? "—" : `${overallAvg}/10` },
             { label: "Total on the list", value: games.length },
           ].map(({ label, value }) => (
