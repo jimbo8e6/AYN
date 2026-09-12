@@ -132,7 +132,7 @@ export default function StatsPage() {
             { label: "Reviewed", value: played.length },
             { label: "Still to play", value: LIBRARY_TARGET - played.length },
             { label: "Overall average", value: overallAvg === "—" ? "—" : `${overallAvg}/10` },
-            { label: "Total on the list", value: games.length },
+            { label: "Total on the list", value: LIBRARY_TARGET },
           ].map(({ label, value }) => (
             <div key={label} className="border border-line bg-surface p-6">
               <p className="text-3xl font-light tracking-tight text-ink">{value}</p>
