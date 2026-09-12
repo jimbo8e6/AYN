@@ -12,6 +12,8 @@ excerpt: "Based on the animated series of the same name, Rocky and Bullwinkle an
 
 ## The Game
 
+![The Adventures of Rocky and Bullwinkle and Friends logo](/games/adventures-of-rocky-and-bullwinkle/logo.png)
+
 Coming soon.
 
 ### Gameplay
