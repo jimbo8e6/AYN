@@ -31,6 +31,7 @@ export const siteConfig = {
   nav: [
     { href: "/", label: "Home" },
     { href: "/games", label: "Games" },
+    { href: "/stats", label: "Stats" },
     { href: "/contact", label: "Contact" },
   ],
 } as const;
