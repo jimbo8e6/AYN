@@ -65,6 +65,22 @@ That's about where the interesting credits end for this one.
 ![The Adventures of Rocky and Bullwinkle and Friends, front cover](/games/adventures-of-rocky-and-bullwinkle/front.png)
 ![The Adventures of Rocky and Bullwinkle and Friends, rear cover](/games/adventures-of-rocky-and-bullwinkle/back.png)
 
+The problem with all these licensed games is the front of the box is often just an image from the show, or the film, or whatever it's based on, and this is no exception. This one does seem particularly lazy though, a random selection of characters on a dull yellow background with a blue frame. It's not great.
+
+Looking at the back and we have our classic four screenshots, one of the pictures is one of the mini games and not the main game, which might be a bit misleading considering the pictures don't have any text descriptions. Now normally I break down the bullet points with my thoughts, but I need to drop in slightly before the bullet points on this one, just after the story description we have the following text:
+
+> Bullwinkle locks horns with danger as he head butts falling boulders and enraged rams. Rocky dodges enemies by soaring sky-high in daring flying squirrel style
+
+The first part of this is true, but the second is rubbish! It makes you think Rocky will at the very least be more agile, jump higher, maybe even fly right? But no, the jump is identical in height, and there is no flying at all.
+
+- **Bonus games feature cartoon cameos by Mr Peabody and Sherman, The Moon Men, Dudley Do-Right and many more!** - *From what I could see there were only two mini games. It might not help that I don't know these characters, but I didn't see Moon Men, or "many more"*
+
+- **Super graphics bring new life to classic characters!** - *Now admittedly this was a 50s/60s/70s cartoon, so in some respects it does breathe new life into characters from that era, but I still can't stand by and agree with "super graphics"*
+
+- **Designed with the irreverent humour and wit of the TV series!** - *The writing was actually alright, there were a couple off moments where I exhaled some air out of my nose in a small amount of mirth, which is a fairly big deal for a SNES game. The whale being called Maybe Dick was probably my favourite.*
+
+Overall I give this box my rating of - **Misleading**. While there are a couple of things it gets right, there are some very blatant things that could give you the impression the game has more or does more than it actually does.
+
 ## The Press
 
 Coming soon.
