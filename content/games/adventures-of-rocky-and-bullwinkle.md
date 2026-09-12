@@ -69,9 +69,7 @@ The problem with all these licensed games is the front of the box is often just 
 
 Looking at the back and we have our classic four screenshots, one of the pictures is one of the mini games and not the main game, which might be a bit misleading considering the pictures don't have any text descriptions. Now normally I break down the bullet points with my thoughts, but I need to drop in slightly before the bullet points on this one, just after the story description we have the following text:
 
-> Bullwinkle locks horns with danger as he head butts falling boulders and enraged rams. Rocky dodges enemies by soaring sky-high in daring flying squirrel style
-
-The first part of this is true, but the second is rubbish! It makes you think Rocky will at the very least be more agile, jump higher, maybe even fly right? But no, the jump is identical in height, and there is no flying at all.
+- **Bullwinkle locks horns with danger as he head butts falling boulders and enraged rams. Rocky dodges enemies by soaring sky-high in daring flying squirrel style** - *The first part of this is true, but the second is rubbish! It makes you think Rocky will at the very least be more agile, jump higher, maybe even fly right? But no, the jump is identical in height, and there is no flying at all.*
 
 - **Bonus games feature cartoon cameos by Mr Peabody and Sherman, The Moon Men, Dudley Do-Right and many more!** - *From what I could see there were only two mini games. It might not help that I don't know these characters, but I didn't see Moon Men, or "many more"*
 
