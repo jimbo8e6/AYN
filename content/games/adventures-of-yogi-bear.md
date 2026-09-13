@@ -64,7 +64,11 @@ Very small selection of people, but **Martin** jumping straight into **Rare** af
 
 ## Box art
 
-Coming soon.
+![Adventures of Yogi Bear, US front cover](/games/adventures-of-yogi-bear/frontUS.jpg)
+![Adventures of Yogi Bear, EU front cover](/games/adventures-of-yogi-bear/frontEU.png)
+
+![Adventures of Yogi Bear, US rear cover](/games/adventures-of-yogi-bear/backUS.jpg)
+![Adventures of Yogi Bear, EU rear cover](/games/adventures-of-yogi-bear/backEU.png)
 
 ## The Press
 
