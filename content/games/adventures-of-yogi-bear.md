@@ -1,7 +1,13 @@
 ---
 title: "Adventures of Yogi Bear"
 sortTitle: "Adventures of Yogi Bear"
+developer: ""
+publisher: ""
+released: ""
+region: ""
+genre: []
 status: "upcoming"
+excerpt: ""
 ---
 
 ## The Game
