@@ -9,6 +9,11 @@ genre: ["Platformer", "Licensed"]
 status: "played"
 score: 4
 verdict: "Another slightly below average platformer, nothing horrible about this, but nothing really all that good either. Very forgettable."
+youtube:
+  - id: "xbgtN8lhZrQ"
+    label: "Original Japanese TV advert for Yogi Bear"
+  - id: "rSPOTGtoVEA"
+    label: "Gameplay of the first level. All credit to UltraHD Noobz on Youtube"
 excerpt: "The final game in our \"Adventures of\" series we seem to have been stuck in recently, this time we're talking about everyone's favourite 60's bear, Yogi. Yes, it's another licensed platformer!"
 ---
 
