@@ -278,6 +278,17 @@ body {
   width: 100%;
 }
 
+/* Three images: two on the top row, one centred below. */
+.article p:has(> img + img + img) {
+  grid-template-columns: 1fr 1fr;
+}
+
+.article p:has(> img + img + img) > img:last-child {
+  grid-column: 1 / -1;
+  max-width: 50%;
+  margin-inline: auto;
+}
+
 /* Crisp scaling for pixel art is applied by ZoomableImage instead, which can
    measure the image and so distinguish a native 256x224 capture from one that
    has already been resampled to 640x480 — something the file extension cannot

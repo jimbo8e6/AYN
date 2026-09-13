@@ -12,6 +12,10 @@ excerpt: "The final game in our \"Adventures of\" series we seem to have been st
 
 ## The Game
 
+![Adventures of Yogi Bear, US logo](/games/adventures-of-yogi-bear/logo.png)
+![Adventures of Yogi Bear, EU logo](/games/adventures-of-yogi-bear/logoEU.png)
+![Adventures of Yogi Bear, JP logo](/games/adventures-of-yogi-bear/logoJP.png)
+
 Coming soon.
 
 ### Gameplay
