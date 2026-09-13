@@ -52,7 +52,15 @@ Similar situation with the music, it's what you'd expect, it's nothing standout 
 
 ## The People
 
-Coming soon.
+This might be the smallest game I've played so far in terms of people working on it, the programmer was **Nick Pavis** who ended up programming on a bunch of *Star Wars* games including *Knights of the Old Republic II*.
+
+The graphics were done by **Leigh Christian** who had previously worked on a load of *Dizzy* games for home computer systems, did art and modelling for *FIFA Street* and *FIFA Street 2*, then dropped off the radar in 2010 after working on a DS game called *Sushi Go Round*.
+
+**George Villiers** did the music, and including this game he only worked on 4 games, none of them stand out.
+
+The games design was done by **Martin Wakeley**, this was his first game and he went straight on to *Diddy Kong Racing* after this, then *Blast Corps*, *Jetforce Gemini*, I'm guessing he ended up working for **Rare**, he also worked on *Donkey Kong Land* on the Game Boy, and was credited on *Yooka Replayee* under **Playtonic Games**.
+
+Very small selection of people, but **Martin** jumping straight into **Rare** after this might have been the best business decision in the history of business decisions.
 
 ## Box art
 
