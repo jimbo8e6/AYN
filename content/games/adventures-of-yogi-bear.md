@@ -7,7 +7,7 @@ released: ""
 region: ""
 genre: []
 status: "upcoming"
-excerpt: ""
+excerpt: "The final game in our \"Adventures of\" series we seem to have been stuck in recently, this time we're talking about everyone's favourite 60's bear, Yogi. Yes, it's another licensed platformer!"
 ---
 
 ## The Game
