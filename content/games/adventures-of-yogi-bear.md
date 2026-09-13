@@ -67,8 +67,36 @@ Very small selection of people, but **Martin** jumping straight into **Rare** af
 ![Adventures of Yogi Bear, US front cover](/games/adventures-of-yogi-bear/frontUS.jpg)
 ![Adventures of Yogi Bear, EU front cover](/games/adventures-of-yogi-bear/frontEU.png)
 
+Two different boxes again, and the front of the US box is by far the better of the two, the art is nice, it depicts things that could actually happen in the game and is relevant, and I prefer the black surround to the blue. The PAL version has an image that doesn't reflect the game at all, it shows Boo Boo who isn't in the game at all besides a picture at the end, and a park ranger chasing them, which again doesn't happen in the game at all. US box wins the front.
+
 ![Adventures of Yogi Bear, US rear cover](/games/adventures-of-yogi-bear/backUS.jpg)
 ![Adventures of Yogi Bear, EU rear cover](/games/adventures-of-yogi-bear/backEU.png)
+
+Back of the US box and we have our usual four pictures laid out in that typical two up two down way, the story explanation is there, simple and tells you exactly what the game is about. On to the bullet points:
+
+- **Fast paced excitement with wild beaver surfing and mine cart riding.** - *Oh it's a beaver! Yeah this is all true, excitement might be a bit of a push but I'll let it slide.*
+
+- **Beautifully animated multi-layered parallax scrolling.** - *Again, true, the animations are nice beautiful might be a bit of a stretch, and there's only the one level with parallax scrolling and it made it a nightmare. Technically true, but with a whisper of misleading*
+
+- **Cool Yogi music.** - *I mean, it's fine yeah, weird thing to push on the back of a box though.*
+
+- **Five different areas at the park to explore.** - *This is true.*
+
+- **Yogi's mission will challenge even the most skilled game players.** - *Nah, even without save states, the frustrating parts don't make the game challenging, just annoying.*
+
+The PAL back gives us 6 screenshots! This is rare, and more bullet points!
+
+- **Over 20 exciting and taking levels.** - *I think you'll find there are exactly 20 levels.*
+
+- **Raccoons, gophers, porcupines, leaping salmon, and skunks all spell trouble for Yogi.** - *Oh it was a porcupine, no trademark infringement here then!*
+
+- **Each level contains over 200 screens of action.** - *I can't get my head around this at all, do they mean level as in the world that has 4 levels in it? Even so it's smooth scrolling, there aren't any "screens of action" it's all one screen until you get to the end. Genuinely no clue what they're trying to say here but it's 100% false.*
+
+- **More than 300 frames of animation.** - *I am not diving deep enough to dispute this. Sure, I'll take that.*
+
+I think I need to give two ratings here because the back is so different in each region. The US gets my rating of - **Mostly accurate**. They embellish a couple of things, but it's mostly okay.
+
+The PAL box gets my rating of - **Untrue**. Simply because of that 200 screens thing, it's just completely false and doesn't represent the type of game properly at all! Also the front was misleading as well.
 
 ## The Press
 
