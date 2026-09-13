@@ -6,7 +6,9 @@ publisher: "Cybersoft (USA), Empire Interactive (EU), Magifact (Japan)"
 released: "1994"
 region: "North America, Europe (as Yogi Bear's Cartoon Capers) and Japan (as Yogi Bear)"
 genre: ["Platformer", "Licensed"]
-status: "upcoming"
+status: "played"
+score: 4
+verdict: "Another slightly below average platformer, nothing horrible about this, but nothing really all that good either. Very forgettable."
 excerpt: "The final game in our \"Adventures of\" series we seem to have been stuck in recently, this time we're talking about everyone's favourite 60's bear, Yogi. Yes, it's another licensed platformer!"
 ---
 
