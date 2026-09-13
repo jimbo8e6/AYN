@@ -100,4 +100,32 @@ The PAL box gets my rating of - **Untrue**. Simply because of that 200 screens t
 
 ## The Press
 
-Coming soon.
+*Games World: The Magazine*:
+
+> Hey, hey, hey! Yogi is starring in his very own Super Nintendo game and it's a bundle of fun. The basic idea is a simple one – Yogi runs along the level picking up clocks for time and picnic baskets for bonuses. There ate lots of horrid creatures about to get in our hero's way and each hit makes Yogi lose a piece of scrummy cake. It's fast and frantic but falls down a in the lastability stakes. Fans of Yogi will love him though!
+>
+> **84/100**
+
+*GamePro*:
+
+> Still, Yogi's game is worth renting, even if you beat it fairly quickly. It's as enjoyable as a picnic in the park.
+>
+> **3.5/5**
+
+*Video Games & Computer Entertainment*:
+
+> If you've ever enjoyed one of those corny Hanna-Barbera cartoons from the '60's. Yogi Bear will be a pleasant (and challenging) time-killer.
+>
+> **7/10**
+
+*Game Players*:
+
+> I really wanted to like Yogi Bear, with the smooth, colorful graphics and sharp looking Yogi. But it just wasn't enough to make up for the repetitive, unoriginal gameplay that makes Yogi a well-done copycat, nothing more.
+>
+> **68/100**
+
+*Electronic Gaming Monthly*:
+
+> Cartoony and cute, graphics are the highlight of this cartoon-character-gone-to-video-game cart. The levels are huge, but the run-and-jump-grab-the-items gameplay gets monotonous rather quickly. There are some great sound effects, though, and younger kids will probably take to this game faster than older gamers will.
+>
+> **31/50**
