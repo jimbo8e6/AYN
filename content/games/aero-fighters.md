@@ -42,3 +42,11 @@ The bosses are all pretty varied visually, although a few of them are a case of 
 The game suffers from an issue that comes up a lot in games of this era, the soundtrack is a banger, but the tracks are so short and just repeated throughout the level that you end up getting a bit numb to them. 24 tracks on the soundtrack and it's only 19 minutes long. It's such a shame because if you listen to the tracks [here](https://downloads.khinsider.com/game-soundtracks/album/aero-fighters-sonic-wings-1993-snes) you can see the potential.
 
 Sound is about what you'd expect, explosions and gunfire, that's about it. It works well, it's an arcade port so there isn't really much more to it.
+
+## The People
+
+The sound was done by two different people, **Naoki Itamura** and **Masami Yamana**. **Naoki Itamura** worked on most of the games **Video System** made, and seems to stop in the industry at the same time they did. **Masami Yamana** went into programming and ended up working on both the *Mario Kart* arcade versions, but not much more after that.
+
+**Kazuo Yagi** was the lead programmer for the game, and prior to this had worked on the NES version of *Ghosts N Goblins*. He was also credited on the 2004 GBA port of *Ghosts N Goblins*, there was then a 13 year gap before he worked on *Dragon Quest XI* as a mini game programmer, and has worked on two *Dragon Quest* games since one of which released in 2024.
+
+The people that did the design for the game all ended up working on similar **Video System** games, but nothing that stood out too much.
