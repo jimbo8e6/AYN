@@ -82,3 +82,19 @@ No bullet points this time, but for some reason I can't quite get my head around
 Also weird that they spoil the outer space part on the back because it's played off as a "shock" moment in the very minimal story the game has.
 
 Overall I give this box a rating of - **Accurate**. It's another one that doesn't really make any promises so can't lie about anything.
+
+## The Press
+
+*GamePro*:
+
+> Lovers of shooter games won't be able to resist a play or two or ten. But Aero Fighters' action won't stay with you - it's a temporarily thrill that eventually retreats to the hangar.
+>
+> **3.5/5**
+
+*Video Games & Computer Entertainment*:
+
+> If you're a fan of shooters, Aero Fighters is one of the better ones on the market; just don't count on it to be the last word in the genre. This isn't the Super Street Fighter II of shooters, just a pretty good game that you might not care about playing in a year's time.
+>
+> **6/10**
+
+Not many reviews for this one out there, but they have similar thoughts to me it seems, great fun but no real staying power.
