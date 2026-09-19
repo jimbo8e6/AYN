@@ -21,13 +21,21 @@ It was developed by **Video System** who developed a lot of arcade games in the 
 
 The SNES port was published by **Mc O'River** who only ever published 5 games including this one, their last being a 1993 arcade game called *Lethal Crash Race*. They were a short lived North American Subsidiary of **Video System**.
 
+![Aero Fighters title screen](/games/aero-fighters/title.png)
+
 ### Gameplay
 
 The game is a classic vertical shooter, you choose one of 4 nationalities, each with 4 different planes. American, Japanese, Swedish, and British, and work your way through 7 levels. It's not quite bullet hell levels of insanity, but it does get very hectic at times and I did find it suffered a bit of slow down because of it, but because I'm not playing on original hardware I can never be sure if that would've been the case in 1993.
 
+![The game's opening cutscene](/games/aero-fighters/opening.png)
+![The player select screen](/games/aero-fighters/players.png)
+
 Each character has a vague story, I chose the British character first and he was trying to rescue his fiancee before their wedding. The American just decided at the end to become a movie star, very basic stories, nothing too exciting.
 
 The game does shine with its gameplay, you have 4 levels of weaponry to upgrade to, and a screen clearing attack, all of which are different for each character. The British guy calls in a bomb run, the American drops what seems to be a small nuke, the Swedish fires a collection of homing missiles, and the Japanese has a huge beam that wipes out anything in front of you. A fairly typical thing for an arcade shmup, it plays pretty well and doesn't out stay its welcome. The only thing I wasn't keen on was the firing, you can't just hold down fire, you press the button and it fires a single barrage of shots, then stops. To continually fire you have to constantly mash the button, which got very uncomfortable after a while! A nice knock off controller with a turbo button would have made short work of that in 1993 though so it wouldn't have been the worst situation.
+
+![One of the game's levels](/games/aero-fighters/level.png)
+![Another of the game's levels](/games/aero-fighters/level2.png)
 
 Each level has a boss, once the boss has been beaten you fly off to a world map to see your next destination, and you're straight back in the action. It looks and feels just like an arcade game, designed for beating high scores and not for getting a long term investment.
 
@@ -35,7 +43,14 @@ Each level has a boss, once the boss has been beaten you fly off to a world map 
 
 It's a fantastic looking game, the sprites are lovely, the levels look well detailed for the most part. The city level is the best looking, with high rise buildings you can cause damage to as you fly past, it's colourful with bright explosions, orange bullets that make it easy to see and dodge (if you're not as shit at shmups as I am that is) the characters all have their own sprites in the cut scenes and they all look good. It looks like a 90s arcade game brought onto your home TV screen, which is exactly the sort of thing people loved.
 
+![One of the game's levels](/games/aero-fighters/level3.png)
+![Another of the game's levels](/games/aero-fighters/level4.png)
+
 The bosses are all pretty varied visually, although a few of them are a case of something that opens up into something else with loads of guns on it. Mechanically they are very similar, but they look pretty cool. The only down side to the graphics really is variation in the general enemy design. Enemy planes, choppers, tanks, and boats are pretty much all you see. There's some ground guns and some buildings that spawn enemies that can be destroyed, but when you move from one level to another very different looking level but fight the same enemies it does feel like a bit of a missed opportunity. Then the last level is set in space, for some reason, and you fly your completely normal aircraft into space, and the enemies do look different, but they're probably the most boring looking enemies in the game sadly.
+
+![One of the game's bosses](/games/aero-fighters/boss.png)
+![Another of the game's bosses](/games/aero-fighters/boss2.png)
+![Another of the game's bosses](/games/aero-fighters/boss3.png)
 
 ### Sound & music
 
