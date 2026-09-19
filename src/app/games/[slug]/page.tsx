@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import React from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import Markdown from "react-markdown";
@@ -119,6 +120,18 @@ export default async function GamePage({ params }: PageProps) {
         <Markdown
           remarkPlugins={[remarkGfm]}
           components={{
+            // A paragraph whose only content is a single <em> is a caption.
+            // CSS em:only-child can't distinguish this from inline italic
+            // (text nodes aren't CSS children), so we add the class here
+            // where React children ARE distinguishable.
+            p: ({ children }) => {
+              const arr = Array.isArray(children) ? children : [children];
+              const isCaption =
+                arr.length === 1 &&
+                React.isValidElement(arr[0]) &&
+                arr[0].type === "em";
+              return <p className={isCaption ? "caption" : undefined}>{children}</p>;
+            },
             // Click to enlarge. ZoomableImage keeps lazy loading and renders a
             // bare <img> in the flow, so the stylesheet's layout rules still
             // apply; plain <img> rather than next/image because these are local
