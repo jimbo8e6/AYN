@@ -6,7 +6,9 @@ publisher: "Mc O'River"
 released: "1993"
 region: "North America and Japan (as Sonic Wings)"
 genre: ["Action", "Shoot em up"]
-status: "upcoming"
+status: "played"
+score: 7
+verdict: "A really fun, high octane, good looking shoot em up, that will keep you entertained for an hour or two, but you'll either finish it and move on, or your thumb will fall off from smashing the Y button constantly."
 excerpt: "Aero Fighters is the second shoot em up on the list, but the first pure \"traditional\" vertical shoot em up, ported straight from the arcades."
 ---
 
