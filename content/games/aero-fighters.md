@@ -50,3 +50,8 @@ The sound was done by two different people, **Naoki Itamura** and **Masami Yaman
 **Kazuo Yagi** was the lead programmer for the game, and prior to this had worked on the NES version of *Ghosts N Goblins*. He was also credited on the 2004 GBA port of *Ghosts N Goblins*, there was then a 13 year gap before he worked on *Dragon Quest XI* as a mini game programmer, and has worked on two *Dragon Quest* games since one of which released in 2024.
 
 The people that did the design for the game all ended up working on similar **Video System** games, but nothing that stood out too much.
+
+## Box art
+
+![Aero Fighters, front cover](/games/aero-fighters/front.png)
+![Aero Fighters, rear cover](/games/aero-fighters/back.png)
