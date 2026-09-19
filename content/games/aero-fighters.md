@@ -55,3 +55,15 @@ The people that did the design for the game all ended up working on similar **Vi
 
 ![Aero Fighters, front cover](/games/aero-fighters/front.png)
 ![Aero Fighters, rear cover](/games/aero-fighters/back.png)
+
+Now this is some cool box art, it looks like it's taken straight from a movie like *Top Gun*, a jet taking off, that person that waves their arms around for whatever reason, the colour scheme, it's just all eye catching, and exactly what good box art should be.
+
+As for the back, you've got your standard 4 screenshots laid out in a square, they've gone for an interesting selection of screenshots, all bosses, and I'm pretty sure 2 of them are from the final level.
+
+There's some nice images of the characters too and some information about them, interestingly though I couldn't find a way to play as half of them in the game, I can only assume that it's for the 2 player mode if you select the same nationality.
+
+No bullet points this time, but for some reason I can't quite get my head around the text, I'm not sure why, it feels like once you get to the end that it just doesn't flow properly, and doesn't make sense. But it could just be me, I am pretty tired.
+
+Also weird that they spoil the outer space part on the back because it's played off as a "shock" moment in the very minimal story the game has.
+
+Overall I give this box a rating of - **Accurate**. It's another one that doesn't really make any promises so can't lie about anything.
