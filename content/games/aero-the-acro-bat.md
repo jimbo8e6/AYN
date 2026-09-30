@@ -67,6 +67,14 @@ What an interesting line up this time!
 ![Aero the Acro-Bat, front cover](/games/aero-the-acro-bat/front.png)
 ![Aero the Acro-Bat, back cover](/games/aero-the-acro-bat/back.png)
 
+This is an interesting one, looking at the front they've gone for something a lot of things did in the 90s, a 3D animated, CGI looking version of Aero, flying out of a cannon, with the logo above his head. Now I have to think about what I'd think in 1993, because adult me thinks it looks a bit shit. But back then those 3D looking graphics were new and shiny, and I think I'd think the front cover looked fairly cool, I don't think it would be an instant pick up and take to the counter situation, but I wonder if the back of the box will seal the deal.
+
+Here we go again with the 4 screenshots laid out in a square, they have picked 4 good ones, and I think that would be enough for me to show an interest, no bullet points here sadly, but there are a couple of issues I have with the write up. Firstly it mentions skydiving with Mode 7, and I don't recall seeing that anywhere in the game at all. I know there were some bonus levels I missed, but if it was in a missable bonus level it's a bit cheeky to advertise it on the back. But the biggest issue I have is "Spine tingling terror unfolds as AERO tackles Ektor's wicked henchmen."
+
+Why spine tingling terror? There are so many better ways of describing this game they could've used there, there is absolutely zero terror in this game whatsoever, it's not even like it's trying to be a scary game and it's not remotely scary, it's a cutesy mascot platformer. Really bizarre word usage!
+
+So with that in mind this box gets my rating of - **Slightly misleading**. It doesn't out right lie about the game's content, but it definitely had some odd choices in there.
+
 ## The Press
 
 Coming soon.
