@@ -20,13 +20,24 @@ excerpt: "We're in the full swing of the 90s mascot platformer craze here, and A
 
 **Iguana Entertainment** developed quite a few popular games in the 90s including the *Turok* series, and the N64 *South Park* games (love them or hate them), before being bought out by **Acclaim** in 1999.
 
+![Aero the Acro-Bat title screen](/games/aero-the-acro-bat/title.jpg)
+
 ### Gameplay
 
 This is a really difficult one for me, I never played it when it came out so there is zero nostalgia for me, and I know a lot of people really love this game, and I don't hate it at all, but god damn is it frustrating! It's really hard, and not in a fun way. Firstly Aero controls in a really slippery way, and a lot of the game revolves around accurate platforming. Aero builds momentum and starts moving fairly quickly, similar to *Sonic*, but without *Sonic*'s ability to damage enemies at speed, very similar to the issue I had with *Yogi Bear*, and enemies move quick too, sometimes flying in off the screen before you even have a chance to react. You can get hit multiple times, and there are health collectibles throughout the levels, but even with save states just navigating the levels could be really frustrating. The levels are really big as well, and each level has some sort of objective, which is something I do like, collect 20 stars, jump through 10 rings, find the hidden exit, but when the levels are so big it sometimes gets confusing to know where you've been and where you need to go.
 
+![The game's opening cutscene](/games/aero-the-acro-bat/opening.jpg)
+![Aero fired from a cannon](/games/aero-the-acro-bat/cannon.jpg)
+
 The game does have a lot of variety at least, it's mostly a circus setting, hence the Acro-Bat, there are diving boards that send you down into a small pool of water, bungee jumps, rollercoasters, high wire, trapeze. There's definitely plenty of moments that keep your attention which is really nice, but I found the game did start to outstay its welcome a bit by the end. Every world has 5 levels and a boss, there are 4 worlds, Circus, Funpark, Woods and Museum. The Circus and the Funpark are very similar in style, the Woods and Museum change it up a bit but the enemy variety doesn't really change until the very last level, and as I mentioned the levels are long, so by the time you've done the 5th level fighting the same enemies, you're ready for a change.
 
+![A carousel level](/games/aero-the-acro-bat/carousel.png)
+![A unicycle level](/games/aero-the-acro-bat/unicycle.png)
+
 There is some insane difficulty spikes in the rollercoaster style levels too, think *Battletoads* on the NES and the auto scrolling section, you have to remember patterns of ducking and jumping instant death spike towers, and you don't just do it for a minute or two, it's the full level. Without save states I would've given up long before the end.
+
+![The rollercoaster level](/games/aero-the-acro-bat/rollercoaster.png)
+![One of the game's levels](/games/aero-the-acro-bat/level.jpg)
 
 I haven't even started on the jumping. The game has a double jump, kind of, it works as your attack and has you do a diagonal screw attack when you press jump when you're in the air. You can either go at an angle upwards, or downwards, but it's a set distance and path, so to use it to reach platforms above that are sometimes a single block wide, is insanely difficult, then imagine having to do that while you're riding a raft on lava that kills you instantly, while also avoiding fireballs bouncing around, oh, and the raft is moving the same speed as the rollercoaster. Then imagine using that jump on the final boss of the game that requires you to continually move up the level while a laser below you continually rises, meaning if you're not fast enough you're dead. It's a fun idea, but it just goes on and on, you climb, fight the boss, climb again but this time the boss is spawning enemies, fight again, climb again, then fight again final time at the top. The whole thing must last 10 minutes at least, which might not seem like much, but that's with continual save states. If you had to deal with dying and going back to the start you'd be there a lot longer.
 
@@ -40,7 +51,12 @@ This is something the game does very well, it's bright, colourful, well animated
 
 The graphics are definitely this game's highlight, especially the animations, get too close to an edge and Aero will wobble backwards and forwards, jumping out of water and he'll do a cool flip, this was the era of edgy cool mascots and they wanted him to be the next big thing, and they definitely got that side of things right.
 
+![Aero wobbling at the edge of a platform](/games/aero-the-acro-bat/edge_animation.jpg)
+![The Keith Flint-looking enemy](/games/aero-the-acro-bat/keith_flint_enemy.png)
+
 The enemies, while not exactly varied, are nicely detailed, with small clowns, Keith Flint clowns, fire breathers that remove their mask before spitting fire at you, clowns flying above you on little helicopters, they all look good, even when they frustrate the hell out of me.
+
+![A clown enemy](/games/aero-the-acro-bat/enemy.jpg)
 
 The levels look great as well, again, they do grow a bit old after 5 levels, but there's no denying the theme of the game visually is on point.
 
