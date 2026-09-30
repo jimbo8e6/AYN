@@ -8,6 +8,9 @@ region: "North America and Europe"
 genre: ["Platformer"]
 status: "played"
 score: 6
+youtube:
+  - id: "utp4cJuiW38"
+    label: "The most 90's TV advert for a video game you'll ever see"
 verdict: "I wish I liked this game more, I love the style, and the graphics, and what they tried to do deserves credit, but the gameplay was just too much and I wonder how many of those really positive reviews actually completed the game! Hopefully the sequel will fix some of the things I didn't like."
 excerpt: "We're in the full swing of the 90s mascot platformer craze here, and Aero the Acro-Bat was Sunsoft's attempt at creating a new Sonic or Mario. Some great touches, but does it hang with the big boys?"
 ---
