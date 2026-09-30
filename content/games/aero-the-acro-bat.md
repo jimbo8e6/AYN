@@ -52,7 +52,7 @@ This is something the game does very well, it's bright, colourful, well animated
 The graphics are definitely this game's highlight, especially the animations, get too close to an edge and Aero will wobble backwards and forwards, jumping out of water and he'll do a cool flip, this was the era of edgy cool mascots and they wanted him to be the next big thing, and they definitely got that side of things right.
 
 ![Aero wobbling at the edge of a platform](/games/aero-the-acro-bat/edge_animation.jpg)
-![The Keith Flint-looking enemy](/games/aero-the-acro-bat/keith_flint_enemy.png)
+![Keith Flint quietly considers starting a fire](/games/aero-the-acro-bat/keith_flint_enemy.png)
 
 The enemies, while not exactly varied, are nicely detailed, with small clowns, Keith Flint clowns, fire breathers that remove their mask before spitting fire at you, clowns flying above you on little helicopters, they all look good, even when they frustrate the hell out of me.
 
