@@ -64,7 +64,8 @@ What an interesting line up this time!
 
 ## Box art
 
-Coming soon.
+![Aero the Acro-Bat, front cover](/games/aero-the-acro-bat/front.png)
+![Aero the Acro-Bat, back cover](/games/aero-the-acro-bat/back.png)
 
 ## The Press
 
