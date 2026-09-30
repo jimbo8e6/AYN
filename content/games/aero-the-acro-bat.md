@@ -48,7 +48,19 @@ And now we fall right back down again, I hope you like circus music on repeat fo
 
 ## The People
 
-Coming soon.
+Let's start with the music, because it's an odd one! Sound Effects and music were simply credited to **Fox Productions**, which after a bit of digging that it was the name used by **Rick Fox** for his work on video game soundtracks. He did the soundtrack for this, the spin off game *Zero the Kamikaze Squirrel* (yes, that is the name of the game, and yes it will be a long time before I get to it!) *Pirates of Dark Water* for the Genesis/Mega Drive and *NBA Jam*. He also played keyboards for **David Bowie** on the 1990 Sound and Vision tour. Just casually throwing that in there. That's such a bizarre link and one of the reasons I love looking into the people behind the games, he's obviously a skilled musician, just a shame that didn't really show here.
+
+The character design was something I said I quite liked, and three people worked on it here, **David Siller**, **Justin Siller**, and **Nigel Cook**. **David Siller** created the design of Aero himself, and worked on the sequel, and the GBA version. He was also credited as the Executive Producer for this game and that's where he continued to push forward mostly. He was executive producer on *ACME Animation Factory* that I already reviewed, and moved on to be producer for *Crash Bandicoot* on PS1.
+
+**Justin Siller**, who I assume is **David**'s brother did the art and design for this and its sequel and spin off among other games, nothing too stand out, he also did a lot of QA testing but fell off the radar in the mid 00s.
+
+Finally **Nigel Cook** worked art and design in a lot of games including *Turok* and *Turok 2*, he also got into production and was Vice President of Product Development and Design for the *Turok 2* rerelease in 2017, and VP and General Manager for the *Turok 3* remaster in 2023.
+
+6 people were credited on the programming for Aero, most worked on similar **Iguana** developed projects like *Turok*, one interesting find was **Jeff Spangenberg** who was Executive Producer for a controversial game in 2004 called *The Guy Game*. The reason for the "game's" controversy is that it was essentially an adults only trivia game with real footage of "spring break" girls flashing if you got the questions right. Unfortunately for everyone involved it turned out at least one of the girls doing this was a minor. So yeah, pretty gross, and *Aero the Acro-Bat* is linked by one degree of **Kevin Bacon** to it.
+
+**David Brevik** also did some programming and has a much cooler link, he went on to become senior designer for *Diablo*, Project and Design Lead in *Diablo II*, got a very special thanks credit in *Diablo III*, and is still working in the industry today! With not an underage boob in sight.
+
+What an interesting line up this time!
 
 ## Box art
 
