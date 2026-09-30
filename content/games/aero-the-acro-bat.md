@@ -8,7 +8,7 @@ region: "NA and PAL"
 players: "1 player"
 genre: ["Platformer", "Mascot"]
 status: "upcoming"
-excerpt: "A circus-themed mascot platformer from the exact centre of the attitude era."
+excerpt: "We're in the full swing of the 90s mascot platformer craze here, and Aero the Acro-Bat was Sunsoft's attempt at creating a new Sonic or Mario. Some great touches, but does it hang with the big boys?"
 ---
 
 ## The Game
