@@ -77,4 +77,46 @@ So with that in mind this box gets my rating of - **Slightly misleading**. It do
 
 ## The Press
 
-Coming soon.
+*GamePro*:
+
+> It's big fun under the big top with Aero the Acro-Bat, a bodacious, high-flying bat in an above-average platform product. Sunsoft converted the Genesis version to the SNES, enhancing the graphics and sound, and adding a mod Mode 7 bonus stage.
+>
+> **4.5/5**
+
+*Computer and Video Games*:
+
+> Normally, lots of object interaction in a platform game means a puzzle orientated adventure. Not so with Aero. This is an action platform game. Balanced with the crucial ingredients of variety, humour and a strong central character, it's rough and cute at the same time, while being huge and unmanageable with it. At first it seems to be quite basic stuff, but you soon discover a range of creative stages which make Aero all worth while. If you're good you might even reach the hilarious Bungee stage! Recommended.
+>
+> **88/100**
+
+*Super Play*:
+
+> The graphics are very simple but very effective, with some lovely touches. Aero's buggy eyes when he dies are worth watching out for, as are many of the well animated mobile baddies. The graphics improve vastly the further into the game you get, with such levels as the roller-coaster and the woods looking very nice indeed. Overall verdict: A strange one, but once you give it a chance you'll be hooked. Aero handles well and you'll learn to live with the tricky, but cavernous, early levels. What puts it in the "very good" league is its sheer size and variety. Just when you're bored with a game-type, it's gone and there's something new there.
+>
+> **84/100**
+
+*Electronic Gaming Monthly*:
+
+> It's very difficult to come into the market with a great platform game, but Sunsoft's Aero is a rare gem. This has some of the most impressive graphics I've seen. The near-perfect calliope music really sets the tone of the game and get you into it as well. There are tons of out-of-the-way areas to get to and find. The gameplay is very good and responsive with his double-jump-spin attack. I dig this game!
+>
+> **33/40**
+
+*GamesMaster*:
+
+> Congratulations! You're the SNES' one thousandth platform game! You win a slightly more generous mark than you really deserve, by virtue of being sneakily lovable, albeit in a 'so-average-it-hurts' kind of a way. Hurrah, hurrah!
+>
+> **79/100**
+
+*Game Players*:
+
+> Sunsoft's mascot character is a daredevil bat who performs amazing feats while fighting off foes in the Big Top. Great graphics and animation are the highlight.
+>
+> **76/100**
+
+*Digitiser*:
+
+> Later stages put Mode 7 to work, and see you leaping into a bucket of water Pilotwings-style, performing a bungee jump from a bridge, and trotting around a turpentine truss. But by this time, you'd probably have given up on the whole affair. A shame, as at heart this fellow's a cracker.
+>
+> **76/100**
+
+Definitely the most reviews I've had for a game by far, and mostly very positive, although I did see reviews for the rereleases on switch and PS4 and they weren't quite as favourable, we just expect so much more now.
