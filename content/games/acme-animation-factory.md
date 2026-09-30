@@ -2,7 +2,7 @@
 title: "ACME Animation Factory"
 sortTitle: "ACME Animation Factory"
 developer: "Probe Software"
-publisher: "Sun Corporation of America"
+publisher: "Sunsoft"
 released: "1994"
 region: "North America and Europe"
 genre: ["Educational", "Licensed"]
