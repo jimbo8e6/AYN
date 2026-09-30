@@ -12,6 +12,8 @@ excerpt: "We're in the full swing of the 90s mascot platformer craze here, and A
 
 ## The Game
 
+![Aero the Acro-Bat logo](/games/aero-the-acro-bat/logo.png)
+
 Coming soon.
 
 ### Gameplay
