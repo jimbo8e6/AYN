@@ -100,6 +100,8 @@ So with that in mind this box gets my rating of - **Slightly misleading**. It do
 
 ## The Press
 
+![Aero the Acro-Bat magazine advert](/games/aero-the-acro-bat/advert.png)
+
 *GamePro*:
 
 > It's big fun under the big top with Aero the Acro-Bat, a bodacious, high-flying bat in an above-average platform product. Sunsoft converted the Genesis version to the SNES, enhancing the graphics and sound, and adding a mod Mode 7 bonus stage.
