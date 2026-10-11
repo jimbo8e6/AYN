@@ -2,6 +2,7 @@
 title: "Aero the Acro-Bat 2"
 sortTitle: "Aero the Acro-Bat 2"
 status: "upcoming"
+excerpt: "Aero the Acrobat 2 is, unsurprisingly, the sequel to Aero the Acrobat, more edgy 90s mascot platforming, but does it improve on the low points of the previous game?"
 ---
 
 ## The Game
