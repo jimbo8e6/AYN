@@ -12,7 +12,7 @@ excerpt: "Aero the Acrobat 2 is, unsurprisingly, the sequel to Aero the Acrobat,
 
 ## The Game
 
-Coming soon.
+![Aero the Acro-Bat 2 logo](/games/aero-the-acro-bat-2/logo.png)
 
 ### Gameplay
 
