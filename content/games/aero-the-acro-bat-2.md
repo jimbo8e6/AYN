@@ -91,6 +91,8 @@ So because of that last one I'll drop it from Accurate to **Mostly Accurate**, c
 
 ## The Press
 
+![Aero the Acro-Bat 2 magazine advert](/games/aero-the-acro-bat-2/advert.jpg)
+
 *GameFan Magazine*:
 
 > Everything I said about the Sega version applies here. Except...this version has great music! Same Company...not the same music. The SNES also provides a lot more color. Finally, a SNES platformer that out-does the Sega one.
