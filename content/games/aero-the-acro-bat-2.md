@@ -65,4 +65,28 @@ So because of that last one I'll drop it from Accurate to **Mostly Accurate**, c
 
 ## The Press
 
-Coming soon.
+*GameFan Magazine*:
+
+> Everything I said about the Sega version applies here. Except...this version has great music! Same Company...not the same music. The SNES also provides a lot more color. Finally, a SNES platformer that out-does the Sega one.
+>
+> **95/100**
+
+*GamePro* (Genesis Review):
+
+> The original Aero was a blast to play. With the new visual look, new moves and an overall new feel, Aero 2 makes you feel like you're playing a completely different character altogether. If you were a fan of the first Aero, you're sure to enjoy this nicely improved sequel. Batter up!
+>
+> **4/5**
+
+*Electronic Gaming Monthly* (Genesis Review):
+
+> Aero 2 is a good action game for the Genesis. It looks good and plays well. It may lack the variety that *Zero the Kamikaze Squirrel* has, but this one is still very decent. The control has been tweaked somewhat from the original game. The audio is easy to listen to and above average. If you've been looking for an action title on the Genesis, you might want to try checking out Aero 2. I enjoyed this one.
+>
+> **31/40**
+
+*Game Players* (Genesis Review):
+
+> All in all, Aero II isn't that bad. To be totally honest, I don't think I would shell out 50 bucks for this one if I was on a budget, but it is worth a rental on a rainy day.
+>
+> **70/100**
+
+Had to go with a couple of Genesis/Mega Drive reviews for this one, there wasn't too much available for the SNES version.
