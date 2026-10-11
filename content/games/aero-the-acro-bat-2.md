@@ -44,7 +44,8 @@ As I thought, there isn't really much more to say here, if you want to know who 
 
 ## Box art
 
-Coming soon.
+![Aero the Acro-Bat 2, front cover](/games/aero-the-acro-bat-2/front.png)
+![Aero the Acro-Bat 2, back cover](/games/aero-the-acro-bat-2/back.png)
 
 ## The Press
 
