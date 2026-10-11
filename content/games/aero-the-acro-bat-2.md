@@ -47,6 +47,22 @@ As I thought, there isn't really much more to say here, if you want to know who 
 ![Aero the Acro-Bat 2, front cover](/games/aero-the-acro-bat-2/front.png)
 ![Aero the Acro-Bat 2, back cover](/games/aero-the-acro-bat-2/back.png)
 
+Strong start with the front of the box, cool mascot character front and centre, cool looking enemy just behind, throw in some gears and some musical instruments for some reason and you're good to go! Okay so it's maybe not as good the longer you look, but it's definitely eye catching, and would've been something I went to look at in the video store, just the surrounding details that are a bit odd. The art is nice and Aero looks so much better there than he does in the "cut scenes".
+
+The back brings back my favourite feature, bullet points! You've also got your standard 4 screenshots, with a good selection of shots, and I like how they're laid out, much more spread out than usual surrounding the main villain of the game who I think has a pretty decent design. Let's look at the bullet points and see what the game claims to offer.
+
+- **45 levels of wild acrobatic fun including: Bonus rounds, chance stages, and hidden chambers.** - *I didn't count I'll be honest, but it sounds about right. There are bonus rounds, follow the cup chance stages, and hidden bonus levels too, so that's all very accurate.*
+
+- **New villains and original digitised character voices.** - *Now this is odd, because I can't actually remember digitised voices, and it makes me think I either missed it with the volume down, or it happens at the very start and I forgot, so I feel like this one might be on me and so I won't hold it against the box, unless I find out at a later date that it's BS, then I'll be back!*
+
+- **Password feature allows you to return to any level!** - *That is certainly a feature, although at this point it should hardly be an advertised on the back of the box feature, if your game doesn't have saves then a password should be a given.*
+
+- **Chillin' snowboarding stage adds a new twist to Aero's style.** - *The closest thing to an auto scroller level this game had but it was so much more enjoyable and less stressful.*
+
+- **New moves and fighting techniques for Aero's attacks.** - *I think you could screw attack straight down in this rather than always at an angle, but I never managed it, could be on me again, but as far as I know that was the only new attack move, so advertising "moves" and "techniques" might be a bit of a stretch.*
+
+So because of that last one I'll drop it from Accurate to **Mostly Accurate**, can't pull the wool over my eyes at the last minute **Iguana**!
+
 ## The Press
 
 Coming soon.
