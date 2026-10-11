@@ -8,6 +8,11 @@ region: "North America and Europe"
 genre: ["Platformer"]
 status: "played"
 score: 7
+youtube:
+  - id: "8PxIVB2Yw9I"
+    label: "The intro to Aero the Acrobat 2. All credit to RetroNick on Youtube"
+  - id: "udfqaUHCuR4"
+    label: "10 minutes of gameplay. All credit to Socke on Youtube"
 verdict: "An obvious improvement over the original in almost every way, yet for some reason still not something I'd go back to, or consider a classic SNES platformer, and I can't really put my finger on why."
 excerpt: "Aero the Acrobat 2 is, unsurprisingly, the sequel to Aero the Acrobat, more edgy 90s mascot platforming, but does it improve on the low points of the previous game?"
 ---
