@@ -40,7 +40,7 @@ The soundtrack is miles better for this game, over an hour long with 18 tracks d
 
 ## The People
 
-Coming soon.
+As I thought, there isn't really much more to say here, if you want to know who was behind this game check out the review I did for *Aero the Acro-Bat* if you haven't already because it's pretty much all the same people, including **Fox Productions** on the music, and all I can think is he had a lot more time to create the soundtrack to this game than he did for the first game.
 
 ## Box art
 
