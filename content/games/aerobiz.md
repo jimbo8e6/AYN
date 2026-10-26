@@ -45,6 +45,20 @@ The opening credits of the game just lists the various licenses they have for th
 ![Aerobiz, front cover](/games/aerobiz/front.png)
 ![Aerobiz, back cover](/games/aerobiz/back.png)
 
+Now, as much as I love this box art today, 6 year old me would not have been remotely interested in a game showing a business man answering a phone looking out an office window. It wouldn't sell it to me at the time, but now there's so much here that I love. The actual art is quite nicely done, the plane is nicely detailed due to the fact it's about ten feet from the window, and I love that this man appears to be working in New York, but can look out of his office window and see Paris, Tokyo, London and Moscow. So much to look at here and that's what I love to see.
+
+As for the back, we've got our usual 4 screenshots, and they're about as good as any could be for a strategy game like this, they need to sell the different situations that can come up more than the gameplay and it does that nicely. The written description on the back is clear and accurately describes the game nicely, and we have my favourite. Bullet points!
+
+- **1-4 Player competition** - *completely accurate, I just wish I was able to try it out.*
+
+- **Buy and sell aircraft** - *again, accurate, maybe slightly scraping the bottom of the barrel of selling points here though.*
+
+- **Expand around the globe** - *Yup, also pretty much covered in the actual aim of the game, but sure!*
+
+- **Realistic business strategy** - *I'll give it this one, I'm not a businessman, I can't say what's realistic and what's not but I spent quite a lot of time in boardroom meetings so I feel like it's realistic.*
+
+Overall I give this box my rating of - **Accurate**, even if some of the bullet points were fairly self explanatory.
+
 ## The Press
 
 Coming soon.
