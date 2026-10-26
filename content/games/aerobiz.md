@@ -8,6 +8,9 @@ region: "North America and Japan"
 genre: ["Strategy"]
 status: "played"
 score: 7
+youtube:
+  - id: "fXHx7RiCUAcsUro2"
+    label: "The intro to Aerobiz. All credit to RetroNick on Youtube"
 verdict: "A nice little hidden gem for the SNES. Not everyone's cup of tea sure, but I love games like this and I did enjoy it. I will agree slightly with a couple of the lower reviews that it maybe isn't quite \"fun\" enough. Games like Theme Park and Sim City have the edge there. But it's a good time for a game or two."
 excerpt: "Aerobiz is a strategy game, we've broken away from the platformers and let the king of strategy games **Koei** take the reigns on a...Airport management simulator? turns out the SNES does have quite a varied library after all!"
 ---
