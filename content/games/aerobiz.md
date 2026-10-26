@@ -42,7 +42,8 @@ The opening credits of the game just lists the various licenses they have for th
 
 ## Box art
 
-Coming soon.
+![Aerobiz, front cover](/games/aerobiz/front.png)
+![Aerobiz, back cover](/games/aerobiz/back.png)
 
 ## The Press
 
