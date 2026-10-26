@@ -6,7 +6,7 @@ status: "upcoming"
 
 ## The Game
 
-Coming soon.
+![Aerobiz logo](/games/aerobiz/logo.png)
 
 ### Gameplay
 
