@@ -36,7 +36,9 @@ There isn't much to talk about in the way of sound, but the music in the game is
 
 ## The People
 
-Coming soon.
+Now this is a weird one, the only person I can find credited on this is the game's producer **Kou Shibusawa**. He was one of the co-founders of **Koei**, and has worked on over 100 games as a producer but also was behind the story of 2017's souls like *Nioh*.
+
+The opening credits of the game just lists the various licenses they have for the planes in the game, and the ending is just a series of digitised images of planes while music plays. There just doesn't seem to be any credits anywhere for it. If you know of any, or if **Mr Shibusawa** is reading this, if you'd like to drop me a list of the people that worked on this obscure SNES version of a PC strategy game from 34 years ago that would be great!
 
 ## Box art
 
