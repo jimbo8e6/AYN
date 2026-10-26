@@ -61,4 +61,22 @@ Overall I give this box my rating of - **Accurate**, even if some of the bullet 
 
 ## The Press
 
-Coming soon.
+*Electronic Games*:
+
+> AeroBiz is sure to bring out the managerial wizard in each player. It combines strategy and real-life business practices while remaining fun.
+>
+> **86/100**
+
+*Super Play*:
+
+> Aerobiz looks good, with little pictures appearing when something happens - a little plane takes off and lands in Mode 7 every time you open a new route, that sort of thing. In fact the game has Super Nintendo written all over it (three times on the box, and twice on the cartridge, if you count). But there is a problem: there just isn't enough to do. The trouble I had was that I spent my first few goes opening as many routes as possible As a result I took more money and more passengers than my competitors, and yet I made considerably less profit. It transpires that it's better to limit your routes - concentrate on flights in and out of just one country, say. So if you play the game properly, you'll spend most of your time nurturing your existing routes rather than making any major changes to your enterprise. Sure, this is how real businesses are run, but it's all a bit boring really, isnt it?
+>
+> **69/100**
+
+*Digitiser*:
+
+> Let's be honest. The only people who are going to enjoy this are the sort you see milling around the spectators' gallery at Gatwick with a grubby copy of "Polish Air Freight 1956-72" and a large banner reading: "I have absolutely no friends whatsoever."
+>
+> **2/5**
+
+Oof, that last one hurt. Cheers Biffo!
